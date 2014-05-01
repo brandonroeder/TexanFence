@@ -8,6 +8,11 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface SWUITableViewCell : UITableViewCell
+@property (nonatomic) IBOutlet UILabel *label;
+
+@end
+
+@interface MenuViewController : UITableViewController
 
 @end
