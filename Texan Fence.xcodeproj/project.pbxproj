@@ -29,6 +29,7 @@
 		CA6F09F61911D99C00213E6F /* QuoteViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CA6F09F51911D99C00213E6F /* QuoteViewController.m */; };
 		CA6F09F91911DCC400213E6F /* reveal-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = CA6F09F71911DCC400213E6F /* reveal-icon.png */; };
 		CA6F09FA1911DCC400213E6F /* reveal-icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CA6F09F81911DCC400213E6F /* reveal-icon@2x.png */; };
+		CA6F09FD1911F22700213E6F /* SpecialsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CA6F09FC1911F22700213E6F /* SpecialsViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -75,6 +76,8 @@
 		CA6F09F51911D99C00213E6F /* QuoteViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QuoteViewController.m; sourceTree = "<group>"; };
 		CA6F09F71911DCC400213E6F /* reveal-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "reveal-icon.png"; sourceTree = "<group>"; };
 		CA6F09F81911DCC400213E6F /* reveal-icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "reveal-icon@2x.png"; sourceTree = "<group>"; };
+		CA6F09FB1911F22700213E6F /* SpecialsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpecialsViewController.h; sourceTree = "<group>"; };
+		CA6F09FC1911F22700213E6F /* SpecialsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SpecialsViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,6 +140,8 @@
 				CA6F09BE1911D3FC00213E6F /* AppDelegate.h */,
 				CA6F09BF1911D3FC00213E6F /* AppDelegate.m */,
 				CA6F09C11911D3FC00213E6F /* Main.storyboard */,
+				CA6F09FB1911F22700213E6F /* SpecialsViewController.h */,
+				CA6F09FC1911F22700213E6F /* SpecialsViewController.m */,
 				CA6F09F41911D99C00213E6F /* QuoteViewController.h */,
 				CA6F09F51911D99C00213E6F /* QuoteViewController.m */,
 				CA6F09C41911D3FC00213E6F /* MenuViewController.h */,
@@ -298,6 +303,7 @@
 			files = (
 				CA6F09EA1911D7FB00213E6F /* ContactViewController.m in Sources */,
 				CA6F09C61911D3FC00213E6F /* MenuViewController.m in Sources */,
+				CA6F09FD1911F22700213E6F /* SpecialsViewController.m in Sources */,
 				CA6F09C01911D3FC00213E6F /* AppDelegate.m in Sources */,
 				CA6F09BC1911D3FC00213E6F /* main.m in Sources */,
 				CA6F09E71911D49500213E6F /* SWRevealViewController.m in Sources */,

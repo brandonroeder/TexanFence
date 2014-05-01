@@ -24,8 +24,6 @@
         UILabel* c = [(SWUITableViewCell *)sender label];
         HomeViewController* cvc = segue.destinationViewController;
         
-        cvc.color = c.textColor;
-        cvc.text = c.text;
     }
     
     // configure the segue.
@@ -66,24 +64,24 @@
     switch ( indexPath.row )
     {
         case 0:
-            CellIdentifier = @"Home";
+            CellIdentifier = @"home";
             break;
             
         case 1:
-            CellIdentifier = @"Services";
+            CellIdentifier = @"services";
             break;
             
         case 2:
-            CellIdentifier = @"Gallery";
+            CellIdentifier = @"gallery";
             break;
         case 3:
-            CellIdentifier = @"Specials";
+            CellIdentifier = @"specials";
             break;
         case 4:
-            CellIdentifier = @"Quote";
+            CellIdentifier = @"quote";
             break;
         case 5:
-            CellIdentifier = @"Contact";
+            CellIdentifier = @"contact";
             break;
             
     }
