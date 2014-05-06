@@ -180,7 +180,9 @@
                     </view>
                     <toolbarItems/>
                     <navigationItem key="navigationItem" title="Home" id="uyd-Vm-hmC">
-                        <barButtonItem key="leftBarButtonItem" image="reveal-icon.png" id="cqL-CR-iGz"/>
+                        <barButtonItem key="leftBarButtonItem" image="reveal-icon.png" id="cqL-CR-iGz">
+                            <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        </barButtonItem>
                     </navigationItem>
                     <simulatedToolbarMetrics key="simulatedBottomBarMetrics"/>
                     <connections>
@@ -228,7 +230,9 @@ Scott – scott@texanfence.com
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
                     <navigationItem key="navigationItem" title="Contact" id="ANU-39-aqC">
-                        <barButtonItem key="leftBarButtonItem" image="reveal-icon.png" id="RaA-oF-Juo"/>
+                        <barButtonItem key="leftBarButtonItem" image="reveal-icon.png" id="RaA-oF-Juo">
+                            <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        </barButtonItem>
                     </navigationItem>
                     <connections>
                         <outlet property="mapView" destination="tg7-et-DXU" id="HHu-8g-4y0"/>
@@ -268,7 +272,9 @@ Scott – scott@texanfence.com
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
                     <navigationItem key="navigationItem" title="Gallery" id="xkM-kx-eVb">
-                        <barButtonItem key="leftBarButtonItem" image="reveal-icon.png" id="Dd2-1b-0Ue"/>
+                        <barButtonItem key="leftBarButtonItem" image="reveal-icon.png" id="Dd2-1b-0Ue">
+                            <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        </barButtonItem>
                     </navigationItem>
                     <connections>
                         <outlet property="revealButton" destination="Dd2-1b-0Ue" id="Ig5-Jp-Ye8"/>
@@ -292,7 +298,9 @@ Scott – scott@texanfence.com
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
                     <navigationItem key="navigationItem" title="Services" id="xdB-PI-fUN">
-                        <barButtonItem key="leftBarButtonItem" image="reveal-icon.png" id="clT-9e-eMj"/>
+                        <barButtonItem key="leftBarButtonItem" image="reveal-icon.png" id="clT-9e-eMj">
+                            <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        </barButtonItem>
                     </navigationItem>
                     <connections>
                         <outlet property="revealButton" destination="clT-9e-eMj" id="fup-l1-n3e"/>
@@ -323,6 +331,7 @@ Scott – scott@texanfence.com
                     </view>
                     <navigationItem key="navigationItem" title="Quote" id="kwz-Yk-58m">
                         <barButtonItem key="leftBarButtonItem" image="reveal-icon.png" id="E6d-CE-Zkg">
+                            <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                             <connections>
                                 <action selector="revealButton:" destination="zB2-al-pHS" id="ABg-tH-5B7"/>
                             </connections>
@@ -352,7 +361,9 @@ Scott – scott@texanfence.com
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
                     <navigationItem key="navigationItem" title="Specials" id="7p2-VT-gsw">
-                        <barButtonItem key="leftBarButtonItem" image="reveal-icon.png" id="JbD-nA-ReO"/>
+                        <barButtonItem key="leftBarButtonItem" image="reveal-icon.png" id="JbD-nA-ReO">
+                            <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        </barButtonItem>
                     </navigationItem>
                     <connections>
                         <outlet property="revealButton" destination="JbD-nA-ReO" id="0Ia-TV-Omz"/>

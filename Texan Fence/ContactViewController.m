@@ -8,7 +8,6 @@
 
 #import "ContactViewController.h"
 #import "SWRevealViewController.h"
-#import <GoogleMaps/GoogleMaps.h>
 
 #define METERS_PER_MILE 1609.344
 
