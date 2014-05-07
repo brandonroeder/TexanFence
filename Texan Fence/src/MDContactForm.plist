@@ -5,13 +5,13 @@
 	<key>MDContactForm_Title</key>
 	<string>Request a Quote</string>
 	<key>MDContactForm_Message</key>
-	<string>Please fill out the following form and we&apos;ll get in touch soon! Thank you for your feedback!</string>
+	<string>Please fill out the following form and we&apos;ll get in touch soon! Thank you for choosing Texan Fence!</string>
 	<key>MDContactForm_SubmitTitle</key>
 	<string>Submit!</string>
 	<key>MDContactForm_SubmitURL</key>
 	<string>http://www.brandonsroeder.com/submit.php</string>
 	<key>MDContactForm_SubmitSuccessMessage</key>
-	<string>Thank you for your feedback! We really appreciate it!</string>
+	<string>Thank you for requesting a quote! We will be in touch soon!</string>
 	<key>MDContactForm_SubmitFailed</key>
 	<string>Sorry! Looks like we can&apos;t access the server to submit the form right now. Please try again later.</string>
 	<key>MDContactForm_Items</key>
@@ -58,9 +58,9 @@
 			<key>MDContactForm_InputType</key>
 			<integer>1</integer>
 			<key>MDContactForm_InputDisplayName</key>
-			<string>Comments</string>
+			<string>Quote Summary</string>
 			<key>MDContactForm_InputIdentifier</key>
-			<string>comments</string>
+			<string>summary</string>
 			<key>MDContactForm_InputRequired</key>
 			<true/>
 			<key>MDContactForm_InputHeight</key>
