@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		54800626EB254927AB17364A /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 37CEB668E1B4424DB45581CB /* libPods.a */; };
+		CA1B62FC191A19D000315AAF /* Arbutus-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CA1B62FB191A19D000315AAF /* Arbutus-Regular.ttf */; };
 		CA1C9A2C19125D81009A694C /* whiteBtn.png in Resources */ = {isa = PBXBuildFile; fileRef = CA1C9A2219125D81009A694C /* whiteBtn.png */; };
 		CA1C9A2D19125D81009A694C /* whiteBtn@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CA1C9A2319125D81009A694C /* whiteBtn@2x.png */; };
 		CA1C9A2E19125D81009A694C /* MDTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = CA1C9A2619125D81009A694C /* MDTextField.m */; };
@@ -83,6 +84,7 @@
 /* Begin PBXFileReference section */
 		37CEB668E1B4424DB45581CB /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C444BF01D6E401F813A9A9C /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
+		CA1B62FB191A19D000315AAF /* Arbutus-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Arbutus-Regular.ttf"; sourceTree = "<group>"; };
 		CA1C9A2219125D81009A694C /* whiteBtn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = whiteBtn.png; sourceTree = "<group>"; };
 		CA1C9A2319125D81009A694C /* whiteBtn@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "whiteBtn@2x.png"; sourceTree = "<group>"; };
 		CA1C9A2519125D81009A694C /* MDTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MDTextField.h; sourceTree = "<group>"; };
@@ -326,6 +328,7 @@
 		CA6F09B61911D3FC00213E6F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CA1B62FB191A19D000315AAF /* Arbutus-Regular.ttf */,
 				CA4C98B2191A15A900653D5D /* Icons */,
 				CA6AE8F21919CCD6001B9BC6 /* logo.png */,
 				CA6AE8EC1919B81A001B9BC6 /* Decks.png */,
@@ -480,6 +483,7 @@
 				CA4C98CB191A15A900653D5D /* AppIcon57x57@2x.png in Resources */,
 				CA4C98C7191A15A900653D5D /* AppIcon40x40@2x.png in Resources */,
 				CA4C98CA191A15A900653D5D /* AppIcon57x57.png in Resources */,
+				CA1B62FC191A19D000315AAF /* Arbutus-Regular.ttf in Resources */,
 				CA1C9A3B19126F60009A694C /* top.png in Resources */,
 				CA1C9A3019125D81009A694C /* MDContactForm.plist in Resources */,
 				CA4C98CE191A15A900653D5D /* AppIcon72x72.png in Resources */,

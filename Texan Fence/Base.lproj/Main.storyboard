@@ -403,7 +403,7 @@ scott@texanfence.com
                                         <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Commerical" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="CDc-Wh-TJ9">
                                             <rect key="frame" x="20" y="11" width="116" height="21"/>
                                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                            <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="17"/>
                                             <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                             <nil key="highlightedColor"/>
                                         </label>
@@ -495,7 +495,7 @@ scott@texanfence.com
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                 <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
-                                <mutableString key="text">Fences can be offered in various materials and accompanying styles.  The most common materials are:
+                                <string key="text">Fences can be offered in various materials and accompanying styles.  The most common materials are:
 
 -Chain link
 -Vinyl
@@ -516,7 +516,7 @@ A home owner will usually name one or all of the following benefits for having a
 Fences as Part of the Landscape and Design
 As craftsmanship and new materials have improved, fencing has become more than just a way to offer security for the yard.  A wooden fence can actually be designed to match the architectural features of the home.  Wood can be easily painted to match the house or complement a particular color.  Metal and vinyl fences are also offered in a broad range of colors and styles to meet almost every style and taste.  This allows a homeowner to customize their fence and make it as unique as their home.
 
-</mutableString>
+</string>
                                 <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -550,7 +550,8 @@ As craftsmanship and new materials have improved, fencing has become more than j
                                 <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
-                                <mutableString key="text">Fences can be a great feature for businesses.  The same advantages for homes, such as privacy, security and value can aid a business.  Here are just a few examples of the types of businesses that can benefit from a quality fence:
+                                <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                <string key="text">Fences can be a great feature for businesses.  The same advantages for homes, such as privacy, security and value can aid a business.  Here are just a few examples of the types of businesses that can benefit from a quality fence:
 
 • Florist or local greenhouse
 • used car dealer
@@ -564,7 +565,7 @@ As craftsmanship and new materials have improved, fencing has become more than j
 • Automotive repair shop
 If you are looking for a way to make your business stand out from the competition, a good fence can be a great asset.  It can aid you in numerous ways and help you get a good return on your investment if you decide to sell later on.
 
-</mutableString>
+</string>
                                 <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
