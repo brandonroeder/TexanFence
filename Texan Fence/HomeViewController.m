@@ -129,14 +129,15 @@
     
     MHGalleryItem *photo19 = [MHGalleryItem.alloc initWithURL:@"http://texanfence.com/wp-content/uploads/2013/11/IMG_9024-e13843176728101.jpg"
                                                        galleryType:MHGalleryTypeImage];
-    MHGalleryItem *Fencing = [MHGalleryItem.alloc initWithURL:[[NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"Fencing" ofType:@"png"]] absoluteString]
-                                                  galleryType:MHGalleryTypeImage];
-    MHGalleryItem *Repair = [MHGalleryItem.alloc initWithURL:[[NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"Repair" ofType:@"png"]] absoluteString]
-                                                  galleryType:MHGalleryTypeImage];
-
-    MHGalleryItem *Decks = [MHGalleryItem.alloc initWithURL:[[NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"Decks" ofType:@"png"]] absoluteString]
-                                                     galleryType:MHGalleryTypeImage];
-
+    
+//    MHGalleryItem *Fencing = [MHGalleryItem.alloc initWithURL:[[NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"Fencing" ofType:@"png"]] absoluteString]
+//                                                  galleryType:MHGalleryTypeImage];
+//    MHGalleryItem *Repair = [MHGalleryItem.alloc initWithURL:[[NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"Repair" ofType:@"png"]] absoluteString]
+//                                                  galleryType:MHGalleryTypeImage];
+//
+//    MHGalleryItem *Decks = [MHGalleryItem.alloc initWithURL:[[NSURL fileURLWithPath:[[NSBundle mainBundle] pathForResource:@"Decks" ofType:@"png"]] absoluteString]
+//                                                     galleryType:MHGalleryTypeImage];
+//
     
     
     NSMutableAttributedString *string = [[NSMutableAttributedString alloc]initWithString:@"Awesome!!\nOr isn't it?"];
