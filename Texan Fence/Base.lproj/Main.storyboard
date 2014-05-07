@@ -679,6 +679,12 @@ OUTDOOR KITCHENS
                     <view key="view" contentMode="scaleToFill" id="Eoa-6j-r9m">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="specials.png" translatesAutoresizingMaskIntoConstraints="NO" id="wvx-jK-5q5">
+                                <rect key="frame" x="0.0" y="-132" width="320" height="568"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                            </imageView>
+                        </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
                     <navigationItem key="navigationItem" title="Specials" id="7p2-VT-gsw">
@@ -699,6 +705,7 @@ OUTDOOR KITCHENS
         <image name="fence-badges.png" width="254" height="73"/>
         <image name="logo.png" width="350" height="151"/>
         <image name="reveal-icon.png" width="22" height="17"/>
+        <image name="specials.png" width="800" height="600"/>
     </resources>
     <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
