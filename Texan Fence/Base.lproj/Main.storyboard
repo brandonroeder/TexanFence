@@ -183,16 +183,16 @@
                                 <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 <color key="sectionIndexTrackingBackgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                 <imageView key="tableHeaderView" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo.png" id="fVe-Rz-NPa">
-                                    <rect key="frame" x="0.0" y="0.0" width="320" height="78"/>
+                                    <rect key="frame" x="0.0" y="64" width="320" height="78"/>
                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 </imageView>
                                 <imageView key="tableFooterView" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="fence-badges.png" id="e7M-li-NND">
-                                    <rect key="frame" x="0.0" y="473" width="320" height="41"/>
+                                    <rect key="frame" x="0.0" y="537" width="320" height="41"/>
                                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 </imageView>
                                 <prototypes>
                                     <tableViewCell autoresizesSubviews="NO" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="TestCell" rowHeight="330" id="gaa-59-JRe" customClass="TestCell">
-                                        <rect key="frame" x="0.0" y="133" width="320" height="330"/>
+                                        <rect key="frame" x="0.0" y="197" width="320" height="330"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="gaa-59-JRe" id="WvU-7p-XNt">
                                             <rect key="frame" x="0.0" y="0.0" width="320" height="330"/>
@@ -243,7 +243,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="cmZ-AT-bFG" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="244" y="-892"/>
+            <point key="canvasLocation" x="216" y="-1576"/>
         </scene>
         <!--Contact View Controller - Contact-->
         <scene sceneID="L1V-Uz-wa3">
@@ -297,7 +297,7 @@ scott@texanfence.com
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="jtD-Fq-3tW" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="682" y="492"/>
+            <point key="canvasLocation" x="216" y="1136"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="Rgh-Ji-GUK">
@@ -380,21 +380,91 @@ scott@texanfence.com
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="IpP-Ba-qqC" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="226" y="492"/>
+            <point key="canvasLocation" x="204" y="-194"/>
         </scene>
         <!--Services View Controller - Services-->
         <scene sceneID="9DQ-cl-c2s">
             <objects>
                 <viewController title="Services" id="q3m-gq-pGH" customClass="ServicesViewController" sceneMemberID="viewController">
-                    <layoutGuides>
-                        <viewControllerLayoutGuide type="top" id="0IR-EW-PIr"/>
-                        <viewControllerLayoutGuide type="bottom" id="tgp-1S-ahc"/>
-                    </layoutGuides>
-                    <view key="view" contentMode="scaleToFill" id="SFh-sw-Tpz">
+                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" id="QUV-v5-Jpi">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
-                    </view>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <color key="sectionIndexColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        <prototypes>
+                            <tableViewCell contentMode="scaleToFill" selectionStyle="default" accessoryType="disclosureIndicator" indentationWidth="10" reuseIdentifier="commercial" id="WpK-ou-hYB">
+                                <rect key="frame" x="0.0" y="22" width="320" height="44"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="WpK-ou-hYB" id="IFv-jB-wNb">
+                                    <rect key="frame" x="0.0" y="0.0" width="287" height="43"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                    <subviews>
+                                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Commerical" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="CDc-Wh-TJ9">
+                                            <rect key="frame" x="20" y="11" width="116" height="21"/>
+                                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                            <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                    </subviews>
+                                </tableViewCellContentView>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <segue destination="Cwm-x6-PNa" kind="push" id="4Sv-kh-ieX"/>
+                                </connections>
+                            </tableViewCell>
+                            <tableViewCell contentMode="scaleToFill" selectionStyle="default" accessoryType="disclosureIndicator" indentationWidth="10" reuseIdentifier="residential" id="95u-FB-45R">
+                                <rect key="frame" x="0.0" y="66" width="320" height="44"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="95u-FB-45R" id="MBq-VE-bYo">
+                                    <rect key="frame" x="0.0" y="0.0" width="287" height="43"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                    <subviews>
+                                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Residential" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FUl-Vm-9rC">
+                                            <rect key="frame" x="20" y="11" width="137" height="21"/>
+                                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                            <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                    </subviews>
+                                </tableViewCellContentView>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <segue destination="sqN-ef-NhC" kind="push" id="T0I-HP-7Xf"/>
+                                </connections>
+                            </tableViewCell>
+                            <tableViewCell contentMode="scaleToFill" selectionStyle="default" accessoryType="disclosureIndicator" indentationWidth="10" reuseIdentifier="other" id="9Uy-UH-QIm">
+                                <rect key="frame" x="0.0" y="110" width="320" height="44"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="9Uy-UH-QIm" id="350-AS-WdP">
+                                    <rect key="frame" x="0.0" y="0.0" width="287" height="43"/>
+                                    <autoresizingMask key="autoresizingMask"/>
+                                    <subviews>
+                                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Other Services" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="2dZ-3J-Shf">
+                                            <rect key="frame" x="20" y="11" width="145" height="21"/>
+                                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                            <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                            <nil key="highlightedColor"/>
+                                        </label>
+                                    </subviews>
+                                </tableViewCellContentView>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <connections>
+                                    <segue destination="KlF-X3-EaB" kind="push" id="nZO-Cj-rk3"/>
+                                </connections>
+                            </tableViewCell>
+                        </prototypes>
+                        <connections>
+                            <outlet property="dataSource" destination="q3m-gq-pGH" id="cFo-c8-22o"/>
+                            <outlet property="delegate" destination="q3m-gq-pGH" id="6LN-Rs-te8"/>
+                        </connections>
+                    </tableView>
                     <navigationItem key="navigationItem" title="Services" id="xdB-PI-fUN">
                         <barButtonItem key="leftBarButtonItem" image="reveal-icon.png" id="clT-9e-eMj">
                             <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
@@ -406,7 +476,159 @@ scott@texanfence.com
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="3BD-bP-n56" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="226" y="-214"/>
+            <point key="canvasLocation" x="216" y="458"/>
+        </scene>
+        <!--Services Detail View Controller - ResidentialView-->
+        <scene sceneID="Njd-kH-99w">
+            <objects>
+                <viewController title="ResidentialView" id="sqN-ef-NhC" customClass="ServicesDetailViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="eyc-6x-TXm"/>
+                        <viewControllerLayoutGuide type="bottom" id="n2l-ME-CjH"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="skc-kc-Cms">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vVy-HP-7oI">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="1002"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <mutableString key="text">Fences can be offered in various materials and accompanying styles.  The most common materials are:
+
+-Chain link
+-Vinyl
+-Wood
+-Metal
+-Wrought Iron 
+The chain link and wrought iron fences provide security to the property while also allowing visibility both in and out of the yard.  The vinyl, wood and metal fences can create more privacy since they offer an extreme limit to visibility.
+
+ 
+
+Advantages of Fences on Residential Properties:
+
+A home owner will usually name one or all of the following benefits for having a fence:
+
+• Improved value of the home – As stated earlier, many people agree that having a fence is a good idea.  Whether the fences surrounds the entire perimeter of the property or merely covers a section, such as the back yard, it adds more value to the overall home value.
+• Privacy – With new subdivisions placing homes closer and closer together it can be difficult to sit on the patio or deck and enjoy a quiet moment without the prying eyes of neighbors.  A privacy fence can aid in gardening, entertaining guests, performing daily exercise or simply enjoying a cup of coffee in peace and solitude.
+• Security – The fence can add security in two ways.  One, it will discourage potential thieves from approaching the property.  Second, it adds an area where children can play safely under the watchful eyes of parents or guardians or other loved ones.
+Fences as Part of the Landscape and Design
+As craftsmanship and new materials have improved, fencing has become more than just a way to offer security for the yard.  A wooden fence can actually be designed to match the architectural features of the home.  Wood can be easily painted to match the house or complement a particular color.  Metal and vinyl fences are also offered in a broad range of colors and styles to meet almost every style and taste.  This allows a homeowner to customize their fence and make it as unique as their home.
+
+</mutableString>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="iSE-un-ybJ"/>
+                    <connections>
+                        <outlet property="residentialView" destination="skc-kc-Cms" id="x8f-8u-Hdb"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dez-MJ-hl4" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1138" y="71"/>
+        </scene>
+        <!--Services Detail View Controller - CommericalView-->
+        <scene sceneID="UW0-TV-RSr">
+            <objects>
+                <viewController title="CommericalView" id="Cwm-x6-PNa" customClass="ServicesDetailViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Dll-zQ-u16"/>
+                        <viewControllerLayoutGuide type="bottom" id="i5N-Hr-h25"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="qgB-3E-JqD">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nct-Tf-5Cn">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <mutableString key="text">Fences can be a great feature for businesses.  The same advantages for homes, such as privacy, security and value can aid a business.  Here are just a few examples of the types of businesses that can benefit from a quality fence:
+
+• Florist or local greenhouse
+• used car dealer
+• Local gun range
+• Archery shop
+• Yard decorations
+• Grave headstone shop
+• Lumber yard
+• Dog breeder
+• Dog training/activity center
+• Automotive repair shop
+If you are looking for a way to make your business stand out from the competition, a good fence can be a great asset.  It can aid you in numerous ways and help you get a good return on your investment if you decide to sell later on.
+
+</mutableString>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="eSV-1w-Ij0"/>
+                    <connections>
+                        <outlet property="commericalView" destination="qgB-3E-JqD" id="T8u-mZ-TNn"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="3MQ-Dm-s6B" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="710" y="425"/>
+        </scene>
+        <!--Services Detail View Controller - OtherServicesView-->
+        <scene sceneID="EPQ-Fd-xgg">
+            <objects>
+                <viewController storyboardIdentifier="Other Services View" title="OtherServicesView" id="KlF-X3-EaB" customClass="ServicesDetailViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Pl7-wf-bMU"/>
+                        <viewControllerLayoutGuide type="bottom" id="W3x-Ho-N2j"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="5xv-wJ-5yb">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                        <subviews>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="aqJ-Ga-ZJF">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                                <string key="text">DOZER WORK &amp; LAND CLEARING
+
+LANDSCAPING
+
+CONCRETE
+
+SIDING
+
+OUTDOOR KITCHENS
+ LOW VOLTAGE LIGHTING
+
+ CABINETS PAINT &amp; TILE
+
+</string>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <color key="tintColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                    </view>
+                    <navigationItem key="navigationItem" id="OZe-1G-FfK"/>
+                    <connections>
+                        <outlet property="otherView" destination="5xv-wJ-5yb" id="TJl-lS-d6c"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="FZy-K9-dKT" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1132" y="795"/>
         </scene>
         <!--Contact Form View Controller - Quote-->
         <scene sceneID="PiF-q2-E1J">
@@ -443,7 +665,7 @@ scott@texanfence.com
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="2ej-yc-fA2" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="682" y="-205"/>
+            <point key="canvasLocation" x="222" y="1811"/>
         </scene>
         <!--Specials View Controller - Specials-->
         <scene sceneID="KSs-33-PIx">
@@ -469,7 +691,7 @@ scott@texanfence.com
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="mAH-oX-gmG" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="682" y="-892"/>
+            <point key="canvasLocation" x="210" y="-860"/>
         </scene>
     </scenes>
     <resources>
@@ -477,12 +699,13 @@ scott@texanfence.com
         <image name="logo.png" width="350" height="151"/>
         <image name="reveal-icon.png" width="22" height="17"/>
     </resources>
+    <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
         <simulatedStatusBarMetrics key="statusBar"/>
         <simulatedOrientationMetrics key="orientation"/>
         <simulatedScreenMetrics key="destination" type="retina4"/>
     </simulatedMetricsContainer>
     <inferredMetricsTieBreakers>
-        <segue reference="tAh-SX-MPo"/>
+        <segue reference="Rk2-1D-5nT"/>
     </inferredMetricsTieBreakers>
 </document>

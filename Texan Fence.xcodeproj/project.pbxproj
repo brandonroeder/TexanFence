@@ -21,6 +21,7 @@
 		CA1C9A3F19127074009A694C /* fence-badges.png in Resources */ = {isa = PBXBuildFile; fileRef = CA1C9A3C19127074009A694C /* fence-badges.png */; };
 		CA1C9A4019127074009A694C /* footer.png in Resources */ = {isa = PBXBuildFile; fileRef = CA1C9A3D19127074009A694C /* footer.png */; };
 		CA1C9A4119127074009A694C /* skull.png in Resources */ = {isa = PBXBuildFile; fileRef = CA1C9A3E19127074009A694C /* skull.png */; };
+		CA4C988F191A026F00653D5D /* ServicesDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CA4C988E191A026F00653D5D /* ServicesDetailViewController.m */; };
 		CA6AE8EF1919B81A001B9BC6 /* Decks.png in Resources */ = {isa = PBXBuildFile; fileRef = CA6AE8EC1919B81A001B9BC6 /* Decks.png */; };
 		CA6AE8F01919B81A001B9BC6 /* Fencing.png in Resources */ = {isa = PBXBuildFile; fileRef = CA6AE8ED1919B81A001B9BC6 /* Fencing.png */; };
 		CA6AE8F11919B81A001B9BC6 /* Repair.png in Resources */ = {isa = PBXBuildFile; fileRef = CA6AE8EE1919B81A001B9BC6 /* Repair.png */; };
@@ -80,6 +81,8 @@
 		CA1C9A3C19127074009A694C /* fence-badges.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fence-badges.png"; sourceTree = "<group>"; };
 		CA1C9A3D19127074009A694C /* footer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = footer.png; sourceTree = "<group>"; };
 		CA1C9A3E19127074009A694C /* skull.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = skull.png; sourceTree = "<group>"; };
+		CA4C988D191A026F00653D5D /* ServicesDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ServicesDetailViewController.h; sourceTree = "<group>"; };
+		CA4C988E191A026F00653D5D /* ServicesDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ServicesDetailViewController.m; sourceTree = "<group>"; };
 		CA6AE8EC1919B81A001B9BC6 /* Decks.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Decks.png; sourceTree = "<group>"; };
 		CA6AE8ED1919B81A001B9BC6 /* Fencing.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Fencing.png; sourceTree = "<group>"; };
 		CA6AE8EE1919B81A001B9BC6 /* Repair.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Repair.png; sourceTree = "<group>"; };
@@ -230,6 +233,8 @@
 				CA6F09BE1911D3FC00213E6F /* AppDelegate.h */,
 				CA6F09BF1911D3FC00213E6F /* AppDelegate.m */,
 				CA6F09C11911D3FC00213E6F /* Main.storyboard */,
+				CA4C988D191A026F00653D5D /* ServicesDetailViewController.h */,
+				CA4C988E191A026F00653D5D /* ServicesDetailViewController.m */,
 				CA6F09FB1911F22700213E6F /* SpecialsViewController.h */,
 				CA6F09FC1911F22700213E6F /* SpecialsViewController.m */,
 				CA6F09C41911D3FC00213E6F /* MenuViewController.h */,
@@ -450,6 +455,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CA1C9A2F19125D81009A694C /* MDTextView.m in Sources */,
+				CA4C988F191A026F00653D5D /* ServicesDetailViewController.m in Sources */,
 				CA6F09EA1911D7FB00213E6F /* ContactViewController.m in Sources */,
 				CA1C9A2E19125D81009A694C /* MDTextField.m in Sources */,
 				CA1C9A3119125D81009A694C /* MDContactFormViewController.m in Sources */,

@@ -8,9 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ServicesViewController : UIViewController
+@interface ServicesViewController : UITableViewController
 @property (nonatomic, strong) IBOutlet UILabel* label;
 @property (nonatomic, strong) UIColor* color;
 @property (nonatomic, strong) NSString* text;
+@property (strong, nonatomic) IBOutlet UITableView *tableView;
 
 @end

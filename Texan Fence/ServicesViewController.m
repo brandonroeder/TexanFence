@@ -39,6 +39,47 @@
     _label.textColor = _color;
 }
 
+- (NSInteger)numberOfSectionsInTableView:(UITableView *)tableView
+{
+    return 1;
+}
+
+- (NSInteger)tableView:(UITableView *)tableView numberOfRowsInSection:(NSInteger)section
+{
+    return 3;
+}
+
+- (UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath
+{
+    self.tableView.backgroundColor = [UIColor clearColor];
+    self.tableView.opaque = NO;
+    self.tableView.backgroundView = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"background.jpg"]];
+    
+    static NSString *CellIdentifier = @"Cell";
+    
+    switch ( indexPath.row )
+    {
+        case 0:
+            CellIdentifier = @"commercial";
+            break;
+            
+        case 1:
+            CellIdentifier = @"residential";
+            break;
+            
+        case 2:
+            CellIdentifier = @"other";
+            break;
+            
+    }
+    
+    UITableViewCell *cell = [tableView dequeueReusableCellWithIdentifier: CellIdentifier forIndexPath: indexPath];
+    
+    return cell;
+}
+
+
+
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
