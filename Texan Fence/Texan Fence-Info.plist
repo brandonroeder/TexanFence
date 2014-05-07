@@ -46,6 +46,11 @@
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
 	</array>
+	<key>IBCustomFonts</key>
+	<dict>
+		<key>Verdana-Bold</key>
+		<string>Arbutus</string>
+	</dict>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
 </dict>

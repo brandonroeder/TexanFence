@@ -7,7 +7,6 @@
 //
 
 #import "ServicesDetailViewController.h"
-
 @interface ServicesDetailViewController ()
 
 @end
@@ -27,6 +26,10 @@
 {
     [super viewDidLoad];
     self.view.backgroundColor = [UIColor colorWithPatternImage:[UIImage imageNamed:@"background.jpg"]];
+    
+    [[UINavigationBar appearance] setTintColor:[UIColor whiteColor]];
+
+
 }
 
 - (void)didReceiveMemoryWarning

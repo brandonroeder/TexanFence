@@ -22,6 +22,7 @@
 		CA1C9A3F19127074009A694C /* fence-badges.png in Resources */ = {isa = PBXBuildFile; fileRef = CA1C9A3C19127074009A694C /* fence-badges.png */; };
 		CA1C9A4019127074009A694C /* footer.png in Resources */ = {isa = PBXBuildFile; fileRef = CA1C9A3D19127074009A694C /* footer.png */; };
 		CA1C9A4119127074009A694C /* skull.png in Resources */ = {isa = PBXBuildFile; fileRef = CA1C9A3E19127074009A694C /* skull.png */; };
+		CA267ED3191A2CD200BBAA14 /* UIFont+IBCustomFonts.m in Sources */ = {isa = PBXBuildFile; fileRef = CA267ED2191A2CD200BBAA14 /* UIFont+IBCustomFonts.m */; };
 		CA4C988F191A026F00653D5D /* ServicesDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CA4C988E191A026F00653D5D /* ServicesDetailViewController.m */; };
 		CA4C98C4191A15A900653D5D /* AppIcon29x29.png in Resources */ = {isa = PBXBuildFile; fileRef = CA4C98B4191A15A900653D5D /* AppIcon29x29.png */; };
 		CA4C98C5191A15A900653D5D /* AppIcon29x29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CA4C98B5191A15A900653D5D /* AppIcon29x29@2x.png */; };
@@ -101,6 +102,7 @@
 		CA1C9A3C19127074009A694C /* fence-badges.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fence-badges.png"; sourceTree = "<group>"; };
 		CA1C9A3D19127074009A694C /* footer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = footer.png; sourceTree = "<group>"; };
 		CA1C9A3E19127074009A694C /* skull.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = skull.png; sourceTree = "<group>"; };
+		CA267ED2191A2CD200BBAA14 /* UIFont+IBCustomFonts.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIFont+IBCustomFonts.m"; sourceTree = "<group>"; };
 		CA4C988D191A026F00653D5D /* ServicesDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ServicesDetailViewController.h; sourceTree = "<group>"; };
 		CA4C988E191A026F00653D5D /* ServicesDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ServicesDetailViewController.m; sourceTree = "<group>"; };
 		CA4C98B4191A15A900653D5D /* AppIcon29x29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AppIcon29x29.png; sourceTree = "<group>"; };
@@ -328,6 +330,7 @@
 		CA6F09B61911D3FC00213E6F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CA267ED2191A2CD200BBAA14 /* UIFont+IBCustomFonts.m */,
 				CA1B62FB191A19D000315AAF /* Arbutus-Regular.ttf */,
 				CA4C98B2191A15A900653D5D /* Icons */,
 				CA6AE8F21919CCD6001B9BC6 /* logo.png */,
@@ -549,6 +552,7 @@
 				CA1C9A2F19125D81009A694C /* MDTextView.m in Sources */,
 				CA4C988F191A026F00653D5D /* ServicesDetailViewController.m in Sources */,
 				CA6F09EA1911D7FB00213E6F /* ContactViewController.m in Sources */,
+				CA267ED3191A2CD200BBAA14 /* UIFont+IBCustomFonts.m in Sources */,
 				CA1C9A2E19125D81009A694C /* MDTextField.m in Sources */,
 				CA1C9A3119125D81009A694C /* MDContactFormViewController.m in Sources */,
 				CA6F09C61911D3FC00213E6F /* MenuViewController.m in Sources */,
