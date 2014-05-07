@@ -32,6 +32,8 @@
     [self.revealButton setTarget: self.revealViewController];
     [self.revealButton setAction: @selector( revealToggle: )];
     [self.navigationController.navigationBar addGestureRecognizer: self.revealViewController.panGestureRecognizer];
+    self.view.backgroundColor = [UIColor colorWithPatternImage:[UIImage imageNamed:@"background.jpg"]];
+
     
     _label.text = _text;
     _label.textColor = _color;
