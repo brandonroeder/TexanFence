@@ -21,6 +21,9 @@
 		CA1C9A3F19127074009A694C /* fence-badges.png in Resources */ = {isa = PBXBuildFile; fileRef = CA1C9A3C19127074009A694C /* fence-badges.png */; };
 		CA1C9A4019127074009A694C /* footer.png in Resources */ = {isa = PBXBuildFile; fileRef = CA1C9A3D19127074009A694C /* footer.png */; };
 		CA1C9A4119127074009A694C /* skull.png in Resources */ = {isa = PBXBuildFile; fileRef = CA1C9A3E19127074009A694C /* skull.png */; };
+		CA6AE8EF1919B81A001B9BC6 /* Decks.png in Resources */ = {isa = PBXBuildFile; fileRef = CA6AE8EC1919B81A001B9BC6 /* Decks.png */; };
+		CA6AE8F01919B81A001B9BC6 /* Fencing.png in Resources */ = {isa = PBXBuildFile; fileRef = CA6AE8ED1919B81A001B9BC6 /* Fencing.png */; };
+		CA6AE8F11919B81A001B9BC6 /* Repair.png in Resources */ = {isa = PBXBuildFile; fileRef = CA6AE8EE1919B81A001B9BC6 /* Repair.png */; };
 		CA6F09B01911D3FC00213E6F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CA6F09AF1911D3FC00213E6F /* Foundation.framework */; };
 		CA6F09B21911D3FC00213E6F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CA6F09B11911D3FC00213E6F /* CoreGraphics.framework */; };
 		CA6F09B41911D3FC00213E6F /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CA6F09B31911D3FC00213E6F /* UIKit.framework */; };
@@ -76,6 +79,9 @@
 		CA1C9A3C19127074009A694C /* fence-badges.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fence-badges.png"; sourceTree = "<group>"; };
 		CA1C9A3D19127074009A694C /* footer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = footer.png; sourceTree = "<group>"; };
 		CA1C9A3E19127074009A694C /* skull.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = skull.png; sourceTree = "<group>"; };
+		CA6AE8EC1919B81A001B9BC6 /* Decks.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Decks.png; sourceTree = "<group>"; };
+		CA6AE8ED1919B81A001B9BC6 /* Fencing.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Fencing.png; sourceTree = "<group>"; };
+		CA6AE8EE1919B81A001B9BC6 /* Repair.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Repair.png; sourceTree = "<group>"; };
 		CA6F09AC1911D3FC00213E6F /* Texan Fence.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Texan Fence.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CA6F09AF1911D3FC00213E6F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		CA6F09B11911D3FC00213E6F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -244,6 +250,9 @@
 		CA6F09B61911D3FC00213E6F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CA6AE8EC1919B81A001B9BC6 /* Decks.png */,
+				CA6AE8ED1919B81A001B9BC6 /* Fencing.png */,
+				CA6AE8EE1919B81A001B9BC6 /* Repair.png */,
 				CA1C9A3C19127074009A694C /* fence-badges.png */,
 				CA1C9A3D19127074009A694C /* footer.png */,
 				CA1C9A3E19127074009A694C /* skull.png */,
@@ -373,8 +382,11 @@
 				CA6F09FA1911DCC400213E6F /* reveal-icon@2x.png in Resources */,
 				CA1C9A4019127074009A694C /* footer.png in Resources */,
 				CA1C9A2C19125D81009A694C /* whiteBtn.png in Resources */,
+				CA6AE8F01919B81A001B9BC6 /* Fencing.png in Resources */,
+				CA6AE8EF1919B81A001B9BC6 /* Decks.png in Resources */,
 				CA6F09BA1911D3FC00213E6F /* InfoPlist.strings in Resources */,
 				CA1C9A2D19125D81009A694C /* whiteBtn@2x.png in Resources */,
+				CA6AE8F11919B81A001B9BC6 /* Repair.png in Resources */,
 				CA1C9A3919126D1E009A694C /* header.jpg in Resources */,
 				CA6F09C31911D3FC00213E6F /* Main.storyboard in Resources */,
 				CA1C9A3419125F8A009A694C /* issueReport.php in Resources */,

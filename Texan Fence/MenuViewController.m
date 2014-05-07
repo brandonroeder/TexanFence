@@ -21,8 +21,8 @@
     if ( [segue.destinationViewController isKindOfClass: [HomeViewController class]] &&
         [sender isKindOfClass:[UITableViewCell class]] )
     {
-        UILabel* c = [(SWUITableViewCell *)sender label];
-        HomeViewController* cvc = segue.destinationViewController;
+        //UILabel c = [(SWUITableViewCell *)sender label];
+        //HomeViewController cvc = segue.destinationViewController;
         
     }
     
