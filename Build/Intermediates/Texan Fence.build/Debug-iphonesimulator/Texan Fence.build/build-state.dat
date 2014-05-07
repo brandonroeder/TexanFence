@@ -5,6 +5,7 @@ cCheck dependencies
 cPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Script-CFBB5FF3D5D34F64ACA042F6.sh
 cProcessPCH /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Texan\ Fence-Prefix-etoqquzojbvpsdckbjionyyljmrg/Texan\ Fence-Prefix.pch.pch Texan\ Fence/Texan\ Fence-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/MDTextView.o /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/src/Input\ Views/MDTextView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/ServicesDetailViewController.o /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/ServicesDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/ContactViewController.o /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/ContactViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/MDTextField.o /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/src/Input\ Views/MDTextField.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/MDContactFormViewController.o /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/src/MDContactFormViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
@@ -16,7 +17,6 @@ cCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fe
 cCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/GalleryViewController.o /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/GalleryViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/ServicesViewController.o /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/ServicesViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/HomeViewController.o /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/HomeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/ServicesDetailViewController.o /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/ServicesDetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cLd /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Texan\ Fence normal i386
 cCpResource Texan\ Fence/fence-badges.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/fence-badges.png
 cCpResource Texan\ Fence/background.jpg Build/Products/Debug-iphonesimulator/Texan\ Fence.app/background.jpg
@@ -24,18 +24,36 @@ cCpResource Texan\ Fence/reveal-icon@2x.png Build/Products/Debug-iphonesimulator
 cCpResource Texan\ Fence/footer.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/footer.png
 cCpResource Texan\ Fence/src/Images/whiteBtn.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/whiteBtn.png
 cCpResource Texan\ Fence/Fencing.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Fencing.png
+cCpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon29x29.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon29x29.png
 cCpResource Texan\ Fence/Decks.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Decks.png
+cCpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon60x60.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon60x60.png
 cCopyStringsFile /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app/en.lproj/InfoPlist.strings Texan\ Fence/en.lproj/InfoPlist.strings
+cCpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon29x29@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon29x29@2x.png
 cCpResource Texan\ Fence/src/Images/whiteBtn@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/whiteBtn@2x.png
 cCpResource Texan\ Fence/Repair.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Repair.png
+cCpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon60x60@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon60x60@2x.png
 cCpResource Texan\ Fence/header.jpg Build/Products/Debug-iphonesimulator/Texan\ Fence.app/header.jpg
+cCpResource Texan\ Fence/Icons/Default-568h.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Default-568h.png
+cCpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/iTunesArtwork@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/iTunesArtwork@2x.png
 cCpResource Texan\ Fence/logo.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/logo.png
+cCpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon40x40.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon40x40.png
 cCompileStoryboard /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Base.lproj/Main.storyboard
 cCpResource Texan\ Fence/src/PHP/issueReport.php Build/Products/Debug-iphonesimulator/Texan\ Fence.app/issueReport.php
+cCpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/iTunesArtwork.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/iTunesArtwork.png
+cCpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon57x57@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon57x57@2x.png
+cCpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon40x40@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon40x40@2x.png
+cCpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon57x57.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon57x57.png
 cCpResource Texan\ Fence/top.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/top.png
 cCopyPlistFile /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app/MDContactForm.plist Texan\ Fence/src/MDContactForm.plist
+cCpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon72x72.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon72x72.png
 cCpResource Texan\ Fence/skull.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/skull.png
 cCpResource Texan\ Fence/reveal-icon.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/reveal-icon.png
+cCpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon50x50@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon50x50@2x.png
+cCpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon76x76@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon76x76@2x.png
+cCpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon72x72@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon72x72@2x.png
+cCpResource Texan\ Fence/Icons/Default@2x\ .png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Default@2x\ .png
+cCpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon50x50.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon50x50.png
+cCpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon76x76.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon76x76.png
 cCompileAssetCatalog /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Images.xcassets
 cProcessInfoPlistFile /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Info.plist /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Texan\ Fence-Info.plist
 cGenerateDSYMFile /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app.dSYM /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Texan\ Fence
@@ -434,43 +452,107 @@ t1399424698
 s259
 
 N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/assetcatalog_dependencies.txt
-t1399424755
-s378
+t1399447439
+s817
 
 N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/assetcatalog_generated_info.plist
-t1399424755
-s525
+t1399447439
+s1063
 
 N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app
-t1399443012
-s2074
+t1399447437
+s2720
 
 N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app.dSYM
 t1399442335
 s102
 
+N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon29x29.png
+t1399447436
+s7163
+
+N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon29x29@2x.png
+t1399447437
+s9170
+
+N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon40x40.png
+t1399447436
+s7832
+
+N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon40x40@2x.png
+t1399447437
+s11137
+
+N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon50x50.png
+t1399447436
+s8515
+
+N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon50x50@2x.png
+t1399447436
+s12495
+
+N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon57x57.png
+t1399447436
+s8673
+
+N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon57x57@2x.png
+t1399447436
+s13006
+
+N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon60x60.png
+t1399447436
+s9086
+
+N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon60x60@2x.png
+t1399447437
+s13811
+
+N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon72x72.png
+t1399447436
+s9801
+
+N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon72x72@2x.png
+t1399447436
+s15600
+
+N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon76x76.png
+t1399447436
+s10266
+
+N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon76x76@2x.png
+t1399447436
+s16599
+
 N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/Base.lproj/Main.storyboardc
-t1399443012
+t1399443506
 s850
 
 N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/Decks.png
 t1399424754
 s165697
 
+N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/Default-568h.png
+t1399447436
+s116930
+
+N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/Default@2x .png
+t1399447436
+s115913
+
 N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/Fencing.png
 t1399424754
 s152095
 
 N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/Info.plist
-t1399424756
-s1030
+t1399447439
+s1245
 
 N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/MDContactForm.plist
 t1399435988
 s1055
 
 N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/PkgInfo
-t1399424756
+t1399447439
 s8
 
 N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/Repair.png
@@ -500,6 +582,14 @@ s41010
 N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/header.jpg
 t1399424754
 s69140
+
+N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/iTunesArtwork.png
+t1399447436
+s76402
+
+N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/iTunesArtwork@2x.png
+t1399447436
+s224024
 
 N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/issueReport.php
 t1399424754
@@ -549,9 +639,9 @@ t1399419843
 s2309
 
 N/Users/brandon/Desktop/Texan Fence/Texan Fence/Base.lproj/Main.storyboard
-c000000005369CE43000000000000ED3B
-t1399443011
-s60731
+c000000005369D030000000000000EDF8
+t1399443504
+s60920
 
 N/Users/brandon/Desktop/Texan Fence/Texan Fence/ContactViewController.h
 c00000000536992A3000000000000018E
@@ -593,9 +683,99 @@ c000000005369BC940000000000003BE5
 t1399438484
 s15333
 
+N/Users/brandon/Desktop/Texan Fence/Texan Fence/Icons/App Icon [Rounded]/AppIcon29x29.png
+c000000005369DDCB0000000000001BFB
+t1399446987
+s7163
+
+N/Users/brandon/Desktop/Texan Fence/Texan Fence/Icons/App Icon [Rounded]/AppIcon29x29@2x.png
+c000000005369DDCB00000000000023D2
+t1399446987
+s9170
+
+N/Users/brandon/Desktop/Texan Fence/Texan Fence/Icons/App Icon [Rounded]/AppIcon40x40.png
+c000000005369DDCB0000000000001E98
+t1399446987
+s7832
+
+N/Users/brandon/Desktop/Texan Fence/Texan Fence/Icons/App Icon [Rounded]/AppIcon40x40@2x.png
+c000000005369DDCB0000000000002B81
+t1399446987
+s11137
+
+N/Users/brandon/Desktop/Texan Fence/Texan Fence/Icons/App Icon [Rounded]/AppIcon50x50.png
+c000000005369DDCB0000000000002143
+t1399446987
+s8515
+
+N/Users/brandon/Desktop/Texan Fence/Texan Fence/Icons/App Icon [Rounded]/AppIcon50x50@2x.png
+c000000005369DDCB00000000000030CF
+t1399446987
+s12495
+
+N/Users/brandon/Desktop/Texan Fence/Texan Fence/Icons/App Icon [Rounded]/AppIcon57x57.png
+c000000005369DDCB00000000000021E1
+t1399446987
+s8673
+
+N/Users/brandon/Desktop/Texan Fence/Texan Fence/Icons/App Icon [Rounded]/AppIcon57x57@2x.png
+c000000005369DDCB00000000000032CE
+t1399446987
+s13006
+
+N/Users/brandon/Desktop/Texan Fence/Texan Fence/Icons/App Icon [Rounded]/AppIcon60x60.png
+c000000005369DDCB000000000000237E
+t1399446987
+s9086
+
+N/Users/brandon/Desktop/Texan Fence/Texan Fence/Icons/App Icon [Rounded]/AppIcon60x60@2x.png
+c000000005369DDCB00000000000035F3
+t1399446987
+s13811
+
+N/Users/brandon/Desktop/Texan Fence/Texan Fence/Icons/App Icon [Rounded]/AppIcon72x72.png
+c000000005369DDCB0000000000002649
+t1399446987
+s9801
+
+N/Users/brandon/Desktop/Texan Fence/Texan Fence/Icons/App Icon [Rounded]/AppIcon72x72@2x.png
+c000000005369DDCB0000000000003CF0
+t1399446987
+s15600
+
+N/Users/brandon/Desktop/Texan Fence/Texan Fence/Icons/App Icon [Rounded]/AppIcon76x76.png
+c000000005369DDCB000000000000281A
+t1399446987
+s10266
+
+N/Users/brandon/Desktop/Texan Fence/Texan Fence/Icons/App Icon [Rounded]/AppIcon76x76@2x.png
+c000000005369DDCB00000000000040D7
+t1399446987
+s16599
+
+N/Users/brandon/Desktop/Texan Fence/Texan Fence/Icons/App Icon [Rounded]/iTunesArtwork.png
+c000000005369DDCB0000000000012A72
+t1399446987
+s76402
+
+N/Users/brandon/Desktop/Texan Fence/Texan Fence/Icons/App Icon [Rounded]/iTunesArtwork@2x.png
+c000000005369DDCB0000000000036B18
+t1399446987
+s224024
+
+N/Users/brandon/Desktop/Texan Fence/Texan Fence/Icons/Default-568h.png
+c000000005369DF5B000000000001C8C2
+t1399447387
+s116930
+
+N/Users/brandon/Desktop/Texan Fence/Texan Fence/Icons/Default@2x .png
+c000000005369DF1B000000000001C4C9
+t1399447323
+s115913
+
 N/Users/brandon/Desktop/Texan Fence/Texan Fence/Images.xcassets
-c000000005361A56700000000000000AA
-t1398908263
+c000000005369DF8900000000000000AA
+t1399447433
 s170
 
 N/Users/brandon/Desktop/Texan Fence/Texan Fence/MenuViewController.h
@@ -644,9 +824,9 @@ t1399438805
 s1486
 
 N/Users/brandon/Desktop/Texan Fence/Texan Fence/Texan Fence-Info.plist
-c00000000536973C300000000000004CE
-t1399419843
-s1230
+c000000005369DC450000000000000519
+t1399446597
+s1305
 
 N/Users/brandon/Desktop/Texan Fence/Texan Fence/Texan Fence-Prefix.pch
 c0000000053619C7C0000000000000158
@@ -947,22 +1127,26 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies59dc6357061ab941^2a196457061ab941^---0#1#1#--18"Check dependencies36"CC7F3120-0948-46ED-A199-DB76BF8EC83C-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies22fd2a0c171ab941^baa1390c171ab941^---0#1#1#--18"Check dependencies36"00FBFE65-D9F2-4F21-A52B-1A6DDE692AF3-
 
 CCompileAssetCatalog /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Images.xcassets
-s421117554.506003
-e421117555.599084
+s421140236.326103
+e421140239.117118
 r1
 xCompileAssetCatalog
 x/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app
 x/Users/brandon/Desktop/Texan Fence/Texan Fence/Images.xcassets
 o/* com.apple.actool.compilation-results */
+o/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon29x29@2x.png
+o/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon40x40@2x.png
+o/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon60x60@2x.png
+o/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/LaunchImage-700@2x.png
 o/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/LaunchImage-700-568h@2x.png
 o/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/Assets.car
 o/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/assetcatalog_generated_info.plist
 o
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Texan\ Fence.app Texan\ Fence/Images.xcassets102"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Texan\ Fence.app Texan\ Fence/Images.xcassets74968172be19b941^04729973be19b941^-406"/* com.apple.actool.compilation-results *//Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/LaunchImage-700-568h@2x.png/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/Assets.car/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@74"file:///Users/brandon/Desktop/Texan%20Fence/Texan%20Fence/Images.xcassets/0000000000000000^1164"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Texan\ Fence.app Texan\ Fence/Images.xcassets    cd "/Users/brandon/Desktop/Texan Fence"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Images.xcassets36"C84CDD0C-9E25-4DE8-B677-C18B709D9C35-
-bC6417CF7-B534-43BD-B235-5DFEE99B33D7
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Texan\ Fence.app Texan\ Fence/Images.xcassets102"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Texan\ Fence.app Texan\ Fence/Images.xcassets0c95530c171ab941^4cfc1d0f171ab941^-841"/* com.apple.actool.compilation-results *//Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon29x29@2x.png/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon40x40@2x.png/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon60x60@2x.png/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/LaunchImage-700@2x.png/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/LaunchImage-700-568h@2x.png/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/Assets.car/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@74"file:///Users/brandon/Desktop/Texan%20Fence/Texan%20Fence/Images.xcassets/0000000000000000^1164"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Texan\ Fence.app Texan\ Fence/Images.xcassets    cd "/Users/brandon/Desktop/Texan Fence"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Images.xcassets36"17064384-E6DE-45B8-8B63-0F71770291F6-
+bC34EFC00-0D2A-4901-A275-42FADD515FF6
 
 CCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/AppDelegate.o /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s421117498.694340
@@ -1186,13 +1370,14 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile
 b4B1FB772-DA4C-4E90-88CD-3662A89745A6
 
 CCompileStoryboard /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Base.lproj/Main.storyboard
-s421135811.345771
-e421135812.170745
+s421136304.148154
+e421136306.463786
 r1
 xCompileStoryboard
 x/Users/brandon/Desktop/Texan Fence/Texan Fence/Base.lproj/Main.storyboard
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"CompileStoryboard Texan\ Fence/Base.lproj/Main.storyboard57"CompileStoryboard Texan\ Fence/Base.lproj/Main.storyboard969358c3051ab941^a5bb2bc4051ab941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/brandon/Desktop/Texan%20Fence/Texan%20Fence/Base.lproj/Main.storyboard0000000000000000^846"CompileStoryboard Texan\ Fence/Base.lproj/Main.storyboard    cd "/Users/brandon/Desktop/Texan Fence"    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Base.lproj/Main.storyboardc /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Base.lproj/Main.storyboard36"9F3D0155-02B5-4DA4-BF45-0E7C7E725DEE-
-bB9173798-F214-43C9-8A3F-B91110C1423F
+onwi_state: registration failed (1000000)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"CompileStoryboard Texan\ Fence/Base.lproj/Main.storyboard57"CompileStoryboard Texan\ Fence/Base.lproj/Main.storyboard8a0126b0071ab941^f1ba76b2071ab941^-41"nwi_state: registration failed (1000000)-0#0#1#-19%DVTDocumentLocation2@84"file:///Users/brandon/Desktop/Texan%20Fence/Texan%20Fence/Base.lproj/Main.storyboard0000000000000000^846"CompileStoryboard Texan\ Fence/Base.lproj/Main.storyboard    cd "/Users/brandon/Desktop/Texan Fence"    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Base.lproj/Main.storyboardc /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Base.lproj/Main.storyboard36"2E7659B9-EAF4-4ADE-9908-35EF3757F4E1-
+b2BBD8603-3376-4291-B462-B5C6229C85A8
 
 CCopyPlistFile /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app/MDContactForm.plist Texan\ Fence/src/MDContactForm.plist
 s421128788.760838
@@ -1233,6 +1418,186 @@ xTexan Fence/Fencing.png
 xBuild/Products/Debug-iphonesimulator/Texan Fence.app/Fencing.png
 lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection69"Copy Build/Products/Debug-iphonesimulator/Texan Fence.app/Fencing.png101"CpResource Texan\ Fence/Fencing.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Fencing.png81b47f72be19b941^8f1d8072be19b941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/brandon/Desktop/Texan%20Fence/Build/Products/Debug-iphonesimulator/Texan%20Fence.app/Fencing.png00345074dfffdf42^604"CpResource Texan\ Fence/Fencing.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Fencing.png    cd "/Users/brandon/Desktop/Texan Fence"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Fencing.png /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app36"0BD309DE-EE85-4144-9C2E-1892CAD49889-
 bC6417CF7-B534-43BD-B235-5DFEE99B33D7
+
+CCpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon29x29.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon29x29.png
+s421140236.314355
+e421140236.320987
+r1
+xCpResource
+xTexan Fence/Icons/App Icon [Rounded]/AppIcon29x29.png
+xBuild/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon29x29.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon29x29.png138"CpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon29x29.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon29x29.png5d4e510c171ab941^1230520c171ab941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/brandon/Desktop/Texan%20Fence/Build/Products/Debug-iphonesimulator/Texan%20Fence.app/AppIcon29x29.png00345074dfffdf42^673"CpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon29x29.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon29x29.png    cd "/Users/brandon/Desktop/Texan Fence"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon29x29.png /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app36"B91DDD00-481E-4DAC-94E6-F57B5E101A7B-
+bC34EFC00-0D2A-4901-A275-42FADD515FF6
+
+CCpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon29x29@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon29x29@2x.png
+s421140236.314917
+e421140236.322236
+r1
+xCpResource
+xTexan Fence/Icons/App Icon [Rounded]/AppIcon29x29@2x.png
+xBuild/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon29x29@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Copy Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon29x29@2x.png144"CpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon29x29@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon29x29@2x.png3d61510c171ab941^1f86520c171ab941^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/brandon/Desktop/Texan%20Fence/Build/Products/Debug-iphonesimulator/Texan%20Fence.app/AppIcon29x29@2x.png00345074dfffdf42^682"CpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon29x29@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon29x29@2x.png    cd "/Users/brandon/Desktop/Texan Fence"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon29x29@2x.png /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app36"201181EE-356B-4EB3-AFD5-ECB1315BB355-
+bC34EFC00-0D2A-4901-A275-42FADD515FF6
+
+CCpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon40x40.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon40x40.png
+s421140236.315909
+e421140236.321000
+r1
+xCpResource
+xTexan Fence/Icons/App Icon [Rounded]/AppIcon40x40.png
+xBuild/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon40x40.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon40x40.png138"CpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon40x40.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon40x40.png6550510c171ab941^c938520c171ab941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/brandon/Desktop/Texan%20Fence/Build/Products/Debug-iphonesimulator/Texan%20Fence.app/AppIcon40x40.png00345074dfffdf42^673"CpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon40x40.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon40x40.png    cd "/Users/brandon/Desktop/Texan Fence"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon40x40.png /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app36"C024A277-D4BD-443A-A2BA-DFBE538AFCC0-
+bC34EFC00-0D2A-4901-A275-42FADD515FF6
+
+CCpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon40x40@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon40x40@2x.png
+s421140236.321412
+e421140236.324067
+r1
+xCpResource
+xTexan Fence/Icons/App Icon [Rounded]/AppIcon40x40@2x.png
+xBuild/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon40x40@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Copy Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon40x40@2x.png144"CpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon40x40@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon40x40@2x.png925c520c171ab941^0dfe520c171ab941^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/brandon/Desktop/Texan%20Fence/Build/Products/Debug-iphonesimulator/Texan%20Fence.app/AppIcon40x40@2x.png00345074dfffdf42^682"CpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon40x40@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon40x40@2x.png    cd "/Users/brandon/Desktop/Texan Fence"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon40x40@2x.png /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app36"11DBE5E5-0554-4B0A-855B-BD97067BD8C4-
+bC34EFC00-0D2A-4901-A275-42FADD515FF6
+
+CCpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon50x50.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon50x50.png
+s421140236.325262
+e421140236.326578
+r1
+xCpResource
+xTexan Fence/Icons/App Icon [Rounded]/AppIcon50x50.png
+xBuild/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon50x50.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon50x50.png138"CpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon50x50.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon50x50.png3755530c171ab941^4ca9530c171ab941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/brandon/Desktop/Texan%20Fence/Build/Products/Debug-iphonesimulator/Texan%20Fence.app/AppIcon50x50.png00345074dfffdf42^673"CpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon50x50.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon50x50.png    cd "/Users/brandon/Desktop/Texan Fence"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon50x50.png /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app36"3F82050D-A566-4156-97D3-67C09226B5CE-
+bC34EFC00-0D2A-4901-A275-42FADD515FF6
+
+CCpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon50x50@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon50x50@2x.png
+s421140236.323712
+e421140236.325524
+r1
+xCpResource
+xTexan Fence/Icons/App Icon [Rounded]/AppIcon50x50@2x.png
+xBuild/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon50x50@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Copy Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon50x50@2x.png144"CpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon50x50@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon50x50@2x.pngfaf2520c171ab941^1156530c171ab941^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/brandon/Desktop/Texan%20Fence/Build/Products/Debug-iphonesimulator/Texan%20Fence.app/AppIcon50x50@2x.png00345074dfffdf42^682"CpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon50x50@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon50x50@2x.png    cd "/Users/brandon/Desktop/Texan Fence"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon50x50@2x.png /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app36"8B2FA163-54E7-4610-B9C5-B4ADC3A4570D-
+bC34EFC00-0D2A-4901-A275-42FADD515FF6
+
+CCpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon57x57.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon57x57.png
+s421140236.321716
+e421140236.324531
+r1
+xCpResource
+xTexan Fence/Icons/App Icon [Rounded]/AppIcon57x57.png
+xBuild/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon57x57.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon57x57.png138"CpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon57x57.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon57x57.pngbf80520c171ab941^431c530c171ab941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/brandon/Desktop/Texan%20Fence/Build/Products/Debug-iphonesimulator/Texan%20Fence.app/AppIcon57x57.png00345074dfffdf42^673"CpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon57x57.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon57x57.png    cd "/Users/brandon/Desktop/Texan Fence"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon57x57.png /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app36"FE2B33DD-9378-4AB2-852B-AF8A259376F4-
+bC34EFC00-0D2A-4901-A275-42FADD515FF6
+
+CCpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon57x57@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon57x57@2x.png
+s421140236.321198
+e421140236.324039
+r1
+xCpResource
+xTexan Fence/Icons/App Icon [Rounded]/AppIcon57x57@2x.png
+xBuild/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon57x57@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Copy Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon57x57@2x.png144"CpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon57x57@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon57x57@2x.pngdb4f520c171ab941^02f5520c171ab941^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/brandon/Desktop/Texan%20Fence/Build/Products/Debug-iphonesimulator/Texan%20Fence.app/AppIcon57x57@2x.png00345074dfffdf42^682"CpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon57x57@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon57x57@2x.png    cd "/Users/brandon/Desktop/Texan Fence"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon57x57@2x.png /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app36"253C28E3-F9EA-4F96-816C-9BFF40A57E78-
+bC34EFC00-0D2A-4901-A275-42FADD515FF6
+
+CCpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon60x60.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon60x60.png
+s421140236.314621
+e421140236.321756
+r1
+xCpResource
+xTexan Fence/Icons/App Icon [Rounded]/AppIcon60x60.png
+xBuild/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon60x60.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon60x60.png138"CpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon60x60.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon60x60.png984c510c171ab941^ce6d520c171ab941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/brandon/Desktop/Texan%20Fence/Build/Products/Debug-iphonesimulator/Texan%20Fence.app/AppIcon60x60.png00345074dfffdf42^673"CpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon60x60.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon60x60.png    cd "/Users/brandon/Desktop/Texan Fence"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon60x60.png /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app36"C67DBE0C-7BCD-44A7-9D8A-6E2FBDE18DE9-
+bC34EFC00-0D2A-4901-A275-42FADD515FF6
+
+CCpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon60x60@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon60x60@2x.png
+s421140236.315263
+e421140236.321773
+r1
+xCpResource
+xTexan Fence/Icons/App Icon [Rounded]/AppIcon60x60@2x.png
+xBuild/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon60x60@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Copy Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon60x60@2x.png144"CpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon60x60@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon60x60@2x.png575f510c171ab941^8060520c171ab941^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/brandon/Desktop/Texan%20Fence/Build/Products/Debug-iphonesimulator/Texan%20Fence.app/AppIcon60x60@2x.png00345074dfffdf42^682"CpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon60x60@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon60x60@2x.png    cd "/Users/brandon/Desktop/Texan Fence"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon60x60@2x.png /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app36"9E9E9FCD-C2BB-4053-AA20-2D5407B88748-
+bC34EFC00-0D2A-4901-A275-42FADD515FF6
+
+CCpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon72x72.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon72x72.png
+s421140236.322941
+e421140236.324486
+r1
+xCpResource
+xTexan Fence/Icons/App Icon [Rounded]/AppIcon72x72.png
+xBuild/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon72x72.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon72x72.png138"CpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon72x72.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon72x72.png50c4520c171ab941^9818530c171ab941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/brandon/Desktop/Texan%20Fence/Build/Products/Debug-iphonesimulator/Texan%20Fence.app/AppIcon72x72.png00345074dfffdf42^673"CpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon72x72.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon72x72.png    cd "/Users/brandon/Desktop/Texan Fence"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon72x72.png /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app36"FEFA041F-86EC-4845-8498-9436D38D7C8A-
+bC34EFC00-0D2A-4901-A275-42FADD515FF6
+
+CCpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon72x72@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon72x72@2x.png
+s421140236.324517
+e421140236.326298
+r1
+xCpResource
+xTexan Fence/Icons/App Icon [Rounded]/AppIcon72x72@2x.png
+xBuild/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon72x72@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Copy Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon72x72@2x.png144"CpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon72x72@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon72x72@2x.pngd02a530c171ab941^1e89530c171ab941^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/brandon/Desktop/Texan%20Fence/Build/Products/Debug-iphonesimulator/Texan%20Fence.app/AppIcon72x72@2x.png00345074dfffdf42^682"CpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon72x72@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon72x72@2x.png    cd "/Users/brandon/Desktop/Texan Fence"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon72x72@2x.png /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app36"E57CDA18-F073-47BB-B03E-9248D5228439-
+bC34EFC00-0D2A-4901-A275-42FADD515FF6
+
+CCpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon76x76.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon76x76.png
+s421140236.325328
+e421140236.326792
+r1
+xCpResource
+xTexan Fence/Icons/App Icon [Rounded]/AppIcon76x76.png
+xBuild/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon76x76.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon76x76.png138"CpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon76x76.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon76x76.png315e530c171ab941^41b7530c171ab941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/brandon/Desktop/Texan%20Fence/Build/Products/Debug-iphonesimulator/Texan%20Fence.app/AppIcon76x76.png00345074dfffdf42^673"CpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon76x76.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon76x76.png    cd "/Users/brandon/Desktop/Texan Fence"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon76x76.png /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app36"C20A26A0-2A68-40BE-A557-C74C174731F0-
+bC34EFC00-0D2A-4901-A275-42FADD515FF6
+
+CCpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon76x76@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon76x76@2x.png
+s421140236.324344
+e421140236.326598
+r1
+xCpResource
+xTexan Fence/Icons/App Icon [Rounded]/AppIcon76x76@2x.png
+xBuild/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon76x76@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Copy Build/Products/Debug-iphonesimulator/Texan Fence.app/AppIcon76x76@2x.png144"CpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon76x76@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon76x76@2x.pngb728530c171ab941^a7b3530c171ab941^---0#0#1#-19%DVTDocumentLocation2@118"file:///Users/brandon/Desktop/Texan%20Fence/Build/Products/Debug-iphonesimulator/Texan%20Fence.app/AppIcon76x76@2x.png00345074dfffdf42^682"CpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon76x76@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/AppIcon76x76@2x.png    cd "/Users/brandon/Desktop/Texan Fence"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Icons/App\ Icon\ [Rounded]/AppIcon76x76@2x.png /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app36"D6C41E5A-DCEB-4C15-8661-9F1184718611-
+bC34EFC00-0D2A-4901-A275-42FADD515FF6
+
+CCpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/iTunesArtwork.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/iTunesArtwork.png
+s421140236.316384
+e421140236.323493
+r1
+xCpResource
+xTexan Fence/Icons/App Icon [Rounded]/iTunesArtwork.png
+xBuild/Products/Debug-iphonesimulator/Texan Fence.app/iTunesArtwork.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Copy Build/Products/Debug-iphonesimulator/Texan Fence.app/iTunesArtwork.png140"CpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/iTunesArtwork.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/iTunesArtwork.png705d510c171ab941^f6d0520c171ab941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/brandon/Desktop/Texan%20Fence/Build/Products/Debug-iphonesimulator/Texan%20Fence.app/iTunesArtwork.png00345074dfffdf42^676"CpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/iTunesArtwork.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/iTunesArtwork.png    cd "/Users/brandon/Desktop/Texan Fence"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Icons/App\ Icon\ [Rounded]/iTunesArtwork.png /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app36"A38B1EDB-66BF-4412-BF28-6E7CEA706B70-
+bC34EFC00-0D2A-4901-A275-42FADD515FF6
+
+CCpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/iTunesArtwork@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/iTunesArtwork@2x.png
+s421140236.315649
+e421140236.321029
+r1
+xCpResource
+xTexan Fence/Icons/App Icon [Rounded]/iTunesArtwork@2x.png
+xBuild/Products/Debug-iphonesimulator/Texan Fence.app/iTunesArtwork@2x.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Copy Build/Products/Debug-iphonesimulator/Texan Fence.app/iTunesArtwork@2x.png146"CpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/iTunesArtwork@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/iTunesArtwork@2x.pngf04f510c171ab941^183e520c171ab941^---0#0#1#-19%DVTDocumentLocation2@119"file:///Users/brandon/Desktop/Texan%20Fence/Build/Products/Debug-iphonesimulator/Texan%20Fence.app/iTunesArtwork@2x.png00345074dfffdf42^685"CpResource Texan\ Fence/Icons/App\ Icon\ [Rounded]/iTunesArtwork@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/iTunesArtwork@2x.png    cd "/Users/brandon/Desktop/Texan Fence"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Icons/App\ Icon\ [Rounded]/iTunesArtwork@2x.png /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app36"6C3F9F2A-490E-4913-8EDF-F89E0B0224B4-
+bC34EFC00-0D2A-4901-A275-42FADD515FF6
+
+CCpResource Texan\ Fence/Icons/Default-568h.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Default-568h.png
+s421140236.315514
+e421140236.321424
+r1
+xCpResource
+xTexan Fence/Icons/Default-568h.png
+xBuild/Products/Debug-iphonesimulator/Texan Fence.app/Default-568h.png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Copy Build/Products/Debug-iphonesimulator/Texan Fence.app/Default-568h.png117"CpResource Texan\ Fence/Icons/Default-568h.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Default-568h.pngf25e510c171ab941^4d49520c171ab941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/brandon/Desktop/Texan%20Fence/Build/Products/Debug-iphonesimulator/Texan%20Fence.app/Default-568h.png00345074dfffdf42^631"CpResource Texan\ Fence/Icons/Default-568h.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Default-568h.png    cd "/Users/brandon/Desktop/Texan Fence"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Icons/Default-568h.png /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app36"F5D199C4-7B95-48C4-8A3D-BE2F5A468885-
+bC34EFC00-0D2A-4901-A275-42FADD515FF6
+
+CCpResource Texan\ Fence/Icons/Default@2x\ .png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Default@2x\ .png
+s421140236.324927
+e421140236.326582
+r1
+xCpResource
+xTexan Fence/Icons/Default@2x .png
+xBuild/Products/Debug-iphonesimulator/Texan Fence.app/Default@2x .png
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy Build/Products/Debug-iphonesimulator/Texan Fence.app/Default@2x .png117"CpResource Texan\ Fence/Icons/Default@2x\ .png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Default@2x\ .pngff5d530c171ab941^5b96530c171ab941^---0#0#1#-19%DVTDocumentLocation2@116"file:///Users/brandon/Desktop/Texan%20Fence/Build/Products/Debug-iphonesimulator/Texan%20Fence.app/Default@2x%20.png00345074dfffdf42^631"CpResource Texan\ Fence/Icons/Default@2x\ .png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Default@2x\ .png    cd "/Users/brandon/Desktop/Texan Fence"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Icons/Default@2x\ .png /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app36"34C0723B-1AB5-47F4-BBCB-AF50002CDEF8-
+bC34EFC00-0D2A-4901-A275-42FADD515FF6
 
 CCpResource Texan\ Fence/Repair.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Repair.png
 s421117554.500748
@@ -1365,14 +1730,14 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Copy Bu
 bC6417CF7-B534-43BD-B235-5DFEE99B33D7
 
 CGenerateDSYMFile /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app.dSYM /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Texan\ Fence
-s421135135.889438
-e421135135.983827
+s421140239.145009
+e421140239.309666
 r1
 xGenerateDSYMFile
 x/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app.dSYM
 x/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/Texan Fence
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Generate /Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app.dSYM142"GenerateDSYMFile Build/Products/Debug-iphonesimulator/Texan\ Fence.app.dSYM Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Texan\ Fencea9bee31f031ab941^f0dcfb1f031ab941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/brandon/Desktop/Texan%20Fence/Build/Products/Debug-iphonesimulator/Texan%20Fence.app.dSYM/0000000000000000^683"GenerateDSYMFile Build/Products/Debug-iphonesimulator/Texan\ Fence.app.dSYM Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Texan\ Fence    cd "/Users/brandon/Desktop/Texan Fence"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Texan\ Fence -o /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app.dSYM36"9339D1D4-7FE3-4EE8-91BE-3DBB504243DB-
-b0A163D2B-C8D7-425F-B7EE-7884186DE3D8
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Generate /Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app.dSYM142"GenerateDSYMFile Build/Products/Debug-iphonesimulator/Texan\ Fence.app.dSYM Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Texan\ Fencea037250f171ab941^dc464f0f171ab941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/brandon/Desktop/Texan%20Fence/Build/Products/Debug-iphonesimulator/Texan%20Fence.app.dSYM/0000000000000000^683"GenerateDSYMFile Build/Products/Debug-iphonesimulator/Texan\ Fence.app.dSYM Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Texan\ Fence    cd "/Users/brandon/Desktop/Texan Fence"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Texan\ Fence -o /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app.dSYM36"F34698E0-51FA-4C93-826E-329D55FB4FF9-
+bC34EFC00-0D2A-4901-A275-42FADD515FF6
 
 CLd /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Texan\ Fence normal i386
 s421135134.951387
@@ -1487,18 +1852,18 @@ lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Link /
 b0A163D2B-C8D7-425F-B7EE-7884186DE3D8
 
 CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Script-CFBB5FF3D5D34F64ACA042F6.sh
-s421135959.391479
-e421135959.406130
+s421140236.226628
+e421140236.273428
 r1
 xPhaseScriptExecution
 xCheck Pods Manifest.lock
 x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Script-CFBB5FF3D5D34F64ACA042F6.sh
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'162"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Script-CFBB5FF3D5D34F64ACA042F6.sh2a916457061ab941^87f86757061ab941^---0#0#1#--377"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Script-CFBB5FF3D5D34F64ACA042F6.sh    cd "/Users/brandon/Desktop/Texan Fence"    /bin/sh -c \"/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Script-CFBB5FF3D5D34F64ACA042F6.sh\"36"57CD7E4B-7FC1-426C-8B33-F1775D75CFF6-
-b8347D5DE-A926-4804-A352-169C1A188FAC
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'162"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Script-CFBB5FF3D5D34F64ACA042F6.sh446e3a0c171ab941^da02460c171ab941^---0#0#1#--377"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Script-CFBB5FF3D5D34F64ACA042F6.sh    cd "/Users/brandon/Desktop/Texan Fence"    /bin/sh -c \"/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Script-CFBB5FF3D5D34F64ACA042F6.sh\"36"546CB61B-A258-4B74-8CDE-905ABF73A5BB-
+bC34EFC00-0D2A-4901-A275-42FADD515FF6
 
 CPhaseScriptExecution Copy\ Pods\ Resources /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Script-5AA74564891F47369E9F60F9.sh
-s421135959.412723
-e421135960.533963
+s421140239.310629
+e421140239.779712
 r1
 xPhaseScriptExecution
 xCopy Pods Resources
@@ -1546,18 +1911,18 @@ ototal size is 156739  speedup is 178.11
 o/* com.apple.actool.compilation-results */
 o/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/Assets.car
 o
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Run custom shell script 'Copy Pods Resources'157"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Script-5AA74564891F47369E9F60F9.she8f76957061ab941^64b28858061ab941^-4705"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/activityMH.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/activtyMH@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/EditControl.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/EditControl@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/EditControlSelected.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/EditControlSelected@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/error.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/error@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/facebookMH.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/facebookMH@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/ic_square.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/ic_square@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/left_arrow.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/left_arrow@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/mailMH.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/mailMH@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/messageMH.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/messageMH@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/pause.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/pause@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/play.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/play@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/playButton.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/playButton@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/right_arrow.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/right_arrow@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/saveMH@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/sliderPoint.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/sliderPoint@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/twitterMH.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/twitterMH@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/unplay.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/unplay@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/videoIcon.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/videoIcon@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallery.bundlebuilding file list ... donesent 860 bytes  received 20 bytes  1760.00 bytes/sectotal size is 156739  speedup is 178.11/* com.apple.actool.compilation-results *//Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/Assets.car41(21%IDEActivityLogMessage2@123"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/activityMH.png-421135959#0#123#-0#-----2@125"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/activtyMH@2x.png-421135959#123#125#-0#-----2@124"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/EditControl.png-421135959#248#124#-0#-----2@127"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/EditControl@2x.png-421135959#372#127#-0#-----2@132"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/EditControlSelected.png-421135959#499#132#-0#-----2@135"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/EditControlSelected@2x.png-421135959#631#135#-0#-----2@118"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/error.png-421135959#766#118#-0#-----2@121"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/error@2x.png-421135959#884#121#-0#-----2@123"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/facebookMH.png-421135959#1005#123#-0#-----2@126"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/facebookMH@2x.png-421135959#1128#126#-0#-----2@122"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/ic_square.png-421135959#1254#122#-0#-----2@125"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/ic_square@2x.png-421135959#1376#125#-0#-----2@123"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/left_arrow.png-421135959#1501#123#-0#-----2@126"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/left_arrow@2x.png-421135959#1624#126#-0#-----2@119"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/mailMH.png-421135959#1750#119#-0#-----2@122"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/mailMH@2x.png-421135959#1869#122#-0#-----2@122"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/messageMH.png-421135959#1991#122#-0#-----2@125"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/messageMH@2x.png-421135959#2113#125#-0#-----2@118"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/pause.png-421135959#2238#118#-0#-----2@121"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/pause@2x.png-421135959#2356#121#-0#-----2@117"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/play.png-421135959#2477#117#-0#-----2@120"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/play@2x.png-421135959#2594#120#-0#-----2@123"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/playButton.png-421135959#2714#123#-0#-----2@126"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/playButton@2x.png-421135959#2837#126#-0#-----2@124"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/right_arrow.png-421135959#2963#124#-0#-----2@127"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/right_arrow@2x.png-421135959#3087#127#-0#-----2@122"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/saveMH@2x.png-421135959#3214#122#-0#-----2@124"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/sliderPoint.png-421135959#3336#124#-0#-----2@127"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/sliderPoint@2x.png-421135959#3460#127#-0#-----2@122"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/twitterMH.png-421135959#3587#122#-0#-----2@125"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/twitterMH@2x.png-421135959#3709#125#-0#-----2@119"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/unplay.png-421135959#3834#119#-0#-----2@122"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/unplay@2x.png-421135959#3953#122#-0#-----2@122"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/videoIcon.png-421135959#4075#122#-0#-----2@125"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/videoIcon@2x.png-421135959#4197#125#-0#-----2@118"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallery.bundle-421135959#4322#118#-0#-----2@28"building file list ... done-421135959#4440#28#-0#-----2@53"sent 860 bytes  received 20 bytes  1760.00 bytes/sec-421135959#4469#53#-0#-----2@40"total size is 156739  speedup is 178.11-421135959#4522#40#-0#-----2@43"/* com.apple.actool.compilation-results */-421135960#4562#43#-0#-----2@99"/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/Assets.car-421135960#4605#99#-0#-----0#0#1#--372"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Script-5AA74564891F47369E9F60F9.sh    cd "/Users/brandon/Desktop/Texan Fence"    /bin/sh -c \"/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Script-5AA74564891F47369E9F60F9.sh\"36"9C5E4922-8FB5-4E61-BEB4-27AEA7D21442-
-b8347D5DE-A926-4804-A352-169C1A188FAC
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Run custom shell script 'Copy Pods Resources'157"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Script-5AA74564891F47369E9F60F9.sh34d54f0f171ab941^b79cc70f171ab941^-4705"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/activityMH.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/activtyMH@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/EditControl.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/EditControl@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/EditControlSelected.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/EditControlSelected@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/error.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/error@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/facebookMH.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/facebookMH@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/ic_square.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/ic_square@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/left_arrow.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/left_arrow@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/mailMH.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/mailMH@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/messageMH.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/messageMH@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/pause.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/pause@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/play.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/play@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/playButton.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/playButton@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/right_arrow.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/right_arrow@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/saveMH@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/sliderPoint.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/sliderPoint@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/twitterMH.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/twitterMH@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/unplay.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/unplay@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/videoIcon.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/videoIcon@2x.png/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallery.bundlebuilding file list ... donesent 860 bytes  received 20 bytes  1760.00 bytes/sectotal size is 156739  speedup is 178.11/* com.apple.actool.compilation-results *//Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/Assets.car41(21%IDEActivityLogMessage2@123"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/activityMH.png-421140239#0#123#-0#-----2@125"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/activtyMH@2x.png-421140239#123#125#-0#-----2@124"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/EditControl.png-421140239#248#124#-0#-----2@127"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/EditControl@2x.png-421140239#372#127#-0#-----2@132"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/EditControlSelected.png-421140239#499#132#-0#-----2@135"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/EditControlSelected@2x.png-421140239#631#135#-0#-----2@118"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/error.png-421140239#766#118#-0#-----2@121"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/error@2x.png-421140239#884#121#-0#-----2@123"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/facebookMH.png-421140239#1005#123#-0#-----2@126"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/facebookMH@2x.png-421140239#1128#126#-0#-----2@122"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/ic_square.png-421140239#1254#122#-0#-----2@125"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/ic_square@2x.png-421140239#1376#125#-0#-----2@123"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/left_arrow.png-421140239#1501#123#-0#-----2@126"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/left_arrow@2x.png-421140239#1624#126#-0#-----2@119"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/mailMH.png-421140239#1750#119#-0#-----2@122"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/mailMH@2x.png-421140239#1869#122#-0#-----2@122"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/messageMH.png-421140239#1991#122#-0#-----2@125"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/messageMH@2x.png-421140239#2113#125#-0#-----2@118"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/pause.png-421140239#2238#118#-0#-----2@121"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/pause@2x.png-421140239#2356#121#-0#-----2@117"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/play.png-421140239#2477#117#-0#-----2@120"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/play@2x.png-421140239#2594#120#-0#-----2@123"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/playButton.png-421140239#2714#123#-0#-----2@126"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/playButton@2x.png-421140239#2837#126#-0#-----2@124"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/right_arrow.png-421140239#2963#124#-0#-----2@127"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/right_arrow@2x.png-421140239#3087#127#-0#-----2@122"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/saveMH@2x.png-421140239#3214#122#-0#-----2@124"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/sliderPoint.png-421140239#3336#124#-0#-----2@127"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/sliderPoint@2x.png-421140239#3460#127#-0#-----2@122"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/twitterMH.png-421140239#3587#122#-0#-----2@125"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/twitterMH@2x.png-421140239#3709#125#-0#-----2@119"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/unplay.png-421140239#3834#119#-0#-----2@122"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/unplay@2x.png-421140239#3953#122#-0#-----2@122"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/videoIcon.png-421140239#4075#122#-0#-----2@125"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Images/videoIcon@2x.png-421140239#4197#125#-0#-----2@118"/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallery.bundle-421140239#4322#118#-0#-----2@28"building file list ... done-421140239#4440#28#-0#-----2@53"sent 860 bytes  received 20 bytes  1760.00 bytes/sec-421140239#4469#53#-0#-----2@40"total size is 156739  speedup is 178.11-421140239#4522#40#-0#-----2@43"/* com.apple.actool.compilation-results */-421140239#4562#43#-0#-----2@99"/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/Assets.car-421140239#4605#99#-0#-----0#0#1#--372"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Script-5AA74564891F47369E9F60F9.sh    cd "/Users/brandon/Desktop/Texan Fence"    /bin/sh -c \"/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Script-5AA74564891F47369E9F60F9.sh\"36"C193D81F-E0FF-45D1-9411-9E6150672E67-
+bC34EFC00-0D2A-4901-A275-42FADD515FF6
 
 CProcessInfoPlistFile /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Info.plist /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Texan\ Fence-Info.plist
-s421117556.471342
-e421117556.473804
+s421140239.117636
+e421140239.143515
 r1
 xProcessInfoPlistFile
 x/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/Info.plist
 x/Users/brandon/Desktop/Texan Fence/Texan Fence/Texan Fence-Info.plist
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Process /Users/brandon/Desktop/Texan Fence/Texan Fence/Texan Fence-Info.plist122"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Info.plist Texan\ Fence/Texan\ Fence-Info.plistf9ba7874be19b941^444c7974be19b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/brandon/Desktop/Texan%20Fence/Texan%20Fence/Texan%20Fence-Info.plist0000000000000000^913"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Info.plist Texan\ Fence/Texan\ Fence-Info.plist    cd "/Users/brandon/Desktop/Texan Fence"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Texan\ Fence-Info.plist -genpkginfo /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/assetcatalog_generated_info.plist -o /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Info.plist36"7C35F8E4-F250-4088-84C9-B2A88D0C14FD-
-bC6417CF7-B534-43BD-B235-5DFEE99B33D7
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Process /Users/brandon/Desktop/Texan Fence/Texan Fence/Texan Fence-Info.plist122"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Info.plist Texan\ Fence/Texan\ Fence-Info.plist272f1e0f171ab941^0abf240f171ab941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/brandon/Desktop/Texan%20Fence/Texan%20Fence/Texan%20Fence-Info.plist0000000000000000^913"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Info.plist Texan\ Fence/Texan\ Fence-Info.plist    cd "/Users/brandon/Desktop/Texan Fence"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Texan\ Fence-Info.plist -genpkginfo /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/assetcatalog_generated_info.plist -o /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Info.plist36"D5A60044-AFE1-4417-BD44-5B478C113DB6-
+bC34EFC00-0D2A-4901-A275-42FADD515FF6
 
 CProcessPCH /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Texan\ Fence-Prefix-etoqquzojbvpsdckbjionyyljmrg/Texan\ Fence-Prefix.pch.pch Texan\ Fence/Texan\ Fence-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s421117498.648610
@@ -1578,11 +1943,11 @@ CProcessPCH /Users/brandon/Library/Developer/Xcode/DerivedData/Texan_Fence-gznil
 r0
 
 CTouch /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app
-s421135812.573421
-e421135812.576911
+s421140239.781146
+e421140239.786719
 r1
 xTouch
 x/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Touch /Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app59"Touch Build/Products/Debug-iphonesimulator/Texan\ Fence.appd8d792c4051ab941^25b293c4051ab941^---0#0#1#--411"Touch Build/Products/Debug-iphonesimulator/Texan\ Fence.app    cd "/Users/brandon/Desktop/Texan Fence"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app36"CB7C5473-C55C-4CEA-B6A7-87430C0656FC-
-bB9173798-F214-43C9-8A3F-B91110C1423F
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Touch /Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app59"Touch Build/Products/Debug-iphonesimulator/Texan\ Fence.appc405c80f171ab941^4567c90f171ab941^---0#0#1#--411"Touch Build/Products/Debug-iphonesimulator/Texan\ Fence.app    cd "/Users/brandon/Desktop/Texan Fence"    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app36"08A5993E-52A6-4663-AF5A-1E093CD9B7F5-
+bC34EFC00-0D2A-4901-A275-42FADD515FF6
 

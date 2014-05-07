@@ -299,7 +299,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies74d15c57061ab941^992d5d57061ab941^---0#1#1#--18"Check dependencies36"9C665A2A-B8D6-4025-9665-932B6F610A4B-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesc5e21f0c171ab941^ec85220c171ab941^---0#1#1#--18"Check dependencies36"C0A55E48-A7B5-4896-9ED6-03BD1D8B73E9-
 
 CCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/NSData+ImageContentType.o /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 s421117497.416906
