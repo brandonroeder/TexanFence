@@ -1,0 +1,592 @@
+TPods-SDWebImage
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-SDWebImage-prefix-fsuuauiuemuzatdkkpuvwifwaiba/Pods-SDWebImage-prefix.pch.pch Pods-SDWebImage-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-SDWebImage-prefix-ficakqzhuzquweapcfhcodnaxmkz/Pods-SDWebImage-prefix.pch.pch Pods-SDWebImage-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/NSData+ImageContentType.o /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/Pods-SDWebImage-dummy.o /Users/brandon/Desktop/Texan\ Fence/Pods/Pods-SDWebImage-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDImageCache.o /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/SDImageCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageCompat.o /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageDecoder.o /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageDownloader.o /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageDownloaderOperation.o /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageManager.o /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/SDWebImageManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImagePrefetcher.o /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIButton+WebCache.o /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/UIButton+WebCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIImage+GIF.o /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/UIImage+GIF.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIImage+MultiFormat.o /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIImageView+WebCache.o /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/libPods-SDWebImage.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533268310000000000A90C10
+t1395812401
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+c00000000533268310000000000836810
+t1395812401
+s8611856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534B1CA40000000000000198
+t1397431460
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005332684200000000000003B4
+t1395812418
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053326848000000000000019E
+t1395812424
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533268780000000000000ADC
+t1395812472
+s2780
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/NSData+ImageContentType.o
+t1399424697
+s8600
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/Pods-SDWebImage-dummy.o
+t1399424697
+s3416
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/Pods-SDWebImage.LinkFileList
+c00000000536986B900000000000007B3
+t1399424697
+s1971
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDImageCache.o
+t1399424697
+s140672
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageCompat.o
+t1399424697
+s11508
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageDecoder.o
+t1399424697
+s12168
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageDownloader.o
+t1399424697
+s64444
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageDownloaderOperation.o
+t1399424697
+s76332
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageManager.o
+t1399424697
+s91840
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImagePrefetcher.o
+t1399424697
+s40408
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIButton+WebCache.o
+t1399424697
+s74412
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIImage+GIF.o
+t1399424697
+s21344
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIImage+MultiFormat.o
+t1399424697
+s9084
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIImageView+WebCache.o
+t1399424697
+s68272
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/PrecompiledHeaders/Pods-SDWebImage-prefix-ficakqzhuzquweapcfhcodnaxmkz/Pods-SDWebImage-prefix.pch.pch
+t1399424697
+s122252
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/PrecompiledHeaders/Pods-SDWebImage-prefix-fsuuauiuemuzatdkkpuvwifwaiba/Pods-SDWebImage-prefix.pch.pch
+t1399424697
+s124328
+
+N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/libPods-SDWebImage.a
+t1399424697
+s627760
+
+N/Users/brandon/Desktop/Texan Fence/Pods/Pods-SDWebImage-dummy.m
+c00000000536976110000000000000086
+t1399420433
+s134
+
+N/Users/brandon/Desktop/Texan Fence/Pods/Pods-SDWebImage-prefix.pch
+c0000000053697611000000000000004D
+t1399420433
+s77
+
+N/Users/brandon/Desktop/Texan Fence/Pods/Pods-environment.h
+c0000000053697611000000000000036C
+t1399420433
+s876
+
+N/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.h
+c000000005369761100000000000000EC
+t1399420433
+s236
+
+N/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.m
+c000000005369761100000000000003EA
+t1399420433
+s1002
+
+N/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDImageCache.h
+c00000000536976110000000000001334
+t1399420433
+s4916
+
+N/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDImageCache.m
+c0000000053697611000000000000461F
+t1399420433
+s17951
+
+N/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
+c000000005369761100000000000005F8
+t1399420433
+s1528
+
+N/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.m
+c00000000536976110000000000000591
+t1399420433
+s1425
+
+N/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h
+c000000005369761100000000000001C5
+t1399420433
+s453
+
+N/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.m
+c00000000536976110000000000000A24
+t1399420433
+s2596
+
+N/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h
+c00000000536976110000000000001554
+t1399420433
+s5460
+
+N/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.m
+c000000005369761100000000000028CF
+t1399420433
+s10447
+
+N/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.h
+c00000000536976110000000000000353
+t1399420433
+s851
+
+N/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.m
+c000000005369761100000000000039D5
+t1399420433
+s14805
+
+N/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageManager.h
+c00000000536976110000000000001CD5
+t1399420433
+s7381
+
+N/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageManager.m
+c000000005369761100000000000027F2
+t1399420433
+s10226
+
+N/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h
+c00000000536976110000000000000149
+t1399420433
+s329
+
+N/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.h
+c00000000536976110000000000000AF4
+t1399420433
+s2804
+
+N/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.m
+c0000000053697611000000000000129D
+t1399420433
+s4765
+
+N/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIButton+WebCache.h
+c0000000053697611000000000000223A
+t1399420433
+s8762
+
+N/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIButton+WebCache.m
+c00000000536976110000000000001476
+t1399420433
+s5238
+
+N/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImage+GIF.h
+c0000000053697611000000000000017E
+t1399420433
+s382
+
+N/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImage+GIF.m
+c000000005369761100000000000012EF
+t1399420433
+s4847
+
+N/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.h
+c00000000536976110000000000000107
+t1399420433
+s263
+
+N/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.m
+c00000000536976110000000000000347
+t1399420433
+s839
+
+N/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h
+c00000000536976110000000000001860
+t1399420433
+s6240
+
+N/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.m
+c0000000053697611000000000000129F
+t1399420433
+s4767
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Pods/Pods-SDWebImage-dummy.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/SDImageCache.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/SDWebImageManager.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/UIButton+WebCache.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/UIImage+GIF.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies8b337254ea19b941^7ac5a354ea19b941^---0#1#1#--18"Check dependencies36"D5E3B988-0DC3-47B8-88D7-D6BB8818328F-
+
+CCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/NSData+ImageContentType.o /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117497.416906
+e421117497.515891
+r1
+xCompileC
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/NSData+ImageContentType.o
+x/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.m
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.m281"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/NSData+ImageContentType.o SDWebImage/SDWebImage/NSData+ImageContentType.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4ed06a39be19b941^f5118439be19b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/brandon/Desktop/Texan%20Fence/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.m0000000000000000^3992"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/NSData+ImageContentType.o SDWebImage/SDWebImage/NSData+ImageContentType.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-SDWebImage-prefix-fsuuauiuemuzatdkkpuvwifwaiba/Pods-SDWebImage-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/NSData+ImageContentType.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/NSData+ImageContentType.dia -c /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/NSData+ImageContentType.o36"4C0692E0-0679-4FF0-B228-323D2C6AB005-
+b64EF02EF-6430-40FF-83A3-A04EDFD28433
+
+CCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/Pods-SDWebImage-dummy.o /Users/brandon/Desktop/Texan\ Fence/Pods/Pods-SDWebImage-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117497.417192
+e421117497.491411
+r1
+xCompileC
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/Pods-SDWebImage-dummy.o
+x/Users/brandon/Desktop/Texan Fence/Pods/Pods-SDWebImage-dummy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/Pods-SDWebImage-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/brandon/Desktop/Texan Fence/Pods/Pods-SDWebImage-dummy.m255"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/Pods-SDWebImage-dummy.o Pods-SDWebImage-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb1e06a39be19b941^3bc67d39be19b941^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/brandon/Desktop/Texan%20Fence/Pods/Pods-SDWebImage-dummy.m0000000000000000^3902"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/Pods-SDWebImage-dummy.o Pods-SDWebImage-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-SDWebImage-prefix-ficakqzhuzquweapcfhcodnaxmkz/Pods-SDWebImage-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/Pods-SDWebImage-dummy.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/Pods-SDWebImage-dummy.dia -c /Users/brandon/Desktop/Texan\ Fence/Pods/Pods-SDWebImage-dummy.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/Pods-SDWebImage-dummy.o36"CEB57F8C-BD22-4E82-8CB9-FFE91373C07F-
+b64EF02EF-6430-40FF-83A3-A04EDFD28433
+
+CCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDImageCache.o /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/SDImageCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117497.417493
+e421117497.667875
+r1
+xCompileC
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDImageCache.o
+x/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDImageCache.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDImageCache.m
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDImageCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDImageCache.m259"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDImageCache.o SDWebImage/SDWebImage/SDImageCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf8fa6a39be19b941^1efaaa39be19b941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/brandon/Desktop/Texan%20Fence/Pods/SDWebImage/SDWebImage/SDImageCache.m0000000000000000^3926"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDImageCache.o SDWebImage/SDWebImage/SDImageCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-SDWebImage-prefix-fsuuauiuemuzatdkkpuvwifwaiba/Pods-SDWebImage-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDImageCache.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDImageCache.dia -c /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/SDImageCache.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDImageCache.o36"B739D437-E181-442B-AD18-890B29DA8CB7-
+b64EF02EF-6430-40FF-83A3-A04EDFD28433
+
+CCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageCompat.o /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117497.417784
+e421117497.526442
+r1
+xCompileC
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageCompat.o
+x/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.m
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.m267"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageCompat.o SDWebImage/SDWebImage/SDWebImageCompat.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd3166b39be19b941^a8c78639be19b941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/brandon/Desktop/Texan%20Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.m0000000000000000^3950"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageCompat.o SDWebImage/SDWebImage/SDWebImageCompat.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-SDWebImage-prefix-fsuuauiuemuzatdkkpuvwifwaiba/Pods-SDWebImage-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageCompat.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageCompat.dia -c /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageCompat.o36"4F841B7E-9574-4233-9040-505B2262A2C6-
+b64EF02EF-6430-40FF-83A3-A04EDFD28433
+
+CCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageDecoder.o /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117497.418260
+e421117497.542698
+r1
+xCompileC
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageDecoder.o
+x/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.m
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.m269"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageDecoder.o SDWebImage/SDWebImage/SDWebImageDecoder.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd93f6b39be19b941^a6ee8a39be19b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/brandon/Desktop/Texan%20Fence/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.m0000000000000000^3956"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageDecoder.o SDWebImage/SDWebImage/SDWebImageDecoder.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-SDWebImage-prefix-fsuuauiuemuzatdkkpuvwifwaiba/Pods-SDWebImage-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageDecoder.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageDecoder.dia -c /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageDecoder.o36"34130A6A-048D-45A2-8AF4-8C55606D6E01-
+b64EF02EF-6430-40FF-83A3-A04EDFD28433
+
+CCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageDownloader.o /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117497.418720
+e421117497.601954
+r1
+xCompileC
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageDownloader.o
+x/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.m
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.m275"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageDownloader.o SDWebImage/SDWebImage/SDWebImageDownloader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera54b6b39be19b941^a41a9a39be19b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/brandon/Desktop/Texan%20Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.m0000000000000000^3974"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageDownloader.o SDWebImage/SDWebImage/SDWebImageDownloader.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-SDWebImage-prefix-fsuuauiuemuzatdkkpuvwifwaiba/Pods-SDWebImage-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageDownloader.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageDownloader.dia -c /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageDownloader.o36"AA441F63-B5CB-49E3-89E1-0F3BD59D6CF6-
+b64EF02EF-6430-40FF-83A3-A04EDFD28433
+
+CCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageDownloaderOperation.o /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117497.419118
+e421117497.630497
+r1
+xCompileC
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageDownloaderOperation.o
+x/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.m
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.m293"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageDownloaderOperation.o SDWebImage/SDWebImage/SDWebImageDownloaderOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler20796b39be19b941^8368a139be19b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/brandon/Desktop/Texan%20Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.m0000000000000000^4028"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageDownloaderOperation.o SDWebImage/SDWebImage/SDWebImageDownloaderOperation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-SDWebImage-prefix-fsuuauiuemuzatdkkpuvwifwaiba/Pods-SDWebImage-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageDownloaderOperation.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageDownloaderOperation.dia -c /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageDownloaderOperation.o36"B4F4CB9C-D38B-4BDB-9C45-940801638D66-
+b64EF02EF-6430-40FF-83A3-A04EDFD28433
+
+CCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageManager.o /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/SDWebImageManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117497.419665
+e421117497.625799
+r1
+xCompileC
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageManager.o
+x/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageManager.m
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDImageCache.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageManager.m269"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageManager.o SDWebImage/SDWebImage/SDWebImageManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6ea16b39be19b941^fc36a039be19b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/brandon/Desktop/Texan%20Fence/Pods/SDWebImage/SDWebImage/SDWebImageManager.m0000000000000000^3956"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageManager.o SDWebImage/SDWebImage/SDWebImageManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-SDWebImage-prefix-fsuuauiuemuzatdkkpuvwifwaiba/Pods-SDWebImage-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageManager.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageManager.dia -c /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/SDWebImageManager.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImageManager.o36"86D989E0-75C3-43DF-A873-B82BD91D913D-
+b64EF02EF-6430-40FF-83A3-A04EDFD28433
+
+CCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImagePrefetcher.o /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117497.491781
+e421117497.611579
+r1
+xCompileC
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImagePrefetcher.o
+x/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.m
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDImageCache.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.m275"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImagePrefetcher.o SDWebImage/SDWebImage/SDWebImagePrefetcher.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compileref017e39be19b941^f7909c39be19b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/brandon/Desktop/Texan%20Fence/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.m0000000000000000^3974"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImagePrefetcher.o SDWebImage/SDWebImage/SDWebImagePrefetcher.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-SDWebImage-prefix-fsuuauiuemuzatdkkpuvwifwaiba/Pods-SDWebImage-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImagePrefetcher.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImagePrefetcher.dia -c /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/SDWebImagePrefetcher.o36"1299A3B6-CAFE-4FE0-A73F-5316D8855C68-
+b64EF02EF-6430-40FF-83A3-A04EDFD28433
+
+CCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIButton+WebCache.o /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/UIButton+WebCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117497.516163
+e421117497.652387
+r1
+xCompileC
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIButton+WebCache.o
+x/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIButton+WebCache.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIButton+WebCache.m
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIButton+WebCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDImageCache.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIButton+WebCache.m269"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIButton+WebCache.o SDWebImage/SDWebImage/UIButton+WebCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler33518439be19b941^5305a739be19b941^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/brandon/Desktop/Texan%20Fence/Pods/SDWebImage/SDWebImage/UIButton+WebCache.m0000000000000000^3956"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIButton+WebCache.o SDWebImage/SDWebImage/UIButton+WebCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-SDWebImage-prefix-fsuuauiuemuzatdkkpuvwifwaiba/Pods-SDWebImage-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIButton+WebCache.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIButton+WebCache.dia -c /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/UIButton+WebCache.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIButton+WebCache.o36"085A20B3-91C0-4711-85F8-F3323953CCCA-
+b64EF02EF-6430-40FF-83A3-A04EDFD28433
+
+CCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIImage+GIF.o /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/UIImage+GIF.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117497.527261
+e421117497.617387
+r1
+xCompileC
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIImage+GIF.o
+x/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImage+GIF.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImage+GIF.m
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImage+GIF.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImage+GIF.m257"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIImage+GIF.o SDWebImage/SDWebImage/UIImage+GIF.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler151b8739be19b941^780d9e39be19b941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/brandon/Desktop/Texan%20Fence/Pods/SDWebImage/SDWebImage/UIImage+GIF.m0000000000000000^3920"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIImage+GIF.o SDWebImage/SDWebImage/UIImage+GIF.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-SDWebImage-prefix-fsuuauiuemuzatdkkpuvwifwaiba/Pods-SDWebImage-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIImage+GIF.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIImage+GIF.dia -c /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/UIImage+GIF.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIImage+GIF.o36"D4936AFD-0C59-4963-AEC6-A2EDA1FC673A-
+b64EF02EF-6430-40FF-83A3-A04EDFD28433
+
+CCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIImage+MultiFormat.o /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117497.542987
+e421117497.612572
+r1
+xCompileC
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIImage+MultiFormat.o
+x/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.m
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImage+GIF.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.m273"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIImage+MultiFormat.o SDWebImage/SDWebImage/UIImage+MultiFormat.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd1228b39be19b941^16db9c39be19b941^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/brandon/Desktop/Texan%20Fence/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.m0000000000000000^3968"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIImage+MultiFormat.o SDWebImage/SDWebImage/UIImage+MultiFormat.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-SDWebImage-prefix-fsuuauiuemuzatdkkpuvwifwaiba/Pods-SDWebImage-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIImage+MultiFormat.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIImage+MultiFormat.dia -c /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIImage+MultiFormat.o36"B317BA45-D8DA-4133-910F-79847C59D381-
+b64EF02EF-6430-40FF-83A3-A04EDFD28433
+
+CCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIImageView+WebCache.o /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117497.602231
+e421117497.701380
+r1
+xCompileC
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIImageView+WebCache.o
+x/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.m
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDImageCache.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.m275"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIImageView+WebCache.o SDWebImage/SDWebImage/UIImageView+WebCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc74c9a39be19b941^7e8eb339be19b941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/brandon/Desktop/Texan%20Fence/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.m0000000000000000^3974"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIImageView+WebCache.o SDWebImage/SDWebImage/UIImageView+WebCache.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-SDWebImage-prefix-fsuuauiuemuzatdkkpuvwifwaiba/Pods-SDWebImage-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIImageView+WebCache.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIImageView+WebCache.dia -c /Users/brandon/Desktop/Texan\ Fence/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/UIImageView+WebCache.o36"2D0D58EC-3F68-45AC-A93B-B229E1FB0A6B-
+b64EF02EF-6430-40FF-83A3-A04EDFD28433
+
+CLibtool /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/libPods-SDWebImage.a normal i386
+s421117497.703388
+e421117497.721080
+r1
+xLibtool
+x/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/libPods-SDWebImage.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Libtool /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/libPods-SDWebImage.a normal i386113"Libtool /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/libPods-SDWebImage.a normal i386a62bb439be19b941^4a99b839be19b941^---0#0#1#--1034"Libtool /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/libPods-SDWebImage.a normal i386    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -filelist /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Objects-normal/i386/Pods-SDWebImage.LinkFileList -framework Foundation -framework ImageIO -o /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/libPods-SDWebImage.a36"C3276EE5-8D21-49D7-8DD3-8AAEC3C1A4CC-
+b64EF02EF-6430-40FF-83A3-A04EDFD28433
+
+CProcessPCH /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-SDWebImage-prefix-ficakqzhuzquweapcfhcodnaxmkz/Pods-SDWebImage-prefix.pch.pch Pods-SDWebImage-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117497.197620
+e421117497.416260
+r1
+xProcessPCH
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/PrecompiledHeaders/Pods-SDWebImage-prefix-ficakqzhuzquweapcfhcodnaxmkz/Pods-SDWebImage-prefix.pch.pch
+xPods-SDWebImage-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/Pods-SDWebImage-prefix.pch
+d/Users/brandon/Desktop/Texan Fence/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile Pods-SDWebImage-prefix.pch263"ProcessPCH /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-SDWebImage-prefix-ficakqzhuzquweapcfhcodnaxmkz/Pods-SDWebImage-prefix.pch.pch Pods-SDWebImage-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler20b83239be19b941^ca8a6d39be19b941^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/brandon/Desktop/Texan%20Fence/Pods/Pods-SDWebImage-prefix.pch0000000000000000^3762"ProcessPCH /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-SDWebImage-prefix-ficakqzhuzquweapcfhcodnaxmkz/Pods-SDWebImage-prefix.pch.pch Pods-SDWebImage-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-SDWebImage-prefix-ficakqzhuzquweapcfhcodnaxmkz/Pods-SDWebImage-prefix.pch.dia -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-SDWebImage-prefix-ficakqzhuzquweapcfhcodnaxmkz/Pods-SDWebImage-prefix.pch.d -c /Users/brandon/Desktop/Texan\ Fence/Pods/Pods-SDWebImage-prefix.pch -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-SDWebImage-prefix-ficakqzhuzquweapcfhcodnaxmkz/Pods-SDWebImage-prefix.pch.pch36"8DB7C035-135F-4C22-8168-A382CE2BDFF5-
+b64EF02EF-6430-40FF-83A3-A04EDFD28433
+
+CProcessPCH /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-SDWebImage-prefix-fsuuauiuemuzatdkkpuvwifwaiba/Pods-SDWebImage-prefix.pch.pch Pods-SDWebImage-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117497.197193
+e421117497.416260
+r1
+xProcessPCH
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/PrecompiledHeaders/Pods-SDWebImage-prefix-fsuuauiuemuzatdkkpuvwifwaiba/Pods-SDWebImage-prefix.pch.pch
+xPods-SDWebImage-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/Pods-SDWebImage-prefix.pch
+d/Users/brandon/Desktop/Texan Fence/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile Pods-SDWebImage-prefix.pch263"ProcessPCH /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-SDWebImage-prefix-fsuuauiuemuzatdkkpuvwifwaiba/Pods-SDWebImage-prefix.pch.pch Pods-SDWebImage-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5a9b3239be19b941^fb926d39be19b941^---0#0#1#-19%DVTDocumentLocation2@75"file:///Users/brandon/Desktop/Texan%20Fence/Pods/Pods-SDWebImage-prefix.pch0000000000000000^3796"ProcessPCH /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-SDWebImage-prefix-fsuuauiuemuzatdkkpuvwifwaiba/Pods-SDWebImage-prefix.pch.pch Pods-SDWebImage-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/Pods-SDWebImage-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-SDWebImage.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -fobjc-arc -DOS_OBJECT_USE_OBJC=0 --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-SDWebImage-prefix-fsuuauiuemuzatdkkpuvwifwaiba/Pods-SDWebImage-prefix.pch.dia -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-SDWebImage-prefix-fsuuauiuemuzatdkkpuvwifwaiba/Pods-SDWebImage-prefix.pch.d -c /Users/brandon/Desktop/Texan\ Fence/Pods/Pods-SDWebImage-prefix.pch -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-SDWebImage-prefix-fsuuauiuemuzatdkkpuvwifwaiba/Pods-SDWebImage-prefix.pch.pch36"DB19F5A6-4FD9-415F-8E0A-E992780781C1-
+b64EF02EF-6430-40FF-83A3-A04EDFD28433
+
+CProcessPCH /Users/brandon/Library/Developer/Xcode/DerivedData/Texan_Fence-gznilkshthrmtjgqryozrfhgfoak/Index/PrecompiledHeaders/Pods-SDWebImage-prefix-devxwvaqyvfkjicpxthjtuzawuwl_ast/Pods-SDWebImage-prefix.pch.pch Pods-SDWebImage-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/brandon/Library/Developer/Xcode/DerivedData/Texan_Fence-gznilkshthrmtjgqryozrfhgfoak/Index/PrecompiledHeaders/Pods-SDWebImage-prefix-djjohbqataarceamgmnotfmtqxvo_ast/Pods-SDWebImage-prefix.pch.pch Pods-SDWebImage-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+

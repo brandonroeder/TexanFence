@@ -1,0 +1,15 @@
+PODS:
+  - MHVideoPhotoGallery (1.6):
+    - SDWebImage (~> 3.5.2)
+  - SDWebImage (3.5.4):
+    - SDWebImage/Core
+  - SDWebImage/Core (3.5.4)
+
+DEPENDENCIES:
+  - MHVideoPhotoGallery (~> 1.6)
+
+SPEC CHECKSUMS:
+  MHVideoPhotoGallery: c16655b29c1032729dac673e8d0b414e8515c862
+  SDWebImage: 1a62010700adbba823b621fc217906739dbf6aa5
+
+COCOAPODS: 0.32.1

@@ -1,0 +1,662 @@
+TTexan Fence
+v6
+r1
+cCheck dependencies
+cPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Script-CFBB5FF3D5D34F64ACA042F6.sh
+cProcessPCH /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Texan\ Fence-Prefix-etoqquzojbvpsdckbjionyyljmrg/Texan\ Fence-Prefix.pch.pch Texan\ Fence/Texan\ Fence-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/MDTextView.o /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/src/Input\ Views/MDTextView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/ContactViewController.o /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/ContactViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/MDTextField.o /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/src/Input\ Views/MDTextField.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/MDContactFormViewController.o /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/src/MDContactFormViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/MenuViewController.o /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/MenuViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/SpecialsViewController.o /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/SpecialsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/AppDelegate.o /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/main.o /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/SWRevealViewController.o /Volumes/Macintosh-\ Files/Downloads/SWRevealViewController-master/SWRevealViewController/SWRevealViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/GalleryViewController.o /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/GalleryViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/HomeViewController.o /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/HomeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/ServicesViewController.o /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/ServicesViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Texan\ Fence normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534B1CA40000000000000198
+t1397431460
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005332684200000000000003B4
+t1395812418
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053326848000000000000019E
+t1395812424
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534B1C7B0000000000446820
+t1397431419
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000005332684A00000000000F1A80
+t1395812426
+s989824
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005332684B000000000088D8C0
+t1395812427
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000005332684C00000000002E6B60
+t1395812428
+s3042144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005332684F0000000001F1DE10
+t1395812431
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533268780000000000000ADC
+t1395812472
+s2780
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/PrecompiledHeaders/Texan Fence-Prefix-etoqquzojbvpsdckbjionyyljmrg/Texan Fence-Prefix.pch.pch
+t1399424698
+s122532
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/AppDelegate.o
+t1399424698
+s64280
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/ContactViewController.o
+t1399424698
+s55100
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/GalleryViewController.o
+t1399424698
+s142972
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/HomeViewController.o
+t1399424698
+s143492
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/MDContactFormViewController.o
+t1399424698
+s128316
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/MDTextField.o
+t1399424698
+s45704
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/MDTextView.o
+t1399424698
+s45328
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/MenuViewController.o
+t1399424698
+s60776
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/SWRevealViewController.o
+t1399424698
+s244984
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/ServicesViewController.o
+t1399424698
+s49200
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/SpecialsViewController.o
+t1399424698
+s43688
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/Texan Fence.LinkFileList
+c00000000536986BA000000000000072F
+t1399424698
+s1839
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/main.o
+t1399424698
+s3532
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Script-CFBB5FF3D5D34F64ACA042F6.sh
+c00000000536986BA0000000000000103
+t1399424698
+s259
+
+N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/Texan Fence
+t2
+s0
+
+N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/libPods.a
+c00000000536986BA00000000002C55C8
+t1399424698
+s2905544
+
+N/Users/brandon/Desktop/Texan Fence/Texan Fence/AppDelegate.m
+c00000000536973C30000000000000905
+t1399419843
+s2309
+
+N/Users/brandon/Desktop/Texan Fence/Texan Fence/ContactViewController.m
+c00000000536973E9000000000000063C
+t1399419881
+s1596
+
+N/Users/brandon/Desktop/Texan Fence/Texan Fence/GalleryViewController.m
+c00000000536986560000000000003B10
+t1399424598
+s15120
+
+N/Users/brandon/Desktop/Texan Fence/Texan Fence/HomeViewController.m
+c00000000536986560000000000003BFB
+t1399424598
+s15355
+
+N/Users/brandon/Desktop/Texan Fence/Texan Fence/MenuViewController.m
+c00000000536976650000000000000B33
+t1399420517
+s2867
+
+N/Users/brandon/Desktop/Texan Fence/Texan Fence/ServicesViewController.m
+c000000005361ADBF00000000000005A7
+t1398910399
+s1447
+
+N/Users/brandon/Desktop/Texan Fence/Texan Fence/SpecialsViewController.m
+c000000005361BBA30000000000000565
+t1398913955
+s1381
+
+N/Users/brandon/Desktop/Texan Fence/Texan Fence/Texan Fence-Prefix.pch
+c0000000053619C7C0000000000000158
+t1398905980
+s344
+
+N/Users/brandon/Desktop/Texan Fence/Texan Fence/main.m
+c0000000053619C7C000000000000015B
+t1398905980
+s347
+
+N/Users/brandon/Desktop/Texan Fence/Texan Fence/src/Input Views/MDTextField.m
+c00000000502846300000000000000262
+t1344816688
+s610
+
+N/Users/brandon/Desktop/Texan Fence/Texan Fence/src/Input Views/MDTextView.m
+c0000000050284630000000000000025F
+t1344816688
+s607
+
+N/Users/brandon/Desktop/Texan Fence/Texan Fence/src/MDContactFormViewController.m
+c00000000536228FA000000000000521B
+t1398941946
+s21019
+
+N/Volumes/Macintosh- Files/Downloads/SWRevealViewController-master/SWRevealViewController/SWRevealViewController.m
+c00000000535E9DF0000000000000D60A
+t1398709744
+s54794
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/AppDelegate.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/ContactViewController.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/GalleryViewController.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/HomeViewController.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/MenuViewController.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/ServicesViewController.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/SpecialsViewController.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/main.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/src/Input\ Views/MDTextField.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/src/Input\ Views/MDTextView.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/src/MDContactFormViewController.m
+r0
+
+CBuild AST from /Volumes/Macintosh-\ Files/Downloads/SWRevealViewController-master/SWRevealViewController/SWRevealViewController.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies1d1fa13abe19b941^53e7a13abe19b941^---0#1#1#--18"Check dependencies36"43F4F68D-B28A-4C64-A017-64E1E1A12363-
+
+CCompileAssetCatalog /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Images.xcassets
+r0
+
+CCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/AppDelegate.o /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117498.694340
+e421117498.806922
+r1
+xCompileC
+xBuild/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/AppDelegate.o
+x/Users/brandon/Desktop/Texan Fence/Texan Fence/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Texan Fence/AppDelegate.m
+d/Users/brandon/Desktop/Texan Fence/Texan Fence/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/brandon/Desktop/Texan Fence/Texan Fence/AppDelegate.m217"CompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/AppDelegate.o Texan\ Fence/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbce6b13abe19b941^2993ce3abe19b941^---0#0#1#-19%DVTDocumentLocation2@71"file:///Users/brandon/Desktop/Texan%20Fence/Texan%20Fence/AppDelegate.m0000000000000000^4062"CompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/AppDelegate.o Texan\ Fence/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Texan\ Fence-Prefix-etoqquzojbvpsdckbjionyyljmrg/Texan\ Fence-Prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/AppDelegate.dia -c /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/AppDelegate.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/AppDelegate.o36"3040BF04-F64B-4BE7-87BF-EB5182053ADF-
+b4B1FB772-DA4C-4E90-88CD-3662A89745A6
+
+CCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/ContactViewController.o /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/ContactViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117498.692244
+e421117498.825500
+r1
+xCompileC
+xBuild/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/ContactViewController.o
+x/Users/brandon/Desktop/Texan Fence/Texan Fence/ContactViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Texan Fence/ContactViewController.m
+d/Users/brandon/Desktop/Texan Fence/Texan Fence/ContactViewController.h
+d/Volumes/Macintosh- Files/Downloads/SWRevealViewController-master/SWRevealViewController/SWRevealViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/brandon/Desktop/Texan Fence/Texan Fence/ContactViewController.m237"CompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/ContactViewController.o Texan\ Fence/ContactViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler984cb13abe19b941^3b54d33abe19b941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/brandon/Desktop/Texan%20Fence/Texan%20Fence/ContactViewController.m0000000000000000^4122"CompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/ContactViewController.o Texan\ Fence/ContactViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Texan\ Fence-Prefix-etoqquzojbvpsdckbjionyyljmrg/Texan\ Fence-Prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/ContactViewController.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/ContactViewController.dia -c /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/ContactViewController.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/ContactViewController.o36"19BF887F-FD2B-4473-AE3E-1BAEFF4CBC1C-
+b4B1FB772-DA4C-4E90-88CD-3662A89745A6
+
+CCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/GalleryViewController.o /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/GalleryViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117498.787430
+e421117498.955743
+r1
+xCompileC
+xBuild/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/GalleryViewController.o
+x/Users/brandon/Desktop/Texan Fence/Texan Fence/GalleryViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Texan Fence/GalleryViewController.m
+d/Users/brandon/Desktop/Texan Fence/Texan Fence/GalleryViewController.h
+d/Volumes/Macintosh- Files/Downloads/SWRevealViewController-master/SWRevealViewController/SWRevealViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/brandon/Desktop/Texan Fence/Texan Fence/GalleryViewController.m237"CompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/GalleryViewController.o Texan\ Fence/GalleryViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler80d5c93abe19b941^f3acf43abe19b941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/brandon/Desktop/Texan%20Fence/Texan%20Fence/GalleryViewController.m0000000000000000^4122"CompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/GalleryViewController.o Texan\ Fence/GalleryViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Texan\ Fence-Prefix-etoqquzojbvpsdckbjionyyljmrg/Texan\ Fence-Prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/GalleryViewController.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/GalleryViewController.dia -c /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/GalleryViewController.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/GalleryViewController.o36"F79AAA68-3086-4D83-91BF-C4F3CFAF5BA0-
+b4B1FB772-DA4C-4E90-88CD-3662A89745A6
+
+CCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/HomeViewController.o /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/HomeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117498.794633
+e421117498.961009
+r1
+xCompileC
+xBuild/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/HomeViewController.o
+x/Users/brandon/Desktop/Texan Fence/Texan Fence/HomeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Texan Fence/HomeViewController.m
+d/Users/brandon/Desktop/Texan Fence/Texan Fence/HomeViewController.h
+d/Volumes/Macintosh- Files/Downloads/SWRevealViewController-master/SWRevealViewController/SWRevealViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/brandon/Desktop/Texan Fence/Texan Fence/HomeViewController.m231"CompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/HomeViewController.o Texan\ Fence/HomeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0c91cb3abe19b941^ee05f63abe19b941^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/brandon/Desktop/Texan%20Fence/Texan%20Fence/HomeViewController.m0000000000000000^4104"CompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/HomeViewController.o Texan\ Fence/HomeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Texan\ Fence-Prefix-etoqquzojbvpsdckbjionyyljmrg/Texan\ Fence-Prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/HomeViewController.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/HomeViewController.dia -c /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/HomeViewController.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/HomeViewController.o36"CCF1032A-D5C6-4412-8D84-6B43CEACC029-
+b4B1FB772-DA4C-4E90-88CD-3662A89745A6
+
+CCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/MDContactFormViewController.o /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/src/MDContactFormViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117498.692875
+e421117498.886145
+r1
+xCompileC
+xBuild/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/MDContactFormViewController.o
+x/Users/brandon/Desktop/Texan Fence/Texan Fence/src/MDContactFormViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Texan Fence/src/MDContactFormViewController.m
+d/Users/brandon/Desktop/Texan Fence/Texan Fence/src/Input Views/MDTextField.h
+d/Users/brandon/Desktop/Texan Fence/Texan Fence/src/Input Views/MDTextView.h
+d/Users/brandon/Desktop/Texan Fence/Texan Fence/src/MDContactFormViewController.h
+d/Volumes/Macintosh- Files/Downloads/SWRevealViewController-master/SWRevealViewController/SWRevealViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/brandon/Desktop/Texan Fence/Texan Fence/src/MDContactFormViewController.m253"CompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/MDContactFormViewController.o Texan\ Fence/src/MDContactFormViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6686b13abe19b941^ecdae23abe19b941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/brandon/Desktop/Texan%20Fence/Texan%20Fence/src/MDContactFormViewController.m0000000000000000^4166"CompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/MDContactFormViewController.o Texan\ Fence/src/MDContactFormViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Texan\ Fence-Prefix-etoqquzojbvpsdckbjionyyljmrg/Texan\ Fence-Prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/MDContactFormViewController.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/MDContactFormViewController.dia -c /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/src/MDContactFormViewController.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/MDContactFormViewController.o36"F370704B-5BB0-40BA-8542-DE770B8E9F11-
+b4B1FB772-DA4C-4E90-88CD-3662A89745A6
+
+CCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/MDTextField.o /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/src/Input\ Views/MDTextField.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117498.692581
+e421117498.793854
+r1
+xCompileC
+xBuild/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/MDTextField.o
+x/Users/brandon/Desktop/Texan Fence/Texan Fence/src/Input Views/MDTextField.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Texan Fence/src/Input Views/MDTextField.m
+d/Users/brandon/Desktop/Texan Fence/Texan Fence/src/Input Views/MDTextField.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/brandon/Desktop/Texan Fence/Texan Fence/src/Input Views/MDTextField.m234"CompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/MDTextField.o Texan\ Fence/src/Input\ Views/MDTextField.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler546fb13abe19b941^645acb3abe19b941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/brandon/Desktop/Texan%20Fence/Texan%20Fence/src/Input%20Views/MDTextField.m0000000000000000^4096"CompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/MDTextField.o Texan\ Fence/src/Input\ Views/MDTextField.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Texan\ Fence-Prefix-etoqquzojbvpsdckbjionyyljmrg/Texan\ Fence-Prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/MDTextField.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/MDTextField.dia -c /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/src/Input\ Views/MDTextField.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/MDTextField.o36"8BF62723-D4ED-46A1-9863-27AE66C185E2-
+b4B1FB772-DA4C-4E90-88CD-3662A89745A6
+
+CCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/MDTextView.o /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/src/Input\ Views/MDTextView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117498.692014
+e421117498.793415
+r1
+xCompileC
+xBuild/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/MDTextView.o
+x/Users/brandon/Desktop/Texan Fence/Texan Fence/src/Input Views/MDTextView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Texan Fence/src/Input Views/MDTextView.m
+d/Users/brandon/Desktop/Texan Fence/Texan Fence/src/Input Views/MDTextView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/brandon/Desktop/Texan Fence/Texan Fence/src/Input Views/MDTextView.m232"CompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/MDTextView.o Texan\ Fence/src/Input\ Views/MDTextView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3a3fb13abe19b941^a01acb3abe19b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/brandon/Desktop/Texan%20Fence/Texan%20Fence/src/Input%20Views/MDTextView.m0000000000000000^4090"CompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/MDTextView.o Texan\ Fence/src/Input\ Views/MDTextView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Texan\ Fence-Prefix-etoqquzojbvpsdckbjionyyljmrg/Texan\ Fence-Prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/MDTextView.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/MDTextView.dia -c /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/src/Input\ Views/MDTextView.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/MDTextView.o36"D3B4D1C7-7655-457C-AE3C-4B4811A5B3B2-
+b4B1FB772-DA4C-4E90-88CD-3662A89745A6
+
+CCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/MenuViewController.o /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/MenuViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117498.693485
+e421117498.839404
+r1
+xCompileC
+xBuild/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/MenuViewController.o
+x/Users/brandon/Desktop/Texan Fence/Texan Fence/MenuViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Texan Fence/MenuViewController.m
+d/Users/brandon/Desktop/Texan Fence/Texan Fence/MenuViewController.h
+d/Users/brandon/Desktop/Texan Fence/Texan Fence/HomeViewController.h
+d/Volumes/Macintosh- Files/Downloads/SWRevealViewController-master/SWRevealViewController/SWRevealViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/brandon/Desktop/Texan Fence/Texan Fence/MenuViewController.m231"CompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/MenuViewController.o Texan\ Fence/MenuViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler11a9b13abe19b941^bde5d63abe19b941^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/brandon/Desktop/Texan%20Fence/Texan%20Fence/MenuViewController.m0000000000000000^4104"CompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/MenuViewController.o Texan\ Fence/MenuViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Texan\ Fence-Prefix-etoqquzojbvpsdckbjionyyljmrg/Texan\ Fence-Prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/MenuViewController.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/MenuViewController.dia -c /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/MenuViewController.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/MenuViewController.o36"160D975A-0FFB-48D8-8B2C-95CBD16CC064-
+b4B1FB772-DA4C-4E90-88CD-3662A89745A6
+
+CCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/SWRevealViewController.o /Volumes/Macintosh-\ Files/Downloads/SWRevealViewController-master/SWRevealViewController/SWRevealViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117498.746880
+e421117498.988325
+r1
+xCompileC
+xBuild/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/SWRevealViewController.o
+x/Volumes/Macintosh- Files/Downloads/SWRevealViewController-master/SWRevealViewController/SWRevealViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/Macintosh- Files/Downloads/SWRevealViewController-master/SWRevealViewController/SWRevealViewController.m
+d/Volumes/Macintosh- Files/Downloads/SWRevealViewController-master/SWRevealViewController/SWRevealViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Volumes/Macintosh- Files/Downloads/SWRevealViewController-master/SWRevealViewController/SWRevealViewController.m316"CompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/SWRevealViewController.o /Volumes/Macintosh-\ Files/Downloads/SWRevealViewController-master/SWRevealViewController/SWRevealViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6761bf3abe19b941^1805fd3abe19b941^---0#0#1#-19%DVTDocumentLocation2@122"file:///Volumes/Macintosh-%20Files/Downloads/SWRevealViewController-master/SWRevealViewController/SWRevealViewController.m0000000000000000^4246"CompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/SWRevealViewController.o /Volumes/Macintosh-\ Files/Downloads/SWRevealViewController-master/SWRevealViewController/SWRevealViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Texan\ Fence-Prefix-etoqquzojbvpsdckbjionyyljmrg/Texan\ Fence-Prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/SWRevealViewController.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/SWRevealViewController.dia -c /Volumes/Macintosh-\ Files/Downloads/SWRevealViewController-master/SWRevealViewController/SWRevealViewController.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/SWRevealViewController.o36"DCF42BE9-DC59-4FA2-8755-577D80B65E85-
+b4B1FB772-DA4C-4E90-88CD-3662A89745A6
+
+CCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/ServicesViewController.o /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/ServicesViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117498.795096
+e421117498.891519
+r1
+xCompileC
+xBuild/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/ServicesViewController.o
+x/Users/brandon/Desktop/Texan Fence/Texan Fence/ServicesViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Texan Fence/ServicesViewController.m
+d/Users/brandon/Desktop/Texan Fence/Texan Fence/ServicesViewController.h
+d/Volumes/Macintosh- Files/Downloads/SWRevealViewController-master/SWRevealViewController/SWRevealViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/brandon/Desktop/Texan Fence/Texan Fence/ServicesViewController.m239"CompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/ServicesViewController.o Texan\ Fence/ServicesViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb2f2cb3abe19b941^0c3be43abe19b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/brandon/Desktop/Texan%20Fence/Texan%20Fence/ServicesViewController.m0000000000000000^4128"CompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/ServicesViewController.o Texan\ Fence/ServicesViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Texan\ Fence-Prefix-etoqquzojbvpsdckbjionyyljmrg/Texan\ Fence-Prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/ServicesViewController.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/ServicesViewController.dia -c /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/ServicesViewController.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/ServicesViewController.o36"449CC8C9-9E24-42DB-97A1-918DBC59463F-
+b4B1FB772-DA4C-4E90-88CD-3662A89745A6
+
+CCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/SpecialsViewController.o /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/SpecialsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117498.693799
+e421117498.787115
+r1
+xCompileC
+xBuild/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/SpecialsViewController.o
+x/Users/brandon/Desktop/Texan Fence/Texan Fence/SpecialsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Texan Fence/SpecialsViewController.m
+d/Users/brandon/Desktop/Texan Fence/Texan Fence/SpecialsViewController.h
+d/Volumes/Macintosh- Files/Downloads/SWRevealViewController-master/SWRevealViewController/SWRevealViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/brandon/Desktop/Texan Fence/Texan Fence/SpecialsViewController.m239"CompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/SpecialsViewController.o Texan\ Fence/SpecialsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler94c1b13abe19b941^a180c93abe19b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/brandon/Desktop/Texan%20Fence/Texan%20Fence/SpecialsViewController.m0000000000000000^4128"CompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/SpecialsViewController.o Texan\ Fence/SpecialsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Texan\ Fence-Prefix-etoqquzojbvpsdckbjionyyljmrg/Texan\ Fence-Prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/SpecialsViewController.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/SpecialsViewController.dia -c /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/SpecialsViewController.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/SpecialsViewController.o36"38E78199-8418-4065-AD41-FB39F2B8616F-
+b4B1FB772-DA4C-4E90-88CD-3662A89745A6
+
+CCompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/main.o /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117498.694813
+e421117498.746083
+r1
+xCompileC
+xBuild/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/main.o
+x/Users/brandon/Desktop/Texan Fence/Texan Fence/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Texan Fence/main.m
+d/Users/brandon/Desktop/Texan Fence/Texan Fence/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/brandon/Desktop/Texan Fence/Texan Fence/main.m203"CompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/main.o Texan\ Fence/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf300b23abe19b941^b801bf3abe19b941^---0#0#1#-19%DVTDocumentLocation2@64"file:///Users/brandon/Desktop/Texan%20Fence/Texan%20Fence/main.m0000000000000000^4020"CompileC Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/main.o Texan\ Fence/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Texan\ Fence-Prefix-etoqquzojbvpsdckbjionyyljmrg/Texan\ Fence-Prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/main.dia -c /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/main.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/main.o36"A4EEC19B-0679-4710-8B4A-53CED76C896C-
+b4B1FB772-DA4C-4E90-88CD-3662A89745A6
+
+CCompileStoryboard /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Base.lproj/Main.storyboard
+r0
+
+CCopyPlistFile /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app/MDContactForm.plist Texan\ Fence/src/MDContactForm.plist
+r0
+
+CCopyStringsFile /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app/en.lproj/InfoPlist.strings Texan\ Fence/en.lproj/InfoPlist.strings
+r0
+
+CCpResource Texan\ Fence/Decks.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Decks.png
+r0
+
+CCpResource Texan\ Fence/Fencing.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Fencing.png
+r0
+
+CCpResource Texan\ Fence/Repair.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Repair.png
+r0
+
+CCpResource Texan\ Fence/background.jpg Build/Products/Debug-iphonesimulator/Texan\ Fence.app/background.jpg
+r0
+
+CCpResource Texan\ Fence/fence-badges.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/fence-badges.png
+r0
+
+CCpResource Texan\ Fence/footer.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/footer.png
+r0
+
+CCpResource Texan\ Fence/header.jpg Build/Products/Debug-iphonesimulator/Texan\ Fence.app/header.jpg
+r0
+
+CCpResource Texan\ Fence/reveal-icon.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/reveal-icon.png
+r0
+
+CCpResource Texan\ Fence/reveal-icon@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/reveal-icon@2x.png
+r0
+
+CCpResource Texan\ Fence/skull.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/skull.png
+r0
+
+CCpResource Texan\ Fence/src/Images/whiteBtn.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/whiteBtn.png
+r0
+
+CCpResource Texan\ Fence/src/Images/whiteBtn@2x.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/whiteBtn@2x.png
+r0
+
+CCpResource Texan\ Fence/src/PHP/issueReport.php Build/Products/Debug-iphonesimulator/Texan\ Fence.app/issueReport.php
+r0
+
+CCpResource Texan\ Fence/top.png Build/Products/Debug-iphonesimulator/Texan\ Fence.app/top.png
+r0
+
+CGenerateDSYMFile /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app.dSYM /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Texan\ Fence
+r0
+
+CLd /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Texan\ Fence normal i386
+s421117498.991084
+e421117499.153509
+r0
+xLd
+x/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/Texan Fence
+xnormal
+xi386
+d/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/Texan Fence.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/MDTextView.o
+d/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/ContactViewController.o
+d/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/MDTextField.o
+d/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/MDContactFormViewController.o
+d/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/MenuViewController.o
+d/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/SpecialsViewController.o
+d/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/AppDelegate.o
+d/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/main.o
+d/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/SWRevealViewController.o
+d/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/GalleryViewController.o
+d/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/ServicesViewController.o
+d/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/HomeViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Social.framework/Social
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/libPods.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreMIDI.framework/CoreMIDI
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MediaToolbox.framework/MediaToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vImage.framework/vImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/vecLib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libvDSP.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libLAPACK.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libBLAS.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/libvMisc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+oduplicate symbol _OBJC_IVAR_$_TestCell._collectionView in:
+o    /Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/GalleryViewController.o
+o    /Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/HomeViewController.o
+oduplicate symbol _OBJC_IVAR_$_TestCell._backView in:
+o    /Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/GalleryViewController.o
+o    /Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/HomeViewController.o
+oduplicate symbol _OBJC_METACLASS_$_TestCell in:
+o    /Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/GalleryViewController.o
+o    /Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/HomeViewController.o
+oduplicate symbol _OBJC_CLASS_$_TestCell in:
+o    /Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/GalleryViewController.o
+o    /Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/HomeViewController.o
+old: 4 duplicate symbols for architecture i386
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection104"Link /Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/Texan Fence.app/Texan Fence81"Ld Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Texan\ Fence normal i38621ccfd3abe19b941^1b4c273bbe19b941^-1606"duplicate symbol _OBJC_IVAR_$_TestCell._collectionView in:    /Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/GalleryViewController.o    /Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/HomeViewController.oduplicate symbol _OBJC_IVAR_$_TestCell._backView in:    /Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/GalleryViewController.o    /Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/HomeViewController.oduplicate symbol _OBJC_METACLASS_$_TestCell in:    /Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/GalleryViewController.o    /Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/HomeViewController.oduplicate symbol _OBJC_CLASS_$_TestCell in:    /Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/GalleryViewController.o    /Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Objects-normal/i386/HomeViewController.old: 4 duplicate symbols for architecture i386clang: error: linker command failed with exit code 1 (use -v to see invocation)2(21%IDEActivityLogMessage2@41"4 duplicate symbols for architecture i386-421117499#1480#46#-0#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-421117499#1526#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--0#0#1#--1647"Ld Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Texan\ Fence normal i386    cd "/Users/brandon/Desktop/Texan Fence"    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -filelist /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/Texan\ Fence.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -framework AVFoundation -framework Accelerate -framework CoreMedia -framework ImageIO -framework MediaPlayer -framework MessageUI -framework QuartzCore -framework Social -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreLocation -framework MapKit -framework CoreGraphics -framework UIKit -framework Foundation -lPods -Xlinker -dependency_info -Xlinker /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Objects-normal/i386/Texan\ Fence_dependency_info.dat -o /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Texan\ Fence36"5AE81874-8A12-44BC-B400-2EC47FEF9A09-
+b4B1FB772-DA4C-4E90-88CD-3662A89745A6
+
+CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Script-CFBB5FF3D5D34F64ACA042F6.sh
+s421117498.633508
+e421117498.647887
+r1
+xPhaseScriptExecution
+xCheck Pods Manifest.lock
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Texan Fence.build/Debug-iphonesimulator/Texan Fence.build/Script-CFBB5FF3D5D34F64ACA042F6.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'162"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Script-CFBB5FF3D5D34F64ACA042F6.sh0e82a23abe19b941^cedea53abe19b941^---0#0#1#--377"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Script-CFBB5FF3D5D34F64ACA042F6.sh    cd "/Users/brandon/Desktop/Texan Fence"    /bin/sh -c \"/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Script-CFBB5FF3D5D34F64ACA042F6.sh\"36"F36A5899-DACA-4D07-B562-667338272FAD-
+b4B1FB772-DA4C-4E90-88CD-3662A89745A6
+
+CPhaseScriptExecution Copy\ Pods\ Resources /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Script-5AA74564891F47369E9F60F9.sh
+r0
+
+CProcessInfoPlistFile /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app/Info.plist /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Texan\ Fence-Info.plist
+r0
+
+CProcessPCH /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Texan\ Fence-Prefix-etoqquzojbvpsdckbjionyyljmrg/Texan\ Fence-Prefix.pch.pch Texan\ Fence/Texan\ Fence-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117498.648610
+e421117498.690804
+r1
+xProcessPCH
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/PrecompiledHeaders/Texan Fence-Prefix-etoqquzojbvpsdckbjionyyljmrg/Texan Fence-Prefix.pch.pch
+xTexan Fence/Texan Fence-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Texan Fence/Texan Fence-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile Texan Fence/Texan Fence-Prefix.pch231"ProcessPCH Build/Intermediates/PrecompiledHeaders/Texan\ Fence-Prefix-etoqquzojbvpsdckbjionyyljmrg/Texan\ Fence-Prefix.pch.pch Texan\ Fence/Texan\ Fence-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6820a63abe19b941^fdd8b03abe19b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/brandon/Desktop/Texan%20Fence/Texan%20Fence/Texan%20Fence-Prefix.pch0000000000000000^3938"ProcessPCH Build/Intermediates/PrecompiledHeaders/Texan\ Fence-Prefix-etoqquzojbvpsdckbjionyyljmrg/Texan\ Fence-Prefix.pch.pch Texan\ Fence/Texan\ Fence-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/Texan\ Fence-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Texan\ Fence.build/Debug-iphonesimulator/Texan\ Fence.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -isystem /Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Texan\ Fence-Prefix-etoqquzojbvpsdckbjionyyljmrg/Texan\ Fence-Prefix.pch.dia -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Texan\ Fence-Prefix-etoqquzojbvpsdckbjionyyljmrg/Texan\ Fence-Prefix.pch.d -c /Users/brandon/Desktop/Texan\ Fence/Texan\ Fence/Texan\ Fence-Prefix.pch -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Texan\ Fence-Prefix-etoqquzojbvpsdckbjionyyljmrg/Texan\ Fence-Prefix.pch.pch36"BC709C10-9B5F-42AC-ACC4-49CA877855A7-
+b4B1FB772-DA4C-4E90-88CD-3662A89745A6
+
+CProcessPCH /Users/brandon/Library/Developer/Xcode/DerivedData/Texan_Fence-gznilkshthrmtjgqryozrfhgfoak/Index/PrecompiledHeaders/Texan\ Fence-Prefix-duzsvxcyjsrdamcchoqelzldkokm_ast/Texan\ Fence-Prefix.pch.pch Texan\ Fence/Texan\ Fence-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/Texan\ Fence.app
+r0
+

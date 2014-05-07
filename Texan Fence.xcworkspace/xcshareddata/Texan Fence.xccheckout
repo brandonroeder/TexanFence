@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>80C2B405-3E9F-4809-97D3-0F88E17363BB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Texan Fence</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>76692A01-B7FE-4559-A4A9-623C94797BB2</key>
+		<string>https://github.com/brandonroeder/TexanFence.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Texan Fence.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>76692A01-B7FE-4559-A4A9-623C94797BB2</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/brandonroeder/TexanFence.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>76692A01-B7FE-4559-A4A9-623C94797BB2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>76692A01-B7FE-4559-A4A9-623C94797BB2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Texan Fence</string>
+		</dict>
+	</array>
+</dict>
+</plist>

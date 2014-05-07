@@ -1,0 +1,1150 @@
+TPods-MHVideoPhotoGallery
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-aytfhsowvhjewjasgqykjardfttx/Pods-MHVideoPhotoGallery-prefix.pch.pch Pods-MHVideoPhotoGallery-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-dcaivdtncmfptfcwcodrhogmuasw/Pods-MHVideoPhotoGallery-prefix.pch.pch Pods-MHVideoPhotoGallery-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHCustomization.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHCustomization/MHCustomization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGallery.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallery/MHGallery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGalleryController.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryController/MHGalleryController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGalleryImageViewerViewController.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryImageViewerViewController/MHGalleryImageViewerViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGalleryItem.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryItem/MHGalleryItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGallerySharedManager.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHMediaPreviewCollectionViewCell.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHMediaPreviewCollectionViewCell/MHMediaPreviewCollectionViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHOverviewController.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHOverviewController/MHOverviewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHPresenterImageView.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryPresenterImageView/MHPresenterImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHShareViewController.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHShareViewController/MHShareViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionDismissMHGallery.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionDismissMHGallery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionPresentMHGallery.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionPresentMHGallery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionShowDetail.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowDetail.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionShowOverView.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowOverView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionShowShareView.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowShareView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHUIImageViewContentViewAnimation.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHUIImageViewContentViewAnimation/MHUIImageViewContentViewAnimation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/Pods-MHVideoPhotoGallery-dummy.o /Users/brandon/Desktop/Texan\ Fence/Pods/Pods-MHVideoPhotoGallery-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/UIImageView+MHGallery.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/UIImageView+MHGallery/UIImageView+MHGallery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/libPods-MHVideoPhotoGallery.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c00000000533268300000000000632990
+t1395812400
+s6498704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c000000005332682F0000000000011540
+t1395812399
+s70976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c000000005332683100000000002CB700
+t1395812401
+s2930432
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000533268310000000000A90C10
+t1395812401
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+c00000000533268310000000000836810
+t1395812401
+s8611856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c00000000533268320000000000ABDE50
+t1395812402
+s11263568
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000005332683200000000003D1D20
+t1395812402
+s4005152
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000533268330000000000649DB0
+t1395812403
+s6593968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Social.framework/Social
+c000000005332683300000000002C0C30
+t1395812403
+s2886704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534B1CA40000000000000198
+t1397431460
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c000000005332684200000000000003B4
+t1395812418
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053326848000000000000019E
+t1395812424
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000533268780000000000000ADC
+t1395812472
+s2780
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHCustomization.o
+t1399424697
+s70324
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGallery.o
+t1399424697
+s54348
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGalleryController.o
+t1399424697
+s99580
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGalleryImageViewerViewController.o
+t1399424698
+s379164
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGalleryItem.o
+t1399424697
+s24424
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGallerySharedManager.o
+t1399424698
+s132608
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHMediaPreviewCollectionViewCell.o
+t1399424697
+s83600
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHOverviewController.o
+t1399424698
+s134804
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHPresenterImageView.o
+t1399424698
+s90760
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHShareViewController.o
+t1399424698
+s336804
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionDismissMHGallery.o
+t1399424698
+s169880
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionPresentMHGallery.o
+t1399424698
+s131940
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionShowDetail.o
+t1399424698
+s151324
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionShowOverView.o
+t1399424698
+s140396
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionShowShareView.o
+t1399424698
+s113120
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHUIImageViewContentViewAnimation.o
+t1399424698
+s73252
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/Pods-MHVideoPhotoGallery-dummy.o
+t1399424698
+s3488
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/Pods-MHVideoPhotoGallery.LinkFileList
+c00000000536986B90000000000000B9C
+t1399424697
+s2972
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/UIImageView+MHGallery.o
+t1399424698
+s63264
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-aytfhsowvhjewjasgqykjardfttx/Pods-MHVideoPhotoGallery-prefix.pch.pch
+t1399424697
+s122912
+
+N/Users/brandon/Desktop/Texan Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-dcaivdtncmfptfcwcodrhogmuasw/Pods-MHVideoPhotoGallery-prefix.pch.pch
+t1399424697
+s122504
+
+N/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/libPods-MHVideoPhotoGallery.a
+t1399424698
+s2274632
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHCustomization/MHCustomization.h
+c000000005369760F000000000000063E
+t1399420431
+s1598
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHCustomization/MHCustomization.m
+c000000005369760F0000000000000B4D
+t1399420431
+s2893
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallery/MHGallery.h
+c000000005369760F0000000000000754
+t1399420431
+s1876
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallery/MHGallery.m
+c000000005369760F0000000000000ECC
+t1399420431
+s3788
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryController/MHGalleryController.h
+c000000005369760F00000000000010F1
+t1399420431
+s4337
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryController/MHGalleryController.m
+c000000005369760F0000000000001DD7
+t1399420431
+s7639
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryImageViewerViewController/MHGalleryImageViewerViewController.h
+c000000005369760F0000000000000D3A
+t1399420431
+s3386
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryImageViewerViewController/MHGalleryImageViewerViewController.m
+c000000005369760F000000000000FAF6
+t1399420431
+s64246
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryItem/MHGalleryItem.h
+c000000005369760F00000000000007AE
+t1399420431
+s1966
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryItem/MHGalleryItem.m
+c000000005369760F000000000000080C
+t1399420431
+s2060
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryPresenterImageView/MHPresenterImageView.h
+c000000005369760F00000000000005F0
+t1399420431
+s1520
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryPresenterImageView/MHPresenterImageView.m
+c000000005369760F000000000000199E
+t1399420431
+s6558
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManager.h
+c000000005369760F0000000000000FD7
+t1399420431
+s4055
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManager.m
+c000000005369760F00000000000067A0
+t1399420431
+s26528
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManagerPrivate.h
+c000000005369760F000000000000015D
+t1399420431
+s349
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHMediaPreviewCollectionViewCell/MHMediaPreviewCollectionViewCell.h
+c000000005369760F0000000000000382
+t1399420431
+s898
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHMediaPreviewCollectionViewCell/MHMediaPreviewCollectionViewCell.m
+c000000005369760F00000000000016EE
+t1399420431
+s5870
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHOverviewController/MHOverviewController.h
+c000000005369760F0000000000000497
+t1399420431
+s1175
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHOverviewController/MHOverviewController.m
+c000000005369760F0000000000003670
+t1399420431
+s13936
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHShareViewController/MHShareViewController.h
+c000000005369760F0000000000000A40
+t1399420431
+s2624
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHShareViewController/MHShareViewController.m
+c000000005369760F000000000000B82E
+t1399420431
+s47150
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHUIImageViewContentViewAnimation/MHUIImageViewContentViewAnimation.h
+c000000005369760F0000000000000204
+t1399420431
+s516
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHUIImageViewContentViewAnimation/MHUIImageViewContentViewAnimation.m
+c000000005369760F0000000000001504
+t1399420431
+s5380
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionDismissMHGallery.h
+c000000005369760F0000000000000313
+t1399420431
+s787
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionDismissMHGallery.m
+c000000005369760F0000000000004A76
+t1399420431
+s19062
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionPresentMHGallery.h
+c000000005369760F0000000000000325
+t1399420431
+s805
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionPresentMHGallery.m
+c000000005369760F000000000000242A
+t1399420431
+s9258
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowDetail.h
+c000000005369760F00000000000002C4
+t1399420431
+s708
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowDetail.m
+c000000005369760F00000000000035C6
+t1399420431
+s13766
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowOverView.h
+c000000005369760F000000000000023C
+t1399420431
+s572
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowOverView.m
+c000000005369760F00000000000036D5
+t1399420431
+s14037
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowShareView.h
+c000000005369760F000000000000028E
+t1399420431
+s654
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowShareView.m
+c000000005369760F0000000000002AAB
+t1399420431
+s10923
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/UIImageView+MHGallery/UIImageView+MHGallery.h
+c000000005369760F00000000000002A0
+t1399420431
+s672
+
+N/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/UIImageView+MHGallery/UIImageView+MHGallery.m
+c000000005369760F0000000000000EDB
+t1399420431
+s3803
+
+N/Users/brandon/Desktop/Texan Fence/Pods/Pods-MHVideoPhotoGallery-dummy.m
+c00000000536976110000000000000098
+t1399420433
+s152
+
+N/Users/brandon/Desktop/Texan Fence/Pods/Pods-MHVideoPhotoGallery-prefix.pch
+c0000000053697611000000000000004D
+t1399420433
+s77
+
+N/Users/brandon/Desktop/Texan Fence/Pods/Pods-environment.h
+c0000000053697611000000000000036C
+t1399420433
+s876
+
+N/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDImageCache.h
+c00000000536976110000000000001334
+t1399420433
+s4916
+
+N/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
+c000000005369761100000000000005F8
+t1399420433
+s1528
+
+N/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h
+c000000005369761100000000000001C5
+t1399420433
+s453
+
+N/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h
+c00000000536976110000000000001554
+t1399420433
+s5460
+
+N/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageManager.h
+c00000000536976110000000000001CD5
+t1399420433
+s7381
+
+N/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h
+c00000000536976110000000000000149
+t1399420433
+s329
+
+N/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h
+c00000000536976110000000000001860
+t1399420433
+s6240
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHCustomization/MHCustomization.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallery/MHGallery.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryController/MHGalleryController.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryImageViewerViewController/MHGalleryImageViewerViewController.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryItem/MHGalleryItem.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryPresenterImageView/MHPresenterImageView.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManager.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHMediaPreviewCollectionViewCell/MHMediaPreviewCollectionViewCell.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHOverviewController/MHOverviewController.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHShareViewController/MHShareViewController.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHUIImageViewContentViewAnimation/MHUIImageViewContentViewAnimation.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionDismissMHGallery.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionPresentMHGallery.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowDetail.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowOverView.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowShareView.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/UIImageView+MHGallery/UIImageView+MHGallery.m
+r0
+
+CBuild AST from /Users/brandon/Desktop/Texan\ Fence/Pods/Pods-MHVideoPhotoGallery-dummy.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesc53da654ea19b941^b877a954ea19b941^---0#1#1#--18"Check dependencies36"6CBA9E0A-F42E-4C87-9D72-C7BB0523A497-
+
+CCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHCustomization.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHCustomization/MHCustomization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117497.783948
+e421117497.933549
+r1
+xCompileC
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHCustomization.o
+x/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHCustomization/MHCustomization.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHCustomization/MHCustomization.m
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHCustomization/MHCustomization.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Compile /Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHCustomization/MHCustomization.m329"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHCustomization.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHCustomization/MHCustomization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf8c6c839be19b941^65fdee39be19b941^---0#0#1#-19%DVTDocumentLocation2@143"file:///Users/brandon/Desktop/Texan%20Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHCustomization/MHCustomization.m0000000000000000^4184"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHCustomization.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHCustomization/MHCustomization.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-aytfhsowvhjewjasgqykjardfttx/Pods-MHVideoPhotoGallery-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHCustomization.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHCustomization.dia -c /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHCustomization/MHCustomization.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHCustomization.o36"58650F80-F033-4521-BC66-B8ED940A67AD-
+b639F2F5C-CF7E-4750-81B9-5588A49C7B2C
+
+CCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGallery.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallery/MHGallery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117497.784173
+e421117497.939416
+r1
+xCompileC
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGallery.o
+x/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallery/MHGallery.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallery/MHGallery.m
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallery/MHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/UIImageView+MHGallery/UIImageView+MHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionDismissMHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHUIImageViewContentViewAnimation/MHUIImageViewContentViewAnimation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionPresentMHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryPresenterImageView/MHPresenterImageView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHCustomization/MHCustomization.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryItem/MHGalleryItem.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryController/MHGalleryController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHOverviewController/MHOverviewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryImageViewerViewController/MHGalleryImageViewerViewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDImageCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowDetail.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHMediaPreviewCollectionViewCell/MHMediaPreviewCollectionViewCell.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowOverView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Compile /Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallery/MHGallery.m311"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGallery.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallery/MHGallery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler67d4c839be19b941^397ef039be19b941^---0#0#1#-19%DVTDocumentLocation2@131"file:///Users/brandon/Desktop/Texan%20Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallery/MHGallery.m0000000000000000^4136"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGallery.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallery/MHGallery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-aytfhsowvhjewjasgqykjardfttx/Pods-MHVideoPhotoGallery-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGallery.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGallery.dia -c /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallery/MHGallery.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGallery.o36"AE50B13E-31CA-4FD2-888B-E34C37BF3585-
+b639F2F5C-CF7E-4750-81B9-5588A49C7B2C
+
+CCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGalleryController.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryController/MHGalleryController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117497.784401
+e421117497.966562
+r1
+xCompileC
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGalleryController.o
+x/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryController/MHGalleryController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryController/MHGalleryController.m
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryController/MHGalleryController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallery/MHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/UIImageView+MHGallery/UIImageView+MHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionDismissMHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHUIImageViewContentViewAnimation/MHUIImageViewContentViewAnimation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionPresentMHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryPresenterImageView/MHPresenterImageView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHCustomization/MHCustomization.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryItem/MHGalleryItem.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHOverviewController/MHOverviewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryImageViewerViewController/MHGalleryImageViewerViewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDImageCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowDetail.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHMediaPreviewCollectionViewCell/MHMediaPreviewCollectionViewCell.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowOverView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection150"Compile /Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryController/MHGalleryController.m341"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGalleryController.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryController/MHGalleryController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb5e1c839be19b941^6a2ef739be19b941^---0#0#1#-19%DVTDocumentLocation2@151"file:///Users/brandon/Desktop/Texan%20Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryController/MHGalleryController.m0000000000000000^4216"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGalleryController.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryController/MHGalleryController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-aytfhsowvhjewjasgqykjardfttx/Pods-MHVideoPhotoGallery-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGalleryController.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGalleryController.dia -c /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryController/MHGalleryController.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGalleryController.o36"89464A51-ED5D-422E-BB65-8AA55FE9E7EC-
+b639F2F5C-CF7E-4750-81B9-5588A49C7B2C
+
+CCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGalleryImageViewerViewController.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryImageViewerViewController/MHGalleryImageViewerViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117497.784653
+e421117498.337828
+r1
+xCompileC
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGalleryImageViewerViewController.o
+x/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryImageViewerViewController/MHGalleryImageViewerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryImageViewerViewController/MHGalleryImageViewerViewController.m
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryImageViewerViewController/MHGalleryImageViewerViewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallery/MHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/UIImageView+MHGallery/UIImageView+MHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionDismissMHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHUIImageViewContentViewAnimation/MHUIImageViewContentViewAnimation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionPresentMHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryPresenterImageView/MHPresenterImageView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHCustomization/MHCustomization.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryItem/MHGalleryItem.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryController/MHGalleryController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHOverviewController/MHOverviewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDImageCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowDetail.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHMediaPreviewCollectionViewCell/MHMediaPreviewCollectionViewCell.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowOverView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowShareView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHShareViewController/MHShareViewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManagerPrivate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection180"Compile /Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryImageViewerViewController/MHGalleryImageViewerViewController.m386"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGalleryImageViewerViewController.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryImageViewerViewController/MHGalleryImageViewerViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf700c939be19b941^f27c563abe19b941^---0#0#1#-19%DVTDocumentLocation2@181"file:///Users/brandon/Desktop/Texan%20Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryImageViewerViewController/MHGalleryImageViewerViewController.m0000000000000000^4336"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGalleryImageViewerViewController.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryImageViewerViewController/MHGalleryImageViewerViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-aytfhsowvhjewjasgqykjardfttx/Pods-MHVideoPhotoGallery-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGalleryImageViewerViewController.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGalleryImageViewerViewController.dia -c /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryImageViewerViewController/MHGalleryImageViewerViewController.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGalleryImageViewerViewController.o36"238DCCC5-237F-4C1A-BA1B-891F97522019-
+b639F2F5C-CF7E-4750-81B9-5588A49C7B2C
+
+CCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGalleryItem.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryItem/MHGalleryItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117497.785059
+e421117497.885035
+r1
+xCompileC
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGalleryItem.o
+x/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryItem/MHGalleryItem.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryItem/MHGalleryItem.m
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryItem/MHGalleryItem.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallery/MHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/UIImageView+MHGallery/UIImageView+MHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionDismissMHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHUIImageViewContentViewAnimation/MHUIImageViewContentViewAnimation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionPresentMHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryPresenterImageView/MHPresenterImageView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHCustomization/MHCustomization.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryController/MHGalleryController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHOverviewController/MHOverviewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryImageViewerViewController/MHGalleryImageViewerViewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDImageCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowDetail.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHMediaPreviewCollectionViewCell/MHMediaPreviewCollectionViewCell.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowOverView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection138"Compile /Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryItem/MHGalleryItem.m323"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGalleryItem.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryItem/MHGalleryItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7d20c939be19b941^da91e239be19b941^---0#0#1#-19%DVTDocumentLocation2@139"file:///Users/brandon/Desktop/Texan%20Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryItem/MHGalleryItem.m0000000000000000^4168"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGalleryItem.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryItem/MHGalleryItem.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-aytfhsowvhjewjasgqykjardfttx/Pods-MHVideoPhotoGallery-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGalleryItem.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGalleryItem.dia -c /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryItem/MHGalleryItem.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGalleryItem.o36"06E1780D-3975-4055-B2E4-DC71FB54F5BC-
+b639F2F5C-CF7E-4750-81B9-5588A49C7B2C
+
+CCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGallerySharedManager.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117497.785459
+e421117498.049331
+r1
+xCompileC
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGallerySharedManager.o
+x/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManager.m
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallery/MHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/UIImageView+MHGallery/UIImageView+MHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionDismissMHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHUIImageViewContentViewAnimation/MHUIImageViewContentViewAnimation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionPresentMHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryPresenterImageView/MHPresenterImageView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHCustomization/MHCustomization.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryItem/MHGalleryItem.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryController/MHGalleryController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHOverviewController/MHOverviewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryImageViewerViewController/MHGalleryImageViewerViewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDImageCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowDetail.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHMediaPreviewCollectionViewCell/MHMediaPreviewCollectionViewCell.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowOverView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManagerPrivate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection156"Compile /Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManager.m350"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGallerySharedManager.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2540c939be19b941^b2a00c3abe19b941^---0#0#1#-19%DVTDocumentLocation2@157"file:///Users/brandon/Desktop/Texan%20Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManager.m0000000000000000^4240"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGallerySharedManager.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManager.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-aytfhsowvhjewjasgqykjardfttx/Pods-MHVideoPhotoGallery-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGallerySharedManager.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGallerySharedManager.dia -c /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManager.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHGallerySharedManager.o36"8F36FC3F-E2BE-4280-9C6B-EE34B757E471-
+b639F2F5C-CF7E-4750-81B9-5588A49C7B2C
+
+CCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHMediaPreviewCollectionViewCell.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHMediaPreviewCollectionViewCell/MHMediaPreviewCollectionViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117497.785760
+e421117497.956715
+r1
+xCompileC
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHMediaPreviewCollectionViewCell.o
+x/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHMediaPreviewCollectionViewCell/MHMediaPreviewCollectionViewCell.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHMediaPreviewCollectionViewCell/MHMediaPreviewCollectionViewCell.m
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHMediaPreviewCollectionViewCell/MHMediaPreviewCollectionViewCell.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallery/MHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/UIImageView+MHGallery/UIImageView+MHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionDismissMHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHUIImageViewContentViewAnimation/MHUIImageViewContentViewAnimation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionPresentMHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryPresenterImageView/MHPresenterImageView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHCustomization/MHCustomization.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryItem/MHGalleryItem.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryController/MHGalleryController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHOverviewController/MHOverviewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryImageViewerViewController/MHGalleryImageViewerViewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDImageCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowDetail.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowOverView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManagerPrivate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection176"Compile /Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHMediaPreviewCollectionViewCell/MHMediaPreviewCollectionViewCell.m380"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHMediaPreviewCollectionViewCell.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHMediaPreviewCollectionViewCell/MHMediaPreviewCollectionViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2254c939be19b941^6de2f439be19b941^---0#0#1#-19%DVTDocumentLocation2@177"file:///Users/brandon/Desktop/Texan%20Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHMediaPreviewCollectionViewCell/MHMediaPreviewCollectionViewCell.m0000000000000000^4320"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHMediaPreviewCollectionViewCell.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHMediaPreviewCollectionViewCell/MHMediaPreviewCollectionViewCell.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-aytfhsowvhjewjasgqykjardfttx/Pods-MHVideoPhotoGallery-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHMediaPreviewCollectionViewCell.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHMediaPreviewCollectionViewCell.dia -c /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHMediaPreviewCollectionViewCell/MHMediaPreviewCollectionViewCell.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHMediaPreviewCollectionViewCell.o36"6C8057BC-EDE6-433C-9EC4-F315F5F42E12-
+b639F2F5C-CF7E-4750-81B9-5588A49C7B2C
+
+CCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHOverviewController.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHOverviewController/MHOverviewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117497.786466
+e421117498.084925
+r1
+xCompileC
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHOverviewController.o
+x/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHOverviewController/MHOverviewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHOverviewController/MHOverviewController.m
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHOverviewController/MHOverviewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallery/MHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/UIImageView+MHGallery/UIImageView+MHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionDismissMHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHUIImageViewContentViewAnimation/MHUIImageViewContentViewAnimation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionPresentMHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryPresenterImageView/MHPresenterImageView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHCustomization/MHCustomization.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryItem/MHGalleryItem.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryController/MHGalleryController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowOverView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryImageViewerViewController/MHGalleryImageViewerViewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDImageCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowDetail.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHMediaPreviewCollectionViewCell/MHMediaPreviewCollectionViewCell.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManagerPrivate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection152"Compile /Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHOverviewController/MHOverviewController.m344"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHOverviewController.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHOverviewController/MHOverviewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1e87c939be19b941^d7bd153abe19b941^---0#0#1#-19%DVTDocumentLocation2@153"file:///Users/brandon/Desktop/Texan%20Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHOverviewController/MHOverviewController.m0000000000000000^4224"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHOverviewController.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHOverviewController/MHOverviewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-aytfhsowvhjewjasgqykjardfttx/Pods-MHVideoPhotoGallery-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHOverviewController.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHOverviewController.dia -c /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHOverviewController/MHOverviewController.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHOverviewController.o36"9742CDD2-7E07-47A8-A18B-5468481378CB-
+b639F2F5C-CF7E-4750-81B9-5588A49C7B2C
+
+CCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHPresenterImageView.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryPresenterImageView/MHPresenterImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117497.885372
+e421117498.060721
+r1
+xCompileC
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHPresenterImageView.o
+x/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryPresenterImageView/MHPresenterImageView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryPresenterImageView/MHPresenterImageView.m
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryPresenterImageView/MHPresenterImageView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionPresentMHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHUIImageViewContentViewAnimation/MHUIImageViewContentViewAnimation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionDismissMHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallery/MHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/UIImageView+MHGallery/UIImageView+MHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHCustomization/MHCustomization.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryItem/MHGalleryItem.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryController/MHGalleryController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHOverviewController/MHOverviewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryImageViewerViewController/MHGalleryImageViewerViewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDImageCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowDetail.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHMediaPreviewCollectionViewCell/MHMediaPreviewCollectionViewCell.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowOverView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection159"Compile /Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryPresenterImageView/MHPresenterImageView.m351"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHPresenterImageView.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryPresenterImageView/MHPresenterImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerfddae239be19b941^ff930f3abe19b941^---0#0#1#-19%DVTDocumentLocation2@160"file:///Users/brandon/Desktop/Texan%20Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryPresenterImageView/MHPresenterImageView.m0000000000000000^4238"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHPresenterImageView.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryPresenterImageView/MHPresenterImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-aytfhsowvhjewjasgqykjardfttx/Pods-MHVideoPhotoGallery-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHPresenterImageView.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHPresenterImageView.dia -c /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryPresenterImageView/MHPresenterImageView.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHPresenterImageView.o36"C4D26597-E23E-46FC-A1FA-EDB3C39E3987-
+b639F2F5C-CF7E-4750-81B9-5588A49C7B2C
+
+CCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHShareViewController.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHShareViewController/MHShareViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117497.934297
+e421117498.386842
+r1
+xCompileC
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHShareViewController.o
+x/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHShareViewController/MHShareViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHShareViewController/MHShareViewController.m
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHShareViewController/MHShareViewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHMediaPreviewCollectionViewCell/MHMediaPreviewCollectionViewCell.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallery/MHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/UIImageView+MHGallery/UIImageView+MHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionDismissMHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHUIImageViewContentViewAnimation/MHUIImageViewContentViewAnimation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionPresentMHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryPresenterImageView/MHPresenterImageView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHCustomization/MHCustomization.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryItem/MHGalleryItem.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryController/MHGalleryController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHOverviewController/MHOverviewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryImageViewerViewController/MHGalleryImageViewerViewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDImageCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowDetail.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowOverView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowShareView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManagerPrivate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"Compile /Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHShareViewController/MHShareViewController.m347"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHShareViewController.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHShareViewController/MHShareViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf84fef39be19b941^f60a633abe19b941^---0#0#1#-19%DVTDocumentLocation2@155"file:///Users/brandon/Desktop/Texan%20Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHShareViewController/MHShareViewController.m0000000000000000^4232"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHShareViewController.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHShareViewController/MHShareViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-aytfhsowvhjewjasgqykjardfttx/Pods-MHVideoPhotoGallery-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHShareViewController.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHShareViewController.dia -c /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHShareViewController/MHShareViewController.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHShareViewController.o36"DCC02F4D-0CC6-480F-8422-6A7EF5250806-
+b639F2F5C-CF7E-4750-81B9-5588A49C7B2C
+
+CCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionDismissMHGallery.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionDismissMHGallery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117497.939730
+e421117498.262208
+r1
+xCompileC
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionDismissMHGallery.o
+x/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionDismissMHGallery.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionDismissMHGallery.m
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionDismissMHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallery/MHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/UIImageView+MHGallery/UIImageView+MHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionPresentMHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHUIImageViewContentViewAnimation/MHUIImageViewContentViewAnimation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryPresenterImageView/MHPresenterImageView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHCustomization/MHCustomization.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryItem/MHGalleryItem.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryController/MHGalleryController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHOverviewController/MHOverviewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryImageViewerViewController/MHGalleryImageViewerViewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDImageCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowDetail.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHMediaPreviewCollectionViewCell/MHMediaPreviewCollectionViewCell.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowOverView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManagerPrivate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection151"Compile /Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionDismissMHGallery.m351"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionDismissMHGallery.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionDismissMHGallery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb3b3f039be19b941^2d21433abe19b941^---0#0#1#-19%DVTDocumentLocation2@152"file:///Users/brandon/Desktop/Texan%20Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionDismissMHGallery.m0000000000000000^4254"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionDismissMHGallery.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionDismissMHGallery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-aytfhsowvhjewjasgqykjardfttx/Pods-MHVideoPhotoGallery-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionDismissMHGallery.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionDismissMHGallery.dia -c /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionDismissMHGallery.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionDismissMHGallery.o36"04B7B420-3BE7-495A-80F7-550D57EE050D-
+b639F2F5C-CF7E-4750-81B9-5588A49C7B2C
+
+CCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionPresentMHGallery.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionPresentMHGallery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117497.958149
+e421117498.193530
+r1
+xCompileC
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionPresentMHGallery.o
+x/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionPresentMHGallery.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionPresentMHGallery.m
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionPresentMHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHUIImageViewContentViewAnimation/MHUIImageViewContentViewAnimation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHOverviewController/MHOverviewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallery/MHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/UIImageView+MHGallery/UIImageView+MHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionDismissMHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryPresenterImageView/MHPresenterImageView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHCustomization/MHCustomization.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryItem/MHGalleryItem.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryController/MHGalleryController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowOverView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryImageViewerViewController/MHGalleryImageViewerViewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDImageCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowDetail.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHMediaPreviewCollectionViewCell/MHMediaPreviewCollectionViewCell.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection151"Compile /Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionPresentMHGallery.m351"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionPresentMHGallery.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionPresentMHGallery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler056af539be19b941^2f8b313abe19b941^---0#0#1#-19%DVTDocumentLocation2@152"file:///Users/brandon/Desktop/Texan%20Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionPresentMHGallery.m0000000000000000^4254"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionPresentMHGallery.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionPresentMHGallery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-aytfhsowvhjewjasgqykjardfttx/Pods-MHVideoPhotoGallery-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionPresentMHGallery.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionPresentMHGallery.dia -c /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionPresentMHGallery.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionPresentMHGallery.o36"FF24DA94-246A-4583-86AA-06B4B094AA00-
+b639F2F5C-CF7E-4750-81B9-5588A49C7B2C
+
+CCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionShowDetail.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowDetail.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117497.966914
+e421117498.229347
+r1
+xCompileC
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionShowDetail.o
+x/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowDetail.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowDetail.m
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowDetail.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryImageViewerViewController/MHGalleryImageViewerViewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallery/MHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/UIImageView+MHGallery/UIImageView+MHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionDismissMHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHUIImageViewContentViewAnimation/MHUIImageViewContentViewAnimation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionPresentMHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryPresenterImageView/MHPresenterImageView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHCustomization/MHCustomization.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryItem/MHGalleryItem.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryController/MHGalleryController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHOverviewController/MHOverviewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDImageCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHMediaPreviewCollectionViewCell/MHMediaPreviewCollectionViewCell.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowOverView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection145"Compile /Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowDetail.m339"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionShowDetail.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowDetail.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0af2f739be19b941^bfb63a3abe19b941^---0#0#1#-19%DVTDocumentLocation2@146"file:///Users/brandon/Desktop/Texan%20Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowDetail.m0000000000000000^4218"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionShowDetail.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowDetail.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-aytfhsowvhjewjasgqykjardfttx/Pods-MHVideoPhotoGallery-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionShowDetail.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionShowDetail.dia -c /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowDetail.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionShowDetail.o36"BC0C0DB8-3C71-4DC2-8A7C-DD4C7AF3D71A-
+b639F2F5C-CF7E-4750-81B9-5588A49C7B2C
+
+CCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionShowOverView.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowOverView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117498.049684
+e421117498.281781
+r1
+xCompileC
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionShowOverView.o
+x/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowOverView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowOverView.m
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowOverView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallery/MHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/UIImageView+MHGallery/UIImageView+MHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionDismissMHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHUIImageViewContentViewAnimation/MHUIImageViewContentViewAnimation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionPresentMHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryPresenterImageView/MHPresenterImageView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHCustomization/MHCustomization.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryItem/MHGalleryItem.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryController/MHGalleryController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHOverviewController/MHOverviewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryImageViewerViewController/MHGalleryImageViewerViewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDImageCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowDetail.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHMediaPreviewCollectionViewCell/MHMediaPreviewCollectionViewCell.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManagerPrivate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection147"Compile /Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowOverView.m343"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionShowOverView.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowOverView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler44dc0c3abe19b941^a228483abe19b941^---0#0#1#-19%DVTDocumentLocation2@148"file:///Users/brandon/Desktop/Texan%20Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowOverView.m0000000000000000^4230"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionShowOverView.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowOverView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-aytfhsowvhjewjasgqykjardfttx/Pods-MHVideoPhotoGallery-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionShowOverView.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionShowOverView.dia -c /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowOverView.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionShowOverView.o36"36E8BADA-2DED-4E7D-92BD-45F89C25E03E-
+b639F2F5C-CF7E-4750-81B9-5588A49C7B2C
+
+CCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionShowShareView.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowShareView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117498.061680
+e421117498.281774
+r1
+xCompileC
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionShowShareView.o
+x/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowShareView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowShareView.m
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowShareView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryImageViewerViewController/MHGalleryImageViewerViewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallery/MHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/UIImageView+MHGallery/UIImageView+MHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionDismissMHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHUIImageViewContentViewAnimation/MHUIImageViewContentViewAnimation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionPresentMHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryPresenterImageView/MHPresenterImageView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHCustomization/MHCustomization.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryItem/MHGalleryItem.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryController/MHGalleryController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHOverviewController/MHOverviewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDImageCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowDetail.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHMediaPreviewCollectionViewCell/MHMediaPreviewCollectionViewCell.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowOverView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHShareViewController/MHShareViewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManagerPrivate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection148"Compile /Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowShareView.m345"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionShowShareView.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowShareView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler96ed0f3abe19b941^4223483abe19b941^---0#0#1#-19%DVTDocumentLocation2@149"file:///Users/brandon/Desktop/Texan%20Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowShareView.m0000000000000000^4236"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionShowShareView.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowShareView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-aytfhsowvhjewjasgqykjardfttx/Pods-MHVideoPhotoGallery-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionShowShareView.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionShowShareView.dia -c /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowShareView.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHTransitionShowShareView.o36"181FE3E6-6DAF-468D-B052-CBB9768ECC34-
+b639F2F5C-CF7E-4750-81B9-5588A49C7B2C
+
+CCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHUIImageViewContentViewAnimation.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHUIImageViewContentViewAnimation/MHUIImageViewContentViewAnimation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117498.086301
+e421117498.261469
+r1
+xCompileC
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHUIImageViewContentViewAnimation.o
+x/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHUIImageViewContentViewAnimation/MHUIImageViewContentViewAnimation.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHUIImageViewContentViewAnimation/MHUIImageViewContentViewAnimation.m
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHUIImageViewContentViewAnimation/MHUIImageViewContentViewAnimation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallery/MHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/UIImageView+MHGallery/UIImageView+MHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionDismissMHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionPresentMHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryPresenterImageView/MHPresenterImageView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHCustomization/MHCustomization.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryItem/MHGalleryItem.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryController/MHGalleryController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHOverviewController/MHOverviewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryImageViewerViewController/MHGalleryImageViewerViewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDImageCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowDetail.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHMediaPreviewCollectionViewCell/MHMediaPreviewCollectionViewCell.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowOverView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManagerPrivate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection178"Compile /Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHUIImageViewContentViewAnimation/MHUIImageViewContentViewAnimation.m383"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHUIImageViewContentViewAnimation.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHUIImageViewContentViewAnimation/MHUIImageViewContentViewAnimation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7e3a163abe19b941^17f0423abe19b941^---0#0#1#-19%DVTDocumentLocation2@179"file:///Users/brandon/Desktop/Texan%20Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHUIImageViewContentViewAnimation/MHUIImageViewContentViewAnimation.m0000000000000000^4328"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHUIImageViewContentViewAnimation.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHUIImageViewContentViewAnimation/MHUIImageViewContentViewAnimation.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-aytfhsowvhjewjasgqykjardfttx/Pods-MHVideoPhotoGallery-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHUIImageViewContentViewAnimation.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHUIImageViewContentViewAnimation.dia -c /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHUIImageViewContentViewAnimation/MHUIImageViewContentViewAnimation.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/MHUIImageViewContentViewAnimation.o36"3120C6C4-FB7E-4620-BBE2-450A602AF8D5-
+b639F2F5C-CF7E-4750-81B9-5588A49C7B2C
+
+CCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/Pods-MHVideoPhotoGallery-dummy.o /Users/brandon/Desktop/Texan\ Fence/Pods/Pods-MHVideoPhotoGallery-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117498.194488
+e421117498.247846
+r1
+xCompileC
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/Pods-MHVideoPhotoGallery-dummy.o
+x/Users/brandon/Desktop/Texan Fence/Pods/Pods-MHVideoPhotoGallery-dummy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/Pods-MHVideoPhotoGallery-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/brandon/Desktop/Texan Fence/Pods/Pods-MHVideoPhotoGallery-dummy.m282"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/Pods-MHVideoPhotoGallery-dummy.o Pods-MHVideoPhotoGallery-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler52ef313abe19b941^8e733f3abe19b941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/brandon/Desktop/Texan%20Fence/Pods/Pods-MHVideoPhotoGallery-dummy.m0000000000000000^4109"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/Pods-MHVideoPhotoGallery-dummy.o Pods-MHVideoPhotoGallery-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-dcaivdtncmfptfcwcodrhogmuasw/Pods-MHVideoPhotoGallery-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/Pods-MHVideoPhotoGallery-dummy.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/Pods-MHVideoPhotoGallery-dummy.dia -c /Users/brandon/Desktop/Texan\ Fence/Pods/Pods-MHVideoPhotoGallery-dummy.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/Pods-MHVideoPhotoGallery-dummy.o36"CDEA8206-2812-40C4-9E31-8E863E13B98D-
+b639F2F5C-CF7E-4750-81B9-5588A49C7B2C
+
+CCompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/UIImageView+MHGallery.o /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/UIImageView+MHGallery/UIImageView+MHGallery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117498.229816
+e421117498.342411
+r1
+xCompileC
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/UIImageView+MHGallery.o
+x/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/UIImageView+MHGallery/UIImageView+MHGallery.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/UIImageView+MHGallery/UIImageView+MHGallery.m
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/UIImageView+MHGallery/UIImageView+MHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallery/MHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionDismissMHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHUIImageViewContentViewAnimation/MHUIImageViewContentViewAnimation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionPresentMHGallery.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryPresenterImageView/MHPresenterImageView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHCustomization/MHCustomization.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryItem/MHGalleryItem.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGallerySharedManager/MHGallerySharedManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryController/MHGalleryController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHOverviewController/MHOverviewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHGalleryImageViewerViewController/MHGalleryImageViewerViewController.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageManager.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDImageCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowDetail.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/MHMediaPreviewCollectionViewCell/MHMediaPreviewCollectionViewCell.h
+d/Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/Transitions/MHTransitionShowOverView.h
+d/Users/brandon/Desktop/Texan Fence/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"Compile /Users/brandon/Desktop/Texan Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/UIImageView+MHGallery/UIImageView+MHGallery.m347"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/UIImageView+MHGallery.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/UIImageView+MHGallery/UIImageView+MHGallery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8cf83a3abe19b941^22ab573abe19b941^---0#0#1#-19%DVTDocumentLocation2@155"file:///Users/brandon/Desktop/Texan%20Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/UIImageView+MHGallery/UIImageView+MHGallery.m0000000000000000^4232"CompileC /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/UIImageView+MHGallery.o MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/UIImageView+MHGallery/UIImageView+MHGallery.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-aytfhsowvhjewjasgqykjardfttx/Pods-MHVideoPhotoGallery-prefix.pch -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/UIImageView+MHGallery.d --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/UIImageView+MHGallery.dia -c /Users/brandon/Desktop/Texan\ Fence/Pods/MHVideoPhotoGallery/MHVideoPhotoGallery/MMHVideoPhotoGallery/UIImageView+MHGallery/UIImageView+MHGallery.m -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/UIImageView+MHGallery.o36"4C0DB449-F308-4BAF-9EEF-553BE634901C-
+b639F2F5C-CF7E-4750-81B9-5588A49C7B2C
+
+CLibtool /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/libPods-MHVideoPhotoGallery.a normal i386
+s421117498.390434
+e421117498.414354
+r1
+xLibtool
+x/Users/brandon/Desktop/Texan Fence/Build/Products/Debug-iphonesimulator/libPods-MHVideoPhotoGallery.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Libtool /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/libPods-MHVideoPhotoGallery.a normal i386122"Libtool /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/libPods-MHVideoPhotoGallery.a normal i3868410643abe19b941^f5136a3abe19b941^---0#0#1#--1221"Libtool /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/libPods-MHVideoPhotoGallery.a normal i386    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -filelist /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Objects-normal/i386/Pods-MHVideoPhotoGallery.LinkFileList -framework AVFoundation -framework Accelerate -framework CoreMedia -framework Foundation -framework ImageIO -framework MediaPlayer -framework MessageUI -framework QuartzCore -framework Social -o /Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/libPods-MHVideoPhotoGallery.a36"49767A9D-459C-4704-BD0F-296F14A17F10-
+b639F2F5C-CF7E-4750-81B9-5588A49C7B2C
+
+CProcessPCH /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-aytfhsowvhjewjasgqykjardfttx/Pods-MHVideoPhotoGallery-prefix.pch.pch Pods-MHVideoPhotoGallery-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117497.728041
+e421117497.783310
+r1
+xProcessPCH
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-aytfhsowvhjewjasgqykjardfttx/Pods-MHVideoPhotoGallery-prefix.pch.pch
+xPods-MHVideoPhotoGallery-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/Pods-MHVideoPhotoGallery-prefix.pch
+d/Users/brandon/Desktop/Texan Fence/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Precompile Pods-MHVideoPhotoGallery-prefix.pch290"ProcessPCH /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-aytfhsowvhjewjasgqykjardfttx/Pods-MHVideoPhotoGallery-prefix.pch.pch Pods-MHVideoPhotoGallery-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7576ba39be19b941^1a89c839be19b941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/brandon/Desktop/Texan%20Fence/Pods/Pods-MHVideoPhotoGallery-prefix.pch0000000000000000^3962"ProcessPCH /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-aytfhsowvhjewjasgqykjardfttx/Pods-MHVideoPhotoGallery-prefix.pch.pch Pods-MHVideoPhotoGallery-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator -fobjc-arc --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-aytfhsowvhjewjasgqykjardfttx/Pods-MHVideoPhotoGallery-prefix.pch.dia -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-aytfhsowvhjewjasgqykjardfttx/Pods-MHVideoPhotoGallery-prefix.pch.d -c /Users/brandon/Desktop/Texan\ Fence/Pods/Pods-MHVideoPhotoGallery-prefix.pch -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-aytfhsowvhjewjasgqykjardfttx/Pods-MHVideoPhotoGallery-prefix.pch.pch36"3207C535-8932-4619-A934-C0A55AB6595B-
+b639F2F5C-CF7E-4750-81B9-5588A49C7B2C
+
+CProcessPCH /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-dcaivdtncmfptfcwcodrhogmuasw/Pods-MHVideoPhotoGallery-prefix.pch.pch Pods-MHVideoPhotoGallery-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s421117497.728395
+e421117497.764870
+r1
+xProcessPCH
+x/Users/brandon/Desktop/Texan Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-dcaivdtncmfptfcwcodrhogmuasw/Pods-MHVideoPhotoGallery-prefix.pch.pch
+xPods-MHVideoPhotoGallery-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/brandon/Desktop/Texan Fence/Pods/Pods-MHVideoPhotoGallery-prefix.pch
+d/Users/brandon/Desktop/Texan Fence/Pods/Pods-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Precompile Pods-MHVideoPhotoGallery-prefix.pch290"ProcessPCH /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-dcaivdtncmfptfcwcodrhogmuasw/Pods-MHVideoPhotoGallery-prefix.pch.pch Pods-MHVideoPhotoGallery-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler978dba39be19b941^57d1c339be19b941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/brandon/Desktop/Texan%20Fence/Pods/Pods-MHVideoPhotoGallery-prefix.pch0000000000000000^3951"ProcessPCH /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-dcaivdtncmfptfcwcodrhogmuasw/Pods-MHVideoPhotoGallery-prefix.pch.pch Pods-MHVideoPhotoGallery-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/brandon/Desktop/Texan Fence/Pods"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/brandon/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-generated-files.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-own-target-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-all-target-headers.hmap -iquote /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/Pods-MHVideoPhotoGallery-project-headers.hmap -I/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator/include -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders -I/Users/brandon/Desktop/Texan\ Fence/Pods/BuildHeaders/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/MHVideoPhotoGallery -I/Users/brandon/Desktop/Texan\ Fence/Pods/Headers/SDWebImage -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources/i386 -I/Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-MHVideoPhotoGallery.build/DerivedSources -F/Users/brandon/Desktop/Texan\ Fence/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-dcaivdtncmfptfcwcodrhogmuasw/Pods-MHVideoPhotoGallery-prefix.pch.dia -MMD -MT dependencies -MF /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-dcaivdtncmfptfcwcodrhogmuasw/Pods-MHVideoPhotoGallery-prefix.pch.d -c /Users/brandon/Desktop/Texan\ Fence/Pods/Pods-MHVideoPhotoGallery-prefix.pch -o /Users/brandon/Desktop/Texan\ Fence/Build/Intermediates/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-dcaivdtncmfptfcwcodrhogmuasw/Pods-MHVideoPhotoGallery-prefix.pch.pch36"3E7CBB95-9656-48D6-A4E3-BF48D4015054-
+b639F2F5C-CF7E-4750-81B9-5588A49C7B2C
+
+CProcessPCH /Users/brandon/Library/Developer/Xcode/DerivedData/Texan_Fence-gznilkshthrmtjgqryozrfhgfoak/Index/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-fdrlbdizrtwbnnepsrpiylqhwxzi_ast/Pods-MHVideoPhotoGallery-prefix.pch.pch Pods-MHVideoPhotoGallery-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/brandon/Library/Developer/Xcode/DerivedData/Texan_Fence-gznilkshthrmtjgqryozrfhgfoak/Index/PrecompiledHeaders/Pods-MHVideoPhotoGallery-prefix-gddupjhuluaesoasisutjgpsogqc_ast/Pods-MHVideoPhotoGallery-prefix.pch.pch Pods-MHVideoPhotoGallery-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
