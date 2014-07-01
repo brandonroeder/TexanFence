@@ -1,15 +1,30 @@
 PODS:
-  - MHVideoPhotoGallery (1.6):
-    - SDWebImage (~> 3.5.2)
+  - DACircularProgress (2.2.0)
+  - FXForms (1.1.6)
+  - MBProgressHUD (0.8)
+  - MWPhotoBrowser (1.4.0):
+    - DACircularProgress
+    - MBProgressHUD (~> 0.8)
+    - PSTCollectionView (~> 1.2)
+    - SDWebImage (~> 3.5.4)
+  - pop (1.0.6)
+  - PSTCollectionView (1.2.1)
   - SDWebImage (3.5.4):
     - SDWebImage/Core
   - SDWebImage/Core (3.5.4)
 
 DEPENDENCIES:
-  - MHVideoPhotoGallery (~> 1.6)
+  - FXForms
+  - MWPhotoBrowser
+  - pop (~> 1.0)
 
 SPEC CHECKSUMS:
-  MHVideoPhotoGallery: c16655b29c1032729dac673e8d0b414e8515c862
-  SDWebImage: 1a62010700adbba823b621fc217906739dbf6aa5
+  DACircularProgress: 3b41941891a56dc6aa17971f5322a9a38a6f446e
+  FXForms: 9387c60ee6f3e1c75e0f8998012acc1ce0ad8d0a
+  MBProgressHUD: c356980b0cd097f19acec959b49dca5eb8ec31be
+  MWPhotoBrowser: 4efcdb9da34751f97992128a5356f3929d1af537
+  pop: e518794da38942c05255eb64b36d894e70cb4f00
+  PSTCollectionView: a63299550ad566b579479d07cb5e2bf61148686b
+  SDWebImage: 571295c8acbb699505a0f68e54506147c3de9ea7
 
 COCOAPODS: 0.32.1

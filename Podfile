@@ -1,2 +1,5 @@
 platform :ios, '7.1'
-    pod 'MHVideoPhotoGallery', '~> 1.6'
+    pod 'FXForms'
+    pod 'MWPhotoBrowser'
+    pod 'pop', '~> 1.0'
+
