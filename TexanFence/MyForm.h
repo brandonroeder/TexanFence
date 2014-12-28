@@ -15,8 +15,6 @@
 @property (nonatomic, strong) NSString *phone;
 @property (nonatomic, strong) NSString *city;
 @property (nonatomic, strong) NSString *zip;
-@property (nonatomic, strong) NSString *description;
-
-
+@property (nonatomic, strong) NSString *jobDescription;
 
 @end

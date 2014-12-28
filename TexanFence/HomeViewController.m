@@ -7,7 +7,7 @@
 //
 
 #import "HomeViewController.h"
-#import "TLSpringFlowLayout.h"
+#import "SpringLayout.h"
 #import "HomeCollectionViewCell.h"
 #import "HomeDetailViewController.h"
 

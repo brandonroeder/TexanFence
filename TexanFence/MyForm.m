@@ -13,18 +13,18 @@
 
 - (NSDictionary *)phoneField
 {
-    return @{FXFormFieldType: @"number",FXFormFieldTitle: @"Phone:"};
+    return @{FXFormFieldType: FXFormFieldTypeNumber, FXFormFieldTitle: @"Phone:"};
 
 }
 - (NSDictionary *)zipField
 {
-    return @{FXFormFieldType: @"number",FXFormFieldTitle: @"Zip Code:"};
+    return @{FXFormFieldType: FXFormFieldTypeNumber, FXFormFieldTitle: @"Zip Code:"};
     
 }
 
 - (NSDictionary *)descriptionField
 {
-    return @{FXFormFieldType: @"longtext",FXFormFieldTitle: @"Job Description:"};
+    return @{FXFormFieldType: FXFormFieldTypeLongText, FXFormFieldTitle: @"Job Description:"};
     
 }
 
@@ -39,9 +39,5 @@
     return @{FXFormFieldTitle: @"City:"};
     
 }
-
-
-
-
 
 @end

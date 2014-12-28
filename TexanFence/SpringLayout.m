@@ -1,14 +1,12 @@
 //
-//  TLSpringFlowLayout.m
-//  UICollectionView-Spring-Demo
+//  SpringFlowLayout.m
 //
-//  Created by Ash Furrow on 2013-07-31.
-//  Copyright (c) 2013 Teehan+Lax. All rights reserved.
+//  Created by Brandon Roeder on 2014-07-31.
 //
 
-#import "TLSpringFlowLayout.h"
+#import "SpringLayout.h"
 
-@interface TLSpringFlowLayout ()
+@interface SpringLayout ()
 
 /// The dynamic animator used to animate the collection's bounce
 @property (nonatomic, strong, readwrite) UIDynamicAnimator *dynamicAnimator;
@@ -21,7 +19,7 @@
 
 @end
 
-@implementation TLSpringFlowLayout
+@implementation SpringLayout
 
 - (instancetype)init {
     self = [super init];

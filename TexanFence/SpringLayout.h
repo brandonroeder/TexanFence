@@ -1,9 +1,7 @@
 //
-//  TLSpringFlowLayout.h
-//  UICollectionView-Spring-Demo
+//  SpringFlowLayout.h
 //
-//  Created by Ash Furrow on 2013-07-31.
-//  Copyright (c) 2013 Teehan+Lax. All rights reserved.
+//  Created by Brandon Roeder on 2014-07-31.
 //
 
 
@@ -24,7 +22,7 @@
 
 
 /// A UICollectionViewFlowLayout subclass that, when implemented, creates a dynamic / bouncing scroll effect for UICollectionViews.
-@interface TLSpringFlowLayout : UICollectionViewFlowLayout
+@interface SpringLayout : UICollectionViewFlowLayout
 
 
 /// The scrolling resistance factor determines how much bounce / resistance the collection has. A higher number is less bouncy, a lower number is more bouncy. The default is 900.0f.
