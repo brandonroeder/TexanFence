@@ -30,7 +30,7 @@ static NSString * CellIdentifier = @"cellIdentifier";
     
     UIImageView* titleImageView = [[UIImageView alloc] initWithImage:[UIImage imageNamed:@"titlelogo.png"]];
     self.navigationController.navigationBar.topItem.title = @"Home";
-    self.navigationController.navigationBar.topItem.titleView=titleImageView;
+    self.navigationController.navigationBar.topItem.titleView = titleImageView;
     self.navigationController.navigationBar.topItem.rightBarButtonItem = nil;
 }
 
@@ -98,29 +98,29 @@ static NSString * CellIdentifier = @"cellIdentifier";
     UITextView *decksTextView = (UITextView *)[vc.view viewWithTag:93];
     UITextView *customTextView = (UITextView *)[vc.view viewWithTag:94];
 
-    fencingTextView.textColor= [UIColor whiteColor];
-    repairTextView.textColor= [UIColor whiteColor];
-    decksTextView.textColor= [UIColor whiteColor];
-    customTextView.textColor= [UIColor whiteColor];
+    fencingTextView.textColor = [UIColor whiteColor];
+    repairTextView.textColor = [UIColor whiteColor];
+    decksTextView.textColor = [UIColor whiteColor];
+    customTextView.textColor = [UIColor whiteColor];
 
     [self.navigationController pushViewController:vc animated:YES];
 
     if (indexPath.row == 0)
     {
         [vc.view bringSubviewToFront:fencingTextView];
-        vc.navigationItem.title= @"Types of Fencing";
-        repairTextView.text= nil;
-        decksTextView.text= nil;
-        customTextView.text= nil;
+        vc.navigationItem.title = @"Types of Fencing";
+        repairTextView.text = nil;
+        decksTextView.text = nil;
+        customTextView.text = nil;
     }
     
     if (indexPath.row == 1)
     {
         [vc.view bringSubviewToFront:repairTextView];
-        vc.navigationItem.title= @"Repair";
-        fencingTextView.text=nil;
-        decksTextView.text= nil;
-        customTextView.text= nil;
+        vc.navigationItem.title = @"Repair";
+        fencingTextView.text = nil;
+        decksTextView.text = nil;
+        customTextView.text = nil;
 
     }
     if (indexPath.row == 2)
@@ -135,13 +135,11 @@ static NSString * CellIdentifier = @"cellIdentifier";
     {
         vc.navigationItem.title= @"Custom";
         [vc.view bringSubviewToFront:customTextView];
-        fencingTextView.text=nil;
-        repairTextView.text= nil;
-        decksTextView.text= nil;
+        fencingTextView.text = nil;
+        repairTextView.text = nil;
+        decksTextView.text = nil;
     }
-
 }
-
 
 - (UIBarPosition)positionForBar:(id <UIBarPositioning>)bar
 {
