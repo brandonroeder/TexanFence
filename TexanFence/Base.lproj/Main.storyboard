@@ -26,7 +26,7 @@
                                     <constraint firstAttribute="width" constant="600" id="WSk-bK-xDV"/>
                                     <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="600" id="p1e-7t-E3R"/>
                                 </constraints>
-                                <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" id="2Wi-Hs-zkw" customClass="SpringLayout">
+                                <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" id="2Wi-Hs-zkw">
                                     <size key="itemSize" width="600" height="205"/>
                                     <size key="headerReferenceSize" width="0.0" height="0.0"/>
                                     <size key="footerReferenceSize" width="0.0" height="0.0"/>
@@ -232,8 +232,8 @@
                                                         <constraint firstAttribute="width" constant="53" id="7yn-cw-5Xm"/>
                                                     </constraints>
                                                 </imageView>
-                                                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="osP-eh-gIs">
-                                                    <rect key="frame" x="69" y="11" width="246" height="21"/>
+                                                <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="osP-eh-gIs">
+                                                    <rect key="frame" x="69" y="11" width="526" height="21"/>
                                                     <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                     <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
                                                     <nil key="highlightedColor"/>
@@ -291,7 +291,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" translatesAutoresizingMaskIntoConstraints="NO" id="g3o-Qg-2uA">
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" scrollEnabled="NO" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" translatesAutoresizingMaskIntoConstraints="NO" id="g3o-Qg-2uA">
                                 <rect key="frame" x="0.0" y="66" width="600" height="236"/>
                                 <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
                                 <constraints>
@@ -369,7 +369,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="j8s-jR-Iib" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3939.375" y="-2604.9295774647885"/>
+            <point key="canvasLocation" x="2433" y="-2277"/>
         </scene>
         <!--Home Detail View Controller-->
         <scene sceneID="I1t-BS-2mN">
@@ -383,8 +383,8 @@
                         <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" tag="91" contentMode="scaleToFill" fixedFrame="YES" editable="NO" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="AxC-HD-bTe" userLabel="FencingTextView">
-                                <rect key="frame" x="10" y="80" width="299" height="488"/>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" tag="91" contentMode="scaleToFill" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" editable="NO" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="AxC-HD-bTe" userLabel="FencingTextView">
+                                <rect key="frame" x="10" y="25" width="574" height="565"/>
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                 <attributedString key="attributedText">
                                     <fragment>
@@ -497,8 +497,8 @@
                                     </fragment>
                                 </attributedString>
                             </textView>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" tag="92" contentMode="scaleToFill" fixedFrame="YES" editable="NO" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="WQ9-Ce-HSf" userLabel="RepairTextView">
-                                <rect key="frame" x="10" y="80" width="299" height="488"/>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" tag="92" contentMode="scaleToFill" editable="NO" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="WQ9-Ce-HSf" userLabel="RepairTextView">
+                                <rect key="frame" x="10" y="25" width="574" height="565"/>
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                 <attributedString key="attributedText">
                                     <fragment>
@@ -545,8 +545,8 @@ A few signs that your fence might need repairing:
                                 </attributedString>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" tag="93" contentMode="scaleToFill" fixedFrame="YES" editable="NO" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="kLm-he-vJk" userLabel="DecksTextView">
-                                <rect key="frame" x="10" y="80" width="299" height="488"/>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" tag="93" contentMode="scaleToFill" editable="NO" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="kLm-he-vJk" userLabel="DecksTextView">
+                                <rect key="frame" x="10" y="25" width="574" height="565"/>
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                 <attributedString key="attributedText">
                                     <fragment>
@@ -563,8 +563,8 @@ If you want to improve the exterior of your home with a custom built deck, give 
                                 </attributedString>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" tag="94" contentMode="scaleToFill" fixedFrame="YES" editable="NO" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="K69-uG-8dN" userLabel="CustomTextView">
-                                <rect key="frame" x="10" y="80" width="299" height="488"/>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" tag="94" contentMode="scaleToFill" editable="NO" usesAttributedText="YES" translatesAutoresizingMaskIntoConstraints="NO" id="K69-uG-8dN" userLabel="CustomTextView">
+                                <rect key="frame" x="10" y="25" width="574" height="565"/>
                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
                                 <attributedString key="attributedText">
                                     <fragment content="We love doing custom work. ">
@@ -579,10 +579,39 @@ If you want to improve the exterior of your home with a custom built deck, give 
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <color key="tintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="AxC-HD-bTe" firstAttribute="leading" secondItem="WQ9-Ce-HSf" secondAttribute="leading" id="4bh-tc-KRB"/>
+                            <constraint firstItem="AxC-HD-bTe" firstAttribute="bottom" secondItem="WQ9-Ce-HSf" secondAttribute="bottom" id="6Ii-Jq-1nd"/>
+                            <constraint firstItem="AxC-HD-bTe" firstAttribute="top" secondItem="kLm-he-vJk" secondAttribute="top" id="77Y-Dw-tbS"/>
+                            <constraint firstItem="AxC-HD-bTe" firstAttribute="top" secondItem="cxl-wO-50h" secondAttribute="bottom" constant="10" id="B83-Tn-XzM"/>
+                            <constraint firstItem="AxC-HD-bTe" firstAttribute="top" secondItem="cxl-wO-50h" secondAttribute="bottom" constant="5" id="ETE-1B-XOE"/>
+                            <constraint firstItem="AxC-HD-bTe" firstAttribute="top" secondItem="WQ9-Ce-HSf" secondAttribute="top" id="Fbr-sd-Zji"/>
+                            <constraint firstItem="AxC-HD-bTe" firstAttribute="trailing" secondItem="WQ9-Ce-HSf" secondAttribute="trailing" id="IKA-bc-cU5"/>
+                            <constraint firstItem="AxC-HD-bTe" firstAttribute="trailing" secondItem="kLm-he-vJk" secondAttribute="trailing" id="MbA-eM-bxu"/>
+                            <constraint firstItem="AxC-HD-bTe" firstAttribute="bottom" secondItem="K69-uG-8dN" secondAttribute="bottom" id="Ndx-iA-dAN"/>
+                            <constraint firstItem="AxC-HD-bTe" firstAttribute="trailing" secondItem="K69-uG-8dN" secondAttribute="trailing" id="Ni7-O7-Sdj"/>
+                            <constraint firstItem="wGd-mo-8Bh" firstAttribute="top" secondItem="AxC-HD-bTe" secondAttribute="bottom" constant="10" id="Wsq-m8-vQr"/>
+                            <constraint firstItem="AxC-HD-bTe" firstAttribute="leading" secondItem="XsV-sc-bzm" secondAttribute="leadingMargin" constant="-6" id="bcG-3D-Mgf"/>
+                            <constraint firstItem="AxC-HD-bTe" firstAttribute="top" secondItem="cxl-wO-50h" secondAttribute="bottom" constant="60" id="dOv-hB-lHL"/>
+                            <constraint firstItem="AxC-HD-bTe" firstAttribute="leading" secondItem="kLm-he-vJk" secondAttribute="leading" id="hJp-YC-UFS"/>
+                            <constraint firstItem="AxC-HD-bTe" firstAttribute="top" secondItem="K69-uG-8dN" secondAttribute="top" id="q9z-kA-rQU"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="AxC-HD-bTe" secondAttribute="trailing" id="vpJ-dA-UfD"/>
+                            <constraint firstItem="AxC-HD-bTe" firstAttribute="bottom" secondItem="kLm-he-vJk" secondAttribute="bottom" id="wzf-qg-BQT"/>
+                            <constraint firstItem="AxC-HD-bTe" firstAttribute="leading" secondItem="K69-uG-8dN" secondAttribute="leading" id="xUV-Fo-u1G"/>
+                        </constraints>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="B83-Tn-XzM"/>
+                                <exclude reference="dOv-hB-lHL"/>
+                            </mask>
+                        </variation>
                     </view>
                     <navigationItem key="navigationItem" id="q0m-fG-zgb">
                         <barButtonItem key="backBarButtonItem" title="Back" id="RMX-8e-zqg"/>
                     </navigationItem>
+                    <connections>
+                        <outlet property="textView" destination="AxC-HD-bTe" id="Hef-e6-jrI"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Ncq-R6-Pvv" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>

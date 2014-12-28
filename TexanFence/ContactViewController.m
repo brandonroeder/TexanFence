@@ -46,6 +46,8 @@
     self.navigationController.navigationBar.topItem.titleView = nil;
 
     CLLocationCoordinate2D zoomLocation;
+    
+    //coordinates for office
     zoomLocation.latitude = 29.424703;
     zoomLocation.longitude= -95.234193;
     

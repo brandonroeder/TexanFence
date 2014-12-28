@@ -10,6 +10,16 @@
 
 @implementation HomeDetailViewController
 
+- (void)viewDidLoad
+{
+    [super viewDidLoad];
+}
+
+- (void)viewDidLayoutSubviews
+{
+    [self.textView setContentOffset:CGPointZero animated:NO];
+}
+
 - (void) viewWillAppear:(BOOL)animated
 {
     [self.navigationController setNavigationBarHidden:NO animated:YES];
@@ -18,8 +28,6 @@
     self.navigationItem.leftBarButtonItem = backButton;
     backButton.tintColor= [UIColor whiteColor];
     self.view.backgroundColor = [UIColor colorWithRed:0.401 green:0.440 blue:0.446 alpha:1.000];
-
-
 }
 
 - (IBAction)Back

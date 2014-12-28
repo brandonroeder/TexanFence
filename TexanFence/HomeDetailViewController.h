@@ -11,4 +11,7 @@
 @interface HomeDetailViewController : UIViewController
 @property (strong, nonatomic) IBOutlet UILabel *label;
 
+@property (weak, nonatomic) IBOutlet UITextView *textView;
+
+
 @end
