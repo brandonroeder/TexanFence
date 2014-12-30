@@ -15,6 +15,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    
     UIBarButtonItem *doneButton = [[UIBarButtonItem alloc] initWithTitle:@"Send" style:UIBarButtonItemStyleBordered target:self action:@selector(pressedDone:)];
     self.navigationController.navigationBar.topItem.rightBarButtonItem = doneButton;
     [self.doneButton setTintColor:[UIColor whiteColor]];
@@ -22,12 +23,12 @@
     self.formController.tableView = self.tableView;
     self.formController.delegate = self;
     self.formController.form = [[MyForm alloc] init];
-    
 }
 
 - (void)viewWillAppear:(BOOL)animated
 {
     [super viewWillAppear:animated];
+    
     UIBarButtonItem *doneButton = [[UIBarButtonItem alloc] initWithTitle:@"Send" style:UIBarButtonItemStyleBordered target:self action:@selector(pressedDone:)];
     self.navigationController.navigationBar.topItem.title = @"Request a Quote";
     self.navigationController.navigationBar.topItem.rightBarButtonItem = doneButton;

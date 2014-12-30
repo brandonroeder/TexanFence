@@ -10,18 +10,18 @@
 #import "SpringLayout.h"
 #import "HomeCollectionViewCell.h"
 #import "HomeDetailViewController.h"
+#import "Masonry.h"
 
 @implementation HomeViewController
-
-
 
 static NSString * CellIdentifier = @"cellIdentifier";
 
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    
     self.collectionView.backgroundColor = [UIColor colorWithRed:0.401 green:0.440 blue:0.446 alpha:1.000];
-    self.navigationController.navigationBar.topItem.rightBarButtonItem = nil;
+    self.navigationController.navigationBar.topItem.rightBarButtonItem = nil;    
 }
 
 - (void)viewWillAppear:(BOOL)animated
@@ -44,6 +44,7 @@ static NSString * CellIdentifier = @"cellIdentifier";
 - (UICollectionViewCell *)collectionView:(UICollectionView *)collectionView cellForItemAtIndexPath:(NSIndexPath *)indexPath
 {
     HomeCollectionViewCell *cell = [collectionView dequeueReusableCellWithReuseIdentifier:CellIdentifier forIndexPath:indexPath];
+    
     CALayer * layer = [cell layer];
     CALayer *imageLayer= [cell.cellImage layer];
     [layer setShadowOffset:CGSizeMake(0, 2)];
@@ -55,6 +56,7 @@ static NSString * CellIdentifier = @"cellIdentifier";
     [imageLayer setMasksToBounds:YES];
     [imageLayer setShadowPath:[[UIBezierPath bezierPathWithRoundedRect:cell.cellImage.bounds cornerRadius:cell.cellImage.layer.cornerRadius] CGPath]];
     cell.cellText.textColor= [UIColor whiteColor];
+    
     if (indexPath.row == 0)
     {
         cell.cellLabel.text = @"Fencing";
@@ -68,22 +70,20 @@ static NSString * CellIdentifier = @"cellIdentifier";
         cell.cellLabel.text = @"Repair";
         cell.cellText.text = @"We offer fence and gate repairs for commercial and residential clients. Most work can be completed in less than one day";
         cell.cellImage.image = [UIImage imageNamed:@"repairicon.png"];
-
     }
+    
     if (indexPath.row == 2)
     {
         cell.cellLabel.text = @"Decks";
         cell.cellText.text = @"We are custom builders with the goal of creating your dream addition to your home. We are happy to work with the decking material of your choice, including: real wood, Ipe Brazilian hardwood, synthetic and componsite materials.";
         cell.cellImage.image = [UIImage imageNamed:@"decks.jpeg"];
-
     }
+    
     if (indexPath.row == 3)
     {
         cell.cellLabel.text= @"Custom";
         cell.cellText.text = @"We are custom builders with the goal of creating your dream addition to your home. We are happy to work with the decking material of your choice, including: real wood, Ipe Brazilian hardwood, synthetic and componsite materials.";
         cell.cellImage.image = [UIImage imageNamed:@"custom.png"];
-
-
     }
 
     return cell;
@@ -121,7 +121,6 @@ static NSString * CellIdentifier = @"cellIdentifier";
         fencingTextView.text = nil;
         decksTextView.text = nil;
         customTextView.text = nil;
-
     }
     if (indexPath.row == 2)
     {

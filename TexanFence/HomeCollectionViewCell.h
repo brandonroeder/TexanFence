@@ -12,5 +12,6 @@
 @property (strong, nonatomic) IBOutlet UIImageView *cellImage;
 @property (strong, nonatomic) IBOutlet UITextView *cellText;
 @property (strong, nonatomic) IBOutlet UILabel *cellLabel;
+@property (weak, nonatomic) IBOutlet UIButton *cellDetailButton;
 
 @end

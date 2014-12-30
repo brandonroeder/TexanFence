@@ -10,7 +10,6 @@
 
 @interface HomeViewController : UIViewController <UICollectionViewDelegate, UICollectionViewDataSource, UINavigationControllerDelegate>
 @property (strong, nonatomic) IBOutlet UICollectionView *collectionView;
-@property (strong, nonatomic) IBOutlet UIImageView *image;
 @property (strong, nonatomic) UINavigationController *nc;
 
 @end
